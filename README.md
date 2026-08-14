@@ -65,23 +65,23 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
 | pipe.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap                |
-| art.works        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC              |
+| art.builders     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.          |
 | art.construction | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                |
 | road.hair        | available | $1.65     | $15.75        | high           | low    | 4      | namesilo                 |
+| art.works        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC              |
+| art.contractors  | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                |
+| roof.ag          | available | $89       | —             | medium         | low    | 4      | name.com                 |
 | job.style        | resell    | —         | —             | high           | low    | 3      | Dynadot Inc              |
 | for.mobile       | premium   | $2,500    | —             | high           | medium | 3      | name.com                 |
-| roof.ag          | available | $89       | —             | medium         | low    | 4      | name.com                 |
+| roof.locker      | available | $13.25    | $37.99        | medium         | low    | 4      | namesilo                 |
 | job.watch        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC              |
 | home.bio         | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| roof.locker      | available | $13.25    | $37.99        | medium         | low    | 4      | namesilo                 |
+| roof.monster     | available | $1.99     | —             | medium         | low    | 4      | name.com                 |
 | job.world        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC              |
 | real.fun         | premium   | $1,562.50 | —             | high           | medium | 4      | name.com                 |
-| roof.monster     | available | $1.99     | —             | medium         | low    | 4      | name.com                 |
-| city.apartments  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
-| tile.build       | premium   | $1,875    | —             | high           | low    | 4      | name.com                 |
 | tile.builders    | available | $7.99     | —             | high           | low    | 4      | name.com                 |
 | home.directory   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
-| tile.cloud       | premium   | $1,400    | $2,800        | high           | low    | 4      | namecheap                |
+| tile.build       | premium   | $1,875    | —             | high           | low    | 4      | name.com                 |
 | unit.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap                |
 | home.solar       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
 
