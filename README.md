@@ -16,7 +16,7 @@ This selection covers 155,845 one-word construction-related domain names across 
 
 **Public extract:** 1,000 rows · **Live catalog:** 169,025 domains · **Median ask:** $633.99 · **High-demand under $2,500:** 745
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/construction`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| pipe.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap                                                 |
-| art.works        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| art.construction | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                                 |
-| road.hair        | available | $1.65     | $15.75        | high           | low    | 4      | namesilo                                                  |
-| job.style        | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
-| for.mobile       | premium   | $2,500    | —             | high           | medium | 3      | name.com                                                  |
-| roof.ag          | available | $89       | —             | medium         | low    | 4      | name.com                                                  |
-| job.watch        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                               |
-| home.bio         | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG                                  |
-| roof.locker      | available | $13.25    | $37.99        | medium         | low    | 4      | namesilo                                                  |
-| job.world        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                               |
-| real.fun         | premium   | $1,562.50 | —             | high           | medium | 4      | name.com                                                  |
-| roof.monster     | available | $1.99     | —             | medium         | low    | 4      | name.com                                                  |
-| home.directory   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
-| tile.build       | premium   | $1,875    | —             | high           | low    | 4      | name.com                                                  |
-| tile.builders    | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
-| home.solar       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
-| tile.cloud       | premium   | $1,400    | $2,800        | high           | low    | 4      | namecheap                                                 |
-| unit.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap                                                 |
-| real.training    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| air.realty        | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                  |
+| skill.pro         | resell    | $9,752    | $33.99        | high           | medium | 5      | Porkbun LLC                                               |
+| air.build         | premium   | $3,750    | —             | high           | medium | 3      | name.com                                                  |
+| saw.ryukyu        | available | $22.98    | —             | medium         | low    | 3      | namecheap                                                 |
+| trade.pink        | resell    | $31.48    | —             | high           | medium | 5      | GoDaddy.com, LLC                                          |
+| air.builders      | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                                 |
+| base.contractors  | available | $9.99     | —             | medium         | medium | 4      | name.com                                                  |
+| art.builders      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| air.construction  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| real.contractors  | available | $9.99     | —             | high           | medium | 4      | name.com                                                  |
+| for.gg            | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc (https://www.spaceship.com)                |
+| art.construction  | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                                 |
+| room.contractors  | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
+| base.construction | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC                                              |
+| art.contractors   | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                                 |
+| soil.construction | available | $15.99    | $50.99        | high           | low    | 4      | name.com                                                  |
+| home.equipment    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| art.shop          | premium   | $12,500   | —             | high           | medium | 3      | name.com                                                  |
+| tile.archi        | available | $24.99    | —             | high           | low    | 4      | name.com                                                  |
+| home.estate       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Construction Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Construction Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
