@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| dike.contractors   | available | $9.99     | $45.99        | low            | low    | 4      | name.com                                                  |
-| art.builders       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
-| art.construction   | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                                 |
-| pipe.ryukyu        | available | $22.98    | —             | high           | low    | 4      | namecheap                                                 |
-| home.directory     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
-| art.contractors    | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                                 |
-| roof.locker        | available | $13.25    | $37.99        | medium         | low    | 4      | namesilo                                                  |
-| real.training      | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| for.mobile         | premium   | $2,500    | —             | high           | medium | 3      | name.com                                                  |
-| roof.monster       | available | $1.99     | —             | medium         | low    | 4      | name.com                                                  |
-| roof.international | resell    | —         | —             | medium         | low    | 4      | Key-Systems, LLC                                          |
-| home.bio           | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG                                  |
-| tile.builders      | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
-| roof.software      | resell    | —         | —             | medium         | low    | 4      | Key-Systems, LLC                                          |
-| real.fun           | premium   | $1,562.50 | —             | high           | medium | 4      | name.com                                                  |
-| unit.engineering   | available | $10.48    | $85.98        | medium         | low    | 4      | namecheap                                                 |
-| soil.solutions     | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                                               |
-| tile.build         | premium   | $1,875    | —             | high           | low    | 4      | name.com                                                  |
-| wall.ryukyu        | available | $22.98    | —             | high           | low    | 4      | namecheap                                                 |
-| wall.baby          | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar          |
+| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| art.immobilien   | available | $14.99     | —             | high           | medium | 3      | name.com           |
+| home.blue        | resell    | $17,250    | $31.99        | high           | medium | 4      | Spaceship, Inc.    |
+| air.build        | premium   | $3,750     | —             | high           | medium | 3      | name.com           |
+| base.contractors | available | $9.99      | —             | medium         | medium | 4      | name.com           |
+| metal.co         | resell    | $57,498.85 | $48.99        | high           | low    | 5      | NameSilo, LLC      |
+| air.builders     | premium   | $42.90     | $42.90        | high           | medium | 3      | namecheap          |
+| home.car         | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo           |
+| skill.financial  | resell    | $29.99     | —             | high           | medium | 5      | Spaceship, Inc.    |
+| air.construction | premium   | $128.70    | $128.70       | high           | medium | 3      | namecheap          |
+| pipe.builders    | available | $7.99      | —             | high           | low    | 4      | name.com           |
+| skill.pro        | resell    | $9,752     | $33.99        | high           | medium | 5      | Porkbun LLC        |
+| art.apartments   | premium   | $85.80     | $85.80        | high           | medium | 3      | namecheap          |
+| real.archi       | available | $24.99     | —             | high           | medium | 4      | name.com           |
+| trade.online     | resell    | $718,750   | $46.99        | high           | medium | 5      | Namify Domains Inc |
+| art.condos       | premium   | $128.70    | $128.70       | high           | medium | 3      | namecheap          |
+| real.contractors | available | $9.99      | —             | high           | medium | 4      | name.com           |
+| trade.pink       | resell    | $31.48     | —             | high           | medium | 5      | GoDaddy.com, LLC   |
+| art.construction | premium   | $85.80     | $85.80        | high           | medium | 3      | namecheap          |
+| room.contractors | available | $9.99      | —             | high           | low    | 4      | name.com           |
+| concrete.autos   | resell    | $19.98     | —             | high           | low    | 8      | Namecheap          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
