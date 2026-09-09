@@ -14,9 +14,9 @@ This selection covers 155,845 one-word construction-related domain names across 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **177,582 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 177,582 domains · **Median ask:** $610.27 · **High-demand under $2,500:** 730
+**Public extract:** 1,000 rows · **Live catalog:** 177,582 domains · **Median ask:** $610.19 · **High-demand under $2,500:** 730
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/sector/construction`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| air.realty        | available | $109.99   | $299          | high           | medium | 3      | namesilo                 |
-| art.builders      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.          |
-| art.construction  | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                |
-| base.contractors  | available | $9.99     | —             | medium         | medium | 4      | name.com                 |
-| base.construction | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC             |
-| art.contractors   | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                |
-| dike.build        | available | $32.98    | $39.98        | low            | low    | 4      | namecheap                |
-| real.builders     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 35        |
-| art.shop          | premium   | $12,500   | —             | high           | medium | 3      | name.com                 |
-| real.contractors  | available | $9.99     | —             | high           | medium | 4      | name.com                 |
-| real.school       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
-| home.archi        | premium   | $1,875    | —             | high           | medium | 4      | name.com                 |
-| room.contractors  | available | $9.99     | —             | high           | low    | 4      | name.com                 |
-| real.works        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
-| home.bio          | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| soil.construction | available | $15.99    | $50.99        | high           | low    | 4      | name.com                 |
-| roof.software     | resell    | —         | —             | medium         | low    | 4      | Key-Systems, LLC         |
-| real.build        | premium   | $650      | $650          | high           | medium | 4      | namecheap                |
-| tile.builders     | available | $7.99     | —             | high           | low    | 4      | name.com                 |
-| tile.baby         | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.          |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar          |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| art.immobilien    | available | $14.99     | —             | high           | medium | 3      | name.com           |
+| home.blue         | resell    | $17,250    | $31.99        | high           | medium | 4      | Spaceship, Inc.    |
+| air.build         | premium   | $3,750     | —             | high           | medium | 3      | name.com           |
+| base.contractors  | available | $9.99      | —             | medium         | medium | 4      | name.com           |
+| metal.co          | resell    | $57,498.85 | $48.99        | high           | low    | 5      | NameSilo, LLC      |
+| air.builders      | premium   | $42.90     | $42.90        | high           | medium | 3      | namecheap          |
+| pipe.builders     | available | $7.99      | —             | high           | low    | 4      | name.com           |
+| skill.financial   | resell    | $29.99     | —             | high           | medium | 5      | Spaceship, Inc.    |
+| air.construction  | premium   | $128.70    | $128.70       | high           | medium | 3      | namecheap          |
+| real.archi        | available | $24.99     | —             | high           | medium | 4      | name.com           |
+| skill.pro         | resell    | $9,752     | $33.99        | high           | medium | 5      | Porkbun LLC        |
+| art.apartments    | premium   | $85.80     | $85.80        | high           | medium | 3      | namecheap          |
+| real.contractors  | available | $9.99      | —             | high           | medium | 4      | name.com           |
+| trade.online      | resell    | $718,750   | $46.99        | high           | medium | 5      | Namify Domains Inc |
+| art.condos        | premium   | $128.70    | $128.70       | high           | medium | 3      | namecheap          |
+| soil.construction | available | $15.99     | $50.99        | high           | low    | 4      | name.com           |
+| trade.pink        | resell    | $31.48     | —             | high           | medium | 5      | GoDaddy.com, LLC   |
+| art.construction  | premium   | $85.80     | $85.80        | high           | medium | 3      | namecheap          |
+| tile.apartments   | available | $19.99     | —             | high           | low    | 4      | name.com           |
+| concrete.autos    | resell    | $19.98     | —             | high           | low    | 8      | Namecheap          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Construction Domain Names*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Construction Domain Names*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
