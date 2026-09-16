@@ -16,7 +16,7 @@ This selection covers 155,845 one-word construction-related domain names across 
 
 **Public extract:** 1,000 rows · **Live catalog:** 185,072 domains · **Median ask:** $590.59 · **High-demand under $2,500:** 830
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/construction`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar          |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| art.immobilien   | available | $14.99     | —             | high           | medium | 3      | name.com           |
-| home.blue        | resell    | $17,250    | $31.99        | high           | medium | 4      | Spaceship, Inc.    |
-| air.build        | premium   | $3,750     | —             | high           | medium | 3      | name.com           |
-| base.contractors | available | $9.99      | —             | medium         | medium | 4      | name.com           |
-| metal.co         | resell    | $57,498.85 | $48.99        | high           | low    | 5      | NameSilo, LLC      |
-| air.builders     | premium   | $42.90     | $42.90        | high           | medium | 3      | namecheap          |
-| home.auto        | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo           |
-| skill.financial  | resell    | $29.99     | —             | high           | medium | 5      | Spaceship, Inc.    |
-| air.construction | premium   | $128.70    | $128.70       | high           | medium | 3      | namecheap          |
-| home.car         | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo           |
-| skill.pro        | resell    | $9,752     | $33.99        | high           | medium | 5      | Porkbun LLC        |
-| art.apartments   | premium   | $85.80     | $85.80        | high           | medium | 3      | namecheap          |
-| pipe.builders    | available | $7.99      | —             | high           | low    | 4      | name.com           |
-| trade.online     | resell    | $718,750   | $46.99        | high           | medium | 5      | Namify Domains Inc |
-| art.condos       | premium   | $128.70    | $128.70       | high           | medium | 3      | namecheap          |
-| real.archi       | available | $24.99     | —             | high           | medium | 4      | name.com           |
-| trade.pink       | resell    | $31.48     | —             | high           | medium | 5      | GoDaddy.com, LLC   |
-| art.construction | premium   | $85.80     | $85.80        | high           | medium | 3      | namecheap          |
-| real.contractors | available | $9.99      | —             | high           | medium | 4      | name.com           |
-| concrete.autos   | resell    | $19.98     | —             | high           | low    | 8      | Namecheap          |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| design.fashion    | available | —          | —             | high           | medium | 6      | —                |
+| firm.contractors  | available | $9.99      | —             | high           | low    | 4      | name.com         |
+| building.me       | resell    | $28,621.20 | $27.99        | high           | low    | 8      | Spaceship, Inc.  |
+| firm.build        | premium   | $1,875     | —             | high           | low    | 4      | name.com         |
+| heavy.accountants | available | $43.99     | —             | high           | low    | 5      | name.com         |
+| building.net      | resell    | $86,250    | $23.99        | high           | low    | 8      | GoDaddy.com, LLC |
+| heavy.accountant  | premium   | $125       | —             | high           | low    | 5      | name.com         |
+| heavy.ag          | available | $89        | —             | high           | low    | 5      | name.com         |
+| construction.farm | resell    | $49.98     | —             | medium         | low    | 12     | Spaceship, Inc.  |
+| heavy.band        | premium   | $123.75    | —             | high           | low    | 5      | name.com         |
+| heavy.airforce    | available | $134.98    | —             | high           | low    | 5      | namecheap        |
+| heavy.autos       | resell    | —          | —             | high           | low    | 5      | Dynadot LLC      |
+| heavy.bar         | premium   | $393.75    | —             | high           | low    | 5      | name.com         |
+| heavy.apartments  | available | $19.99     | —             | high           | low    | 5      | name.com         |
+| heavy.beer        | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| heavy.boo         | premium   | $161.25    | —             | high           | low    | 5      | name.com         |
+| heavy.archi       | available | $24.99     | —             | high           | low    | 5      | name.com         |
+| heavy.bike        | resell    | —          | —             | high           | low    | 5      | Cronon GmbH      |
+| heavy.build       | premium   | $312.50    | —             | high           | low    | 5      | name.com         |
+| heavy.army        | available | $19.99     | —             | high           | low    | 5      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Construction Domain Names*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Construction Domain Names*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
