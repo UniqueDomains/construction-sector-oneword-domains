@@ -1,10 +1,10 @@
-# One-Word Construction Domain Names (40,833)
+# One-Word Construction Domain Names (36,654)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-40%2C833%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C654%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 155,845 one-word construction-related domain names across 506 TLDs, with a median asking price near $698. Updated daily, it offers a concrete snapshot of pricing and TLD coverage for evaluating options in this niche.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **40,833 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,654 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 40,833 domains · **Median ask:** $370.16 · **High-demand under $2,500:** 128
+**Public extract:** 1,000 rows · **Live catalog:** 36,654 domains · **Median ask:** $320.30 · **High-demand under $2,500:** 110
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/construction`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| roof.locker        | available | $13.25     | $37.99        | high           | low    | 4      | namesilo                                                  |
-| building.me        | resell    | $28,621.20 | $27.99        | high           | low    | 8      | Spaceship, Inc.                                           |
-| real.fun           | premium   | $1,562.50  | —             | high           | medium | 4      | name.com                                                  |
-| roof.monster       | available | $1.99      | —             | high           | low    | 4      | name.com                                                  |
-| building.net       | resell    | $86,250    | $23.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
-| civil.build        | premium   | $1,875     | $1,875        | high           | low    | 5      | name.com                                                  |
-| civil.adult        | available | $69.98     | $166.98       | high           | low    | 5      | namecheap                                                 |
-| construction.farm  | resell    | $49.98     | —             | high           | low    | 12     | Spaceship, Inc.                                           |
-| civil.date         | premium   | $375       | $62.50        | high           | low    | 5      | name.com                                                  |
-| civil.auction      | available | $4.99      | $52.99        | high           | low    | 5      | name.com                                                  |
-| real.training      | resell    | —          | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| civil.dealer       | premium   | $2,015     | $2,600        | high           | low    | 5      | namecheap                                                 |
-| civil.boats        | available | $1.80      | $19.98        | high           | low    | 5      | namecheap                                                 |
-| roof.international | resell    | —          | —             | high           | low    | 4      | Key-Systems, LLC                                          |
-| civil.esq          | premium   | $411.25    | $411.25       | high           | low    | 5      | name.com                                                  |
-| civil.coach        | available | $11.98     | $95.98        | high           | low    | 5      | namecheap                                                 |
-| mosaic.works       | resell    | —          | —             | high           | medium | 6      | Sav.com, LLC - 18                                         |
-| civil.inc          | premium   | $2,015     | $2,600        | high           | low    | 5      | namecheap                                                 |
-| civil.computer     | available | $22.48     | $48.98        | high           | low    | 5      | namecheap                                                 |
-| general.solutions  | resell    | —          | —             | high           | low    | 7      | Spaceship, Inc.                                           |
+| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| builder.accountants | available | $43.99     | —             | high           | low    | 7      | name.com                                                  |
+| building.me         | resell    | $28,621.20 | $27.99        | high           | low    | 8      | Spaceship, Inc.                                           |
+| builder.accountant  | premium   | $116       | $29.50        | high           | low    | 7      | namesilo                                                  |
+| builder.ag          | available | $89        | —             | high           | low    | 7      | name.com                                                  |
+| building.net        | resell    | $86,250    | $23.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
+| builder.art         | premium   | $291.20    | $83.30        | high           | low    | 7      | namesilo                                                  |
+| builder.airforce    | available | $103.99    | $103.99       | high           | low    | 7      | namesilo                                                  |
+| construction.farm   | resell    | $49.98     | —             | high           | low    | 12     | Spaceship, Inc.                                           |
+| builder.build       | premium   | $1,875     | —             | high           | low    | 7      | name.com                                                  |
+| builder.archi       | available | $24.99     | —             | high           | low    | 7      | name.com                                                  |
+| builder.agency      | resell    | —          | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| builder.ceo         | premium   | $499       | —             | high           | low    | 7      | name.com                                                  |
+| builder.army        | available | $19.99     | —             | high           | low    | 7      | name.com                                                  |
+| builder.app         | resell    | —          | —             | high           | low    | 7      | Go China Domains, LLC                                     |
+| builder.cfd         | premium   | $165.12    | $330.24       | high           | low    | 7      | namesilo                                                  |
+| builder.attorney    | available | $62.99     | $62.99        | high           | low    | 7      | namesilo                                                  |
+| builder.at          | resell    | —          | —             | high           | low    | 7      | InterNetX GmbH ( https://nic.at/registrar/80 )            |
+| builder.cloud       | premium   | $250       | —             | high           | low    | 7      | name.com                                                  |
+| builder.auto        | available | $1,999.99  | $2,199        | high           | low    | 7      | namesilo                                                  |
+| builder.blue        | resell    | —          | —             | high           | low    | 7      | Sav.com, LLC - 1                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 40,833 live domains                        |
+| 1,000-row public sample | 36,654 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 128 high-demand names under $2,500         |
+| Basic exported fields   | 110 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
