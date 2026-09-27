@@ -137,7 +137,7 @@ ec58dbcf-fcc5-461d-9bb6-e49c0d691e8d,construction.gratis,available,23.99,23.99,h
 a9c01dae-93e0-46a5-8a8d-0d62b20cb5d3,construction.business,resell,,,high,low,12,"Sav.com, LLC - 20",11/11/2021 13:15,11/11/2026 13:15,26/09/2026 05:12
 b667c63b-e474-4820-a7e5-eb338985c660,construction.juegos,available,478.98,,high,low,12,namecheap,,,
 e1667fab-483e-46b4-81ca-c078d57da48d,construction.to,resell,,,high,low,12,Tonic,06/12/2023 02:27,01/08/2027 00:00,26/09/2026 05:13
-ffd3cdf2-05d4-4823-896a-d8243ff279d5,construction.exchange,premium,46.2,46.2,high,low,12,namecheap,,,
+ffd3cdf2-05d4-4823-896a-d8243ff279d5,construction.exchange,premium,42.9,42.9,high,low,12,namecheap,,,27/09/2026 06:43
 8aa8b2d0-3da5-4114-9076-2625c61d5fdb,construction.software,premium,3250,3250,high,low,12,namecheap,,,
 8a40db5a-ba54-4ccd-bc36-fe8f788fda56,construction.esq,premium,427.7,427.7,high,low,12,namecheap,,,
 7668297e-25c4-4d8f-90c3-6d4a24c5698d,construction.site,premium,1562.5,6250,high,low,12,name.com,,,
@@ -497,7 +497,7 @@ dcce1636-8d2b-494c-98a5-38f83dbaf693,building.loans,premium,1040,1040,high,low,8
 3e42fa20-85ad-42c1-a190-eb5335b52682,building.film,available,65.99,65.99,high,low,8,namesilo,,,
 9a857eaf-df7f-4a0a-b14d-8f42d4eeeed6,building.men,premium,1300,130,high,low,8,namecheap,,,
 518471f2-a331-4a5a-8c4f-f5271e20420d,building.accountants,available,43.99,,high,low,8,name.com,,,
-27e6918a-204c-4264-92f3-ef5576d7507b,architecture.online,available,,,high,high,12,,,,
+27e6918a-204c-4264-92f3-ef5576d7507b,architecture.online,premium,1625,6500,high,high,12,namecheap,,,27/09/2026 06:19
 f3efe3f4-737c-475c-986e-1e33008e447e,building.car,available,1999.99,2199,high,low,8,namesilo,,,
 aca75a1c-d3fc-46ef-a153-70318a0899d2,building.plumbing,available,14.99,,high,low,8,name.com,,,
 99d250c4-e890-4217-86c1-4fead14a7a05,building.promo,available,19.99,,high,low,8,name.com,,,
@@ -545,7 +545,7 @@ a9943ab9-9392-43fe-92d3-49788e293f47,building.biz,resell,,,high,low,8,GoDaddy On
 e309a54f-dcb9-4c12-8dc7-ad1dd39fe36d,building.baby,available,17.99,54.99,high,low,8,namesilo,,,
 c1d2479c-80c0-4b97-af33-9ad56663e935,building.camera,available,21.99,,high,low,8,name.com,,,
 f54f7928-bd99-41be-b0bc-9649b326d062,building.club,premium,1300,16.9,high,low,8,namecheap,,,
-efce0778-8a70-45b7-a989-fdcac96084ec,architecture.gg,available,,,high,high,12,,,,
+efce0778-8a70-45b7-a989-fdcac96084ec,architecture.gg,resell,,,high,high,12,,,,27/09/2026 06:20
 c785999d-31bf-4416-8da5-f9e6490d5e08,building.florist,available,14.99,,high,low,8,name.com,,,
 d967c82c-ccd8-49f6-975d-b644028c9171,building.dealer,premium,2015,2600,high,low,8,namecheap,,,
 35dbbe60-fabb-4a56-9986-c7345656d937,building.vet,available,41.99,41.99,high,low,8,namesilo,,,
@@ -678,7 +678,7 @@ aea70ac2-10e5-497a-b3ea-df40166fc34d,engineering.lawyer,premium,4140,4140,high,l
 f4f4d4de-7dbd-4e7f-b166-ca5ae32b35bb,building.locker,premium,1300,58.5,high,low,8,namecheap,,,
 96c3e97f-dc25-4736-acce-56db7b40ab43,building.tours,available,9.99,,high,low,8,name.com,,,
 17e25385-ceb3-49bf-9b9c-16f9a7970b7a,building.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,
-ef3ce79a-d1ec-44bf-9ade-3d2238a1cd6c,building.faith,premium,6500,130,high,low,8,namecheap,,,
+ef3ce79a-d1ec-44bf-9ade-3d2238a1cd6c,building.faith,premium,6900,116,high,low,8,namesilo,,,27/09/2026 06:58
 02a8bbaa-69ce-4e4c-97ff-bdd2774ee0eb,builder.green,premium,625,,high,low,7,name.com,,,
 2e9e595b-36dc-42de-8dd4-b49d8cfec582,builder.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 5ade2a31-84d9-4b8d-9a0c-3b601043bd63,builder.game,available,309.99,329.99,high,low,7,namesilo,,,
@@ -793,7 +793,6 @@ a6820805-1dd8-405f-b1b9-72385516923c,contractor.villas,available,59.99,59.99,hig
 a52695da-dba3-4485-930c-d07c7aa34dd4,structure.team,resell,,,high,low,9,"Sav.com, LLC - 22",07/12/2025 15:15,07/12/2026 15:15,26/09/2026 09:21
 56bb60d4-5327-452b-a166-5b8e6a1261a9,build.website,resell,,,high,medium,5,Namify Domains Inc,02/04/2019 14:14,02/04/2029 23:59,26/09/2026 04:39
 80ef20ed-5906-42f7-9644-0826e3e9eca1,structure.toys,available,14.98,82.48,high,low,9,namecheap,,,25/09/2026 03:58
-078df796-ac17-431e-a534-6c690ee7fafc,blueprint.expert,available,,,high,high,9,,,,
 9a6626cd-3f93-4c49-ae48-4b56a66ee834,design.run,resell,,,high,medium,6,"DNSPod, Inc.",08/01/2023 15:15,08/01/2027 15:15,26/09/2026 05:30
 30a97c21-fe56-4873-b1ea-57b2a8edb9ac,engineering.free,premium,640,640,high,low,11,namesilo,,,25/09/2026 15:11
 9e5858d0-4135-4b79-84c4-3439ca76dc0e,structure.pub,available,42.98,51.98,high,low,9,namecheap,,,25/09/2026 03:58
@@ -974,7 +973,7 @@ a7aa5fe3-9ef2-4b37-a9e5-cfe3301e3939,build.salon,available,57.99,57.99,high,medi
 c229fde0-2f1c-4e66-a547-405edd18199b,engineering.guide,premium,520,520,high,low,11,namecheap,,,25/09/2026 15:11
 ff411378-26d0-4d72-946d-1357913a9abb,build.reise,available,27.89,97.99,high,medium,5,namesilo,,,24/09/2026 06:26
 e0b03d7e-18a6-4dea-98e6-9e7a4c26b6d1,build.bot,premium,6900,6900,high,medium,5,namesilo,,,24/09/2026 06:26
-a5bf8a5e-8e51-4a3a-a946-fc0f90f0eb25,architecture.site,available,,,high,high,12,,,,
+a5bf8a5e-8e51-4a3a-a946-fc0f90f0eb25,architecture.site,premium,13800,13800,high,high,12,namesilo,,,27/09/2026 06:21
 ab2c5af5-bfee-41cb-9543-77cf328e8321,contractor.party,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 17:45
 8c759057-2128-406b-af00-dd311fc64b85,contractor.foo,premium,76.7,76.7,high,low,10,namecheap,,,24/09/2026 17:45
 bb253953-5e66-41e0-b665-93a940aee235,builder.ngo,premium,62.5,,high,low,7,name.com,,,
@@ -999,3 +998,4 @@ e7265dde-938c-4541-ad08-3300bca119fd,building.forum,available,1.99,,high,low,8,n
 e688a261-34c5-489b-9461-a15db84a8214,contractor.pictures,available,15.49,15.49,high,low,10,namesilo,,,24/09/2026 17:45
 1b6b747b-22a0-433f-b9c8-4e1e6900d9c2,contractor.car,available,1999.99,2199,high,low,10,namesilo,,,24/09/2026 17:45
 3eebf78e-60f9-4ab1-80fd-fef7e64b90a9,development.hiphop,available,25.98,33.98,high,low,11,namecheap,,,23/09/2026 06:51
+cadc13ad-37e0-41d2-921d-85c4d8ea2dbe,contractor.tennis,available,67.98,81.98,high,low,10,namecheap,,,24/09/2026 17:45

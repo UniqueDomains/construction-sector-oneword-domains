@@ -1,10 +1,10 @@
-# One-Word Construction Domain Names (69,007)
+# One-Word Construction Domain Names (70,512)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-69%2C007%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-70%2C512%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 155,845 one-word construction-related domain names across 506 TLDs, with a median asking price near $698. Updated daily, it offers a concrete snapshot of pricing and TLD coverage for evaluating options in this niche.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **69,007 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **70,512 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 69,007 domains · **Median ask:** $437.83 · **High-demand under $2,500:** 213
+**Public extract:** 1,000 rows · **Live catalog:** 70,512 domains · **Median ask:** $431.87 · **High-demand under $2,500:** 289
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/construction`
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| building.faith     | premium   | $6,500    | $130          | high           | low    | 8      | namecheap        |
+| building.faith     | premium   | $6,900    | $116          | high           | low    | 8      | namesilo         |
 | building.company   | resell    | —         | —             | high           | low    | 8      | Spaceship, Inc.  |
 | build.reise        | available | $27.89    | $97.99        | high           | medium | 5      | namesilo         |
 | building.net       | resell    | $86,250   | $23.99        | high           | low    | 8      | GoDaddy.com, LLC |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 69,007 live domains                        |
+| 1,000-row public sample | 70,512 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 213 high-demand names under $2,500         |
+| Basic exported fields   | 289 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
