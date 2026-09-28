@@ -1,10 +1,10 @@
-# One-Word Construction Domain Names (71,973)
+# One-Word Construction Domain Names (74,353)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-71%2C973%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-74%2C353%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 155,845 one-word construction-related domain names across 506 TLDs, with a median asking price near $698. Updated daily, it offers a concrete snapshot of pricing and TLD coverage for evaluating options in this niche.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **71,973 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **74,353 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 71,973 domains · **Median ask:** $421.93 · **High-demand under $2,500:** 291
+**Public extract:** 1,000 rows · **Live catalog:** 74,353 domains · **Median ask:** $410.25 · **High-demand under $2,500:** 280
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/construction`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | build.juegos       | available | $368.98   | $478.98       | high           | medium | 5      | namecheap        |
 | building.net       | resell    | $86,250   | $23.99        | high           | low    | 8      | GoDaddy.com, LLC |
 | build.blog         | premium   | $640      | $2,660        | high           | medium | 5      | namesilo         |
-| design.football    | available | $25.99    | $25.99        | high           | medium | 6      | namesilo         |
+| design.football    | available | $20.90    | $20.90        | high           | medium | 6      | spaceship        |
 | engineering.info   | resell    | $34,385   | $35.99        | high           | low    | 11     | Dynadot Inc      |
 | build.icu          | premium   | $384      | $768          | high           | medium | 5      | namesilo         |
 | design.kaufen      | available | $5.99     | $26.99        | high           | medium | 6      | namesilo         |
@@ -78,12 +78,12 @@ print(df.head())
 | design.kim         | available | $5.98     | $32.98        | high           | medium | 6      | namecheap        |
 | build.contractors  | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
 | design.attorney    | premium   | $4,140    | $4,140        | high           | medium | 6      | namesilo         |
-| design.loans       | available | $17.48    | $144.98       | high           | medium | 6      | namecheap        |
+| design.loans       | available | $20       | $144.98       | high           | medium | 6      | unstoppable      |
 | build.dog          | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
 | design.blackfriday | premium   | $116      | $30.68        | high           | medium | 6      | namesilo         |
-| design.protection  | available | $1,999.99 | $2,049.99     | high           | medium | 6      | namesilo         |
+| design.protection  | available | $2,064.20 | $2,064.20     | high           | medium | 6      | spaceship        |
 | build.land         | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| design.cloud       | premium   | $2,660    | $2,660        | high           | medium | 6      | namesilo         |
+| design.cricket     | premium   | $517.70   | $67.48        | high           | medium | 6      | spaceship        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 71,973 live domains                        |
+| 1,000-row public sample | 74,353 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 291 high-demand names under $2,500         |
+| Basic exported fields   | 280 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Construction Domain Names*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Construction Domain Names*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
