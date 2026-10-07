@@ -1,9 +1,120 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+70415c11-72f0-4f41-a62f-486918a9c756,construction.build,premium,650,650,high,low,12,namecheap,,,03/10/2026 00:58
+2436c3a8-9c82-4889-8231-fdcee0625adc,construction.land,resell,,,high,low,12,Dynadot Inc,24/07/2026 17:00,24/07/2027 17:00,03/10/2026 00:58
+91fa603d-bb4a-4a36-a167-6d3148247f20,construction.estate,resell,,,high,low,12,"Sav.com, LLC",20/06/2026 19:25,20/06/2027 19:25,03/10/2026 00:58
+763f4663-2428-410f-948b-20629d499666,construction.tech,premium,2500.2,3250,high,low,12,unstoppable,,,03/10/2026 00:58
+74538b9c-8429-4c45-abe5-31056c276329,construction.archi,premium,99.5,128.7,high,low,12,unstoppable,,,03/10/2026 00:58
+7b594b56-6cda-46ea-8cd5-cae5a1af5fcc,construction.diy,premium,325,650,high,low,12,namecheap,,,03/10/2026 00:58
+52fb3bbb-731e-46f3-aaf9-30f9611fdc38,construction.glass,premium,118.8,118.8,high,low,12,namesilo,,,03/10/2026 00:58
+6a6583c0-3674-4fd4-83b4-ad9712e2c417,construction.haus,available,10.92,28.04,high,low,12,dynadot,,,03/10/2026 00:58
+1a0e2ec8-c0a7-45f8-a9d1-45e16b3441b2,construction.space,premium,6900,6900,high,low,12,namesilo,,,03/10/2026 00:58
 0208475f-da70-4cdf-bfe5-36bda913bb05,construction.engineering,premium,118.8,118.8,high,low,12,namesilo,,,03/10/2026 00:58
+aec71bc9-9bc0-4c1a-b399-394e8b6e79a6,construction.makeup,available,1.24,13.97,high,low,12,spaceship,,,03/10/2026 00:58
+2b745107-7506-457c-ae99-6116350ff56f,construction.page,premium,249.2,323.7,high,low,12,unstoppable,,,03/10/2026 00:58
+d4242639-e211-458d-b7b5-65fd4accf51a,construction.online,premium,1293.95,5175.2,high,low,12,spaceship,,,03/10/2026 00:58
+b53b38bb-a488-41a1-88f8-8f01e108cd17,construction.codes,premium,400.5,520,high,low,12,unstoppable,,,03/10/2026 00:58
+01475dc4-6e0b-4948-b9b9-6249019ad4af,construction.cool,premium,414.2,414.2,high,low,12,spaceship,,,03/10/2026 00:58
+6b44a837-2997-40b7-8573-c504c5a5cba1,construction.ing,premium,362.45,362.45,high,low,12,spaceship,,,03/10/2026 00:58
+1611829a-c676-4d32-b4f3-45696469859a,construction.market,premium,,,high,low,12,,,,03/10/2026 00:58
+a107f239-fabb-472c-891d-f8560d8bd640,construction.click,premium,72.65,103.7,high,low,12,spaceship,,,03/10/2026 00:58
+95986c06-13cf-4d98-aa2d-257bcae5bfa8,construction.fishing,premium,96,29.5,high,low,12,namesilo,,,03/10/2026 00:58
+0c27b950-064e-4886-86f8-3cf2b7732e1b,construction.trade,premium,2750,110,high,low,12,dynadot,,,03/10/2026 00:58
+fba5a33d-5d5c-4c7b-9be0-042035c0e458,construction.co,resell,,,high,low,12,Dynadot Inc,17/04/2026 12:12,17/04/2027 23:59,03/10/2026 00:58
+a190931c-b656-4656-b7e6-a5c8affb62f5,construction.rsvp,premium,323.7,323.7,high,low,12,namecheap,,,03/10/2026 00:58
+4b1685ea-fe8e-4b9b-a804-ca7ae59a41f4,construction.science,premium,110,27.5,high,low,12,dynadot,,,03/10/2026 00:58
 dcad0363-adbc-454c-9e0d-93444fcf4d60,construction.builders,resell,,,high,low,12,,,,03/10/2026 00:58
+84b556fb-04fb-4ff8-ae5c-0a762cdbef48,construction.holiday,available,51.95,51.95,high,low,12,spaceship,,,03/10/2026 00:58
+74fae7d6-2f5f-4e9c-b218-f91414a2d552,construction.qpon,premium,53.92,23.54,high,low,12,namesilo,,,03/10/2026 00:58
+bc03b7e8-6d6e-483d-bed5-38c76a2ec7d5,construction.how,premium,97.68,97.68,high,low,12,porkbun,,,03/10/2026 00:58
+b1938dcb-5779-4744-b3a0-98806ec93fd0,construction.la,resell,,,high,low,12,"GoDaddy.com, Inc.",24/08/2007 16:23,24/08/2027 23:59,03/10/2026 00:58
+ce70ca89-abbd-4a29-a943-b6409cb1ed59,construction.creditcard,available,125.2,125.2,high,low,12,cloudflare,,,03/10/2026 00:58
+5c79b49d-b8fe-47af-986b-08518a64da5b,construction.nyc,premium,5175.2,26.08,high,low,12,spaceship,,,03/10/2026 00:58
 fb2b4a9b-71c9-433b-8d7a-15f941948f8c,construction.engineer,premium,1035.2,1035.2,high,low,12,spaceship,,,03/10/2026 00:58
+a908e58d-cb75-4064-9a41-314ef79ea60a,construction.cyou,premium,74.75,149.5,high,low,12,namecheap,,,03/10/2026 00:58
+bb146120-ada3-479a-b738-116a49433c4b,construction.surgery,available,42.2,42.2,high,low,12,cloudflare,,,03/10/2026 00:58
+5746c2d7-f020-4bda-86be-b7208c3885a7,construction.kaufen,available,5.99,26.99,high,low,12,namesilo,,,03/10/2026 00:58
+0d92f3db-a93b-442d-842e-5021d518347f,construction.poker,available,5.38,54.02,high,low,12,spaceship,,,03/10/2026 00:58
+c1caf37c-f535-487f-bb66-7f1e844536f1,construction.barcelona,available,25.04,25.04,high,low,12,spaceship,,,03/10/2026 00:58
+ed6cf9c8-3d66-4ecc-be5e-1f844e60d6b8,construction.meme,premium,90.2,117,high,low,12,unstoppable,,,03/10/2026 00:58
+fc6393da-6e98-41cc-ada6-a5c6989bb3eb,construction.melbourne,available,58,58,high,low,12,namesilo,,,03/10/2026 00:58
+33ad1b8f-8a01-4cb3-9119-586490f33a9e,construction.rodeo,available,10.92,10.92,high,low,12,dynadot,,,03/10/2026 00:58
+e41cbc96-0924-4611-8077-cb694abf5e44,construction.blog,premium,517.7,2070.2,high,low,12,spaceship,,,03/10/2026 00:58
+c346440e-8d42-4599-9caf-b4a50d03a39e,construction.fashion,available,26.97,26.97,high,low,12,dynadot,,,03/10/2026 00:58
+0cd48229-345e-46ce-9b42-c2c85ea2dca9,construction.forex,available,10.55,83,high,low,12,spaceship,,,03/10/2026 00:58
+5e75049f-6b42-4d3f-89a1-aec8c62bfaaa,construction.racing,premium,103.7,155.45,high,low,12,spaceship,,,03/10/2026 00:58
+0259f022-0cf1-4754-8be3-17236351ffef,construction.limited,premium,118.8,118.8,high,low,12,namesilo,,,03/10/2026 00:58
+9c1af52f-d5db-4417-bb8e-47a5fbd11ce0,construction.condos,premium,128.7,128.7,high,low,12,namecheap,,,03/10/2026 00:58
+48a8c004-4762-496d-8931-2721974ebbdc,construction.band,available,16.27,25.9,high,low,12,dynadot,,,03/10/2026 00:58
+2c8c28aa-a505-4212-b8ef-92ae3353f2b2,construction.tennis,available,50.2,50.2,high,low,12,cloudflare,,,03/10/2026 00:58
+192d8dcf-5561-4925-b169-ad6c3566f414,construction.hair,available,1.99,17.29,high,low,12,namesilo,,,03/10/2026 00:58
+21785631-ecc6-43bf-8879-dcedc12e8d0b,construction.boo,premium,257.92,257.92,high,low,12,spaceship,,,03/10/2026 00:58
+d629dc48-8acf-483d-804c-0b85b8fa7d49,construction.game,available,279.65,341.75,high,low,12,spaceship,,,03/10/2026 00:58
+1bff3116-a188-4fa1-8d94-9de89906fae8,construction.pet,available,6.41,20.9,high,low,12,spaceship,,,03/10/2026 00:58
+1b7d621b-884c-493a-a675-b6535ee3b5b3,construction.ceo,premium,218.9,218.9,high,low,12,dynadot,,,03/10/2026 00:58
+33ff7b5c-d3d2-4c57-8467-985ed732d065,construction.domains,premium,414.2,414.2,high,low,12,spaceship,,,03/10/2026 00:58
+70797f80-0409-4781-b7c3-0f86e065e553,construction.bar,premium,130.61,186.5,high,low,12,spaceship,,,03/10/2026 00:58
+dd1879b0-704d-48d4-8555-a53e72fd71ea,construction.horse,available,26.08,26.08,high,low,12,spaceship,,,03/10/2026 00:58
+5e9ece6c-4f95-4bd4-b85f-26911c983318,construction.furniture,available,27.99,94.99,high,low,12,namesilo,,,03/10/2026 00:58
+4f4ce471-05c5-4bec-8b68-228a00de1e66,construction.sale,premium,400.5,520,high,low,12,unstoppable,,,03/10/2026 00:58
+c542fad6-3288-48ca-980f-423cadc12799,construction.audio,available,100.2,100.2,high,low,12,cloudflare,,,03/10/2026 00:58
+8fdb66d7-9c5f-4cfb-a6b0-f3572d7f267f,construction.tips,premium,520,520,high,low,12,namecheap,,,03/10/2026 00:58
+55ecf361-675b-4460-bfd2-2490abdeb269,construction.church,available,7.45,46.78,high,low,12,spaceship,,,03/10/2026 00:58
+3b461d12-a99c-4c30-a7e8-8c1e54a02892,construction.reise,available,27.89,97.99,high,low,12,namesilo,,,03/10/2026 00:58
+269dd27f-7120-4408-9812-7607b5454c4e,construction.voyage,available,5.57,48.37,high,low,12,dynadot,,,03/10/2026 00:58
+2fd3a8ff-d1cb-4311-aa92-b003af7d1ec8,construction.tattoo,available,1.75,31.25,high,low,12,spaceship,,,03/10/2026 00:58
+9b761292-7b16-4f99-a50a-05b9d7c94528,construction.irish,available,7,,high,low,12,unstoppable,,,03/10/2026 00:58
+5824b3b6-5c71-47ea-9c06-48a71d4b1dc4,construction.website,premium,625,,high,low,12,name.com,,,03/10/2026 00:58
+0bec8252-9bb4-4416-8bdb-0cd4c4fe2639,construction.jetzt,available,23.99,23.99,high,low,12,namesilo,,,03/10/2026 00:58
+50356f56-f3ad-4505-9038-d996cbcd97b6,construction.lifestyle,premium,550,550,high,low,12,dynadot,,,03/10/2026 00:58
+9cabaeb6-fb18-4a58-b5b3-aca30509ad19,construction.one,premium,640,640,high,low,12,namesilo,,,03/10/2026 00:58
+b20861d2-fc70-451d-8cb6-c65c5f87ca46,construction.games,premium,54.36,108.6,high,low,12,porkbun,,,03/10/2026 00:58
 2d970f0c-2840-464d-a4a6-117959522bc7,construction.rentals,resell,,,high,low,12,"GoDaddy.com, LLC",30/03/2021 00:04,30/03/2027 00:04,03/10/2026 00:58
+a2c3f81c-ffed-4e1b-aa3b-c31f58637e17,construction.bid,resell,,,high,low,12,"NameCheap, Inc.",05/03/2019 05:48,05/03/2035 05:48,03/10/2026 00:58
+b8fb16a8-d1ce-497b-8509-7680a35d4a6f,construction.degree,available,52.99,52.99,high,low,12,namesilo,,,03/10/2026 00:58
+45a1f3d9-65d8-44b8-81de-049368942635,construction.design,resell,,,high,low,12,West263 International Limited,17/05/2015 02:21,17/05/2027 23:59,03/10/2026 00:58
+c500a464-67a7-496e-bec6-15c907494e31,construction.icu,premium,63.25,126.5,high,low,12,dynadot,,,03/10/2026 00:58
+31b7286a-030f-41c7-b990-11ded82c5829,construction.cfd,premium,59.71,119.23,high,low,12,spaceship,,,03/10/2026 00:58
+6cf14348-5f21-4325-8f2c-b465bcdf2b60,construction.florist,available,8.24,26.97,high,low,12,dynadot,,,03/10/2026 00:58
+9771b35d-3f67-4931-861f-d17793aafe0e,construction.guide,premium,440,440,high,low,12,dynadot,,,03/10/2026 00:58
+d4a55bbd-4329-4153-9190-cb0aafef098a,construction.lgbt,available,11.98,93.98,high,low,12,namecheap,,,03/10/2026 00:58
+62482d6d-8e13-447f-b75c-1eb2a4755ca9,construction.film,premium,130,130,high,low,12,namecheap,,,03/10/2026 00:58
+7f68f649-0a4d-40e3-b9f0-377079247e69,construction.school,resell,,,high,low,12,"Xiamen ChinaSource Internet Service Co., Ltd",20/02/2026 15:15,20/02/2027 15:15,03/10/2026 00:58
+e2bcef76-c18a-489f-a8b7-dfea42db3e48,construction.download,available,5.25,6.25,high,low,12,namesilo,,,03/10/2026 00:58
+56164235-afc9-45e9-aaa2-e16a4ac4851c,construction.date,premium,116,29.5,high,low,12,namesilo,,,03/10/2026 00:58
+0612a2f8-5c81-4088-9a15-48d3da7e0b9a,construction.consulting,premium,1300,1300,high,low,12,namecheap,,,03/10/2026 00:58
+349e38a9-e750-4d88-a916-1342236da1ce,construction.vodka,available,33.98,43.98,high,low,12,namecheap,,,03/10/2026 00:58
+3c9184cd-3570-4e96-9273-ea5ebc4cbf16,construction.law,resell,,,high,low,12,101domain GRS Limited,04/02/2020 20:24,04/02/2027 20:24,03/10/2026 00:58
+550c9fd5-d11d-4546-a202-dafc3fa1ebc6,construction.video,premium,103.7,207.2,high,low,12,spaceship,,,03/10/2026 00:58
+df1b1104-2952-4cd2-813a-3467532e5893,construction.fast,premium,640,640,high,low,12,namesilo,,,03/10/2026 00:58
+ffb1761d-de64-4a66-82c2-c5bf45b34fbd,construction.fun,premium,812.5,3250,high,low,12,namecheap,,,03/10/2026 00:58
+b5141886-5e5a-48eb-b31b-f7b43296f842,construction.reviews,premium,102.67,102.67,high,low,12,spaceship,,,03/10/2026 00:58
+555f7389-faf3-4f32-9aff-f022035e16ea,construction.airforce,available,85.82,85.82,high,low,12,dynadot,,,03/10/2026 00:58
+53252778-417d-4225-8916-36ae74163791,construction.srl,premium,54.28,30.68,high,low,12,namesilo,,,03/10/2026 00:58
+a6b69db1-6e2c-40c7-bc59-63fa03788b6b,building.construction,resell,,,high,low,8,Dynadot Inc,09/08/2015 16:00,09/08/2027 16:00,06/10/2026 05:17
 303882c3-2278-42cb-9922-64ebe04cee3c,construction.house,premium,99.5,128.7,high,low,12,unstoppable,,,03/10/2026 00:58
+d889ffcc-2826-41ec-b6dc-695575c9fe3f,construction.vote,available,26.97,75.12,high,low,12,dynadot,,,03/10/2026 00:58
+4c6a1a94-f49b-45e5-bcb3-9c5da48cec02,construction.cab,available,32.99,32.99,high,low,12,namesilo,,,03/10/2026 00:58
+b2a0a52d-0a26-48d9-afe7-8fe696e81a86,construction.now,resell,650,650,high,low,12,namecheap,,,03/10/2026 00:58
+f17e10ca-4769-4cea-9467-d0a92c47e397,construction.kim,available,5.38,18.83,high,low,12,spaceship,,,03/10/2026 00:58
+712370e5-0a88-4320-9779-a8ed03e99b27,construction.ngo,premium,65,32.5,high,low,12,namecheap,,,03/10/2026 00:58
+48bc0c16-ec35-4417-aae0-9809af091d2b,construction.voting,available,1398,1448,high,low,12,namecheap,,,03/10/2026 00:58
+04e9e196-e54f-43e9-bd69-88233faef412,construction.adult,available,95.2,95.2,high,low,12,cloudflare,,,03/10/2026 00:58
+2cf71baf-b1dd-462d-8cb6-c23c81e4c66f,construction.vana,available,2060.25,2060.25,high,low,12,porkbun,,,03/10/2026 00:58
+2029da21-68f7-4ef8-9cac-dc1b148bbb84,construction.food,premium,362.45,517.7,high,low,12,spaceship,,,03/10/2026 00:58
+ef3e8457-9042-4168-8c56-b863b53aa437,construction.guru,resell,,,high,low,12,"Sav.com, LLC - 4",16/07/2026 15:15,16/07/2027 15:15,03/10/2026 00:58
+6e1c3e99-52c4-4a5a-973b-d11faf8cdd86,construction.shoes,premium,78.54,78.54,high,low,12,namesilo,,,03/10/2026 00:58
+a56aad4a-40df-4167-ace4-b17908e2c3b4,construction.coupons,available,2.57,43.77,high,low,12,porkbun,,,03/10/2026 00:58
+256a4f67-e471-4387-be0f-3d35f1d22719,construction.study,premium,1092.18,1092.18,high,low,12,porkbun,,,03/10/2026 00:58
+00e98184-0fef-4594-a1a7-725e9c6fa80b,construction.protection,available,1999.99,2049.99,high,low,12,namesilo,,,03/10/2026 00:58
+b6516668-20de-4230-b1b7-5790e729522b,construction.mov,premium,61.27,61.27,high,low,12,spaceship,,,03/10/2026 00:58
+28c585e7-c715-422c-9c53-b9a699630d2c,construction.rocks,available,3.5,18.41,high,low,12,dynadot,,,03/10/2026 00:58
+e8f6b460-1b54-40a4-83f1-b78176cedd21,construction.bike,available,12.99,38.99,high,low,12,namesilo,,,03/10/2026 00:58
+7528258a-0465-42eb-8700-179eecb3a216,construction.careers,premium,512,512,high,low,12,namesilo,,,03/10/2026 00:58
+4a3e0677-1753-4b8f-9f26-921c29c161c1,construction.money,resell,,,high,low,12,"Sav.com, LLC - 47",04/02/2026 15:16,04/02/2027 15:16,03/10/2026 00:58
+550f91cf-7b2f-4e11-b629-cbe206433f66,construction.review,premium,3250,130,high,low,12,namecheap,,,03/10/2026 00:58
+5212c371-16b9-4b00-8a15-80e5359e4615,construction.sucks,premium,2658.67,2658.67,high,low,12,namesilo,,,03/10/2026 00:58
+551d9be4-18bd-42a1-b129-65ad8c78e2b3,construction.exposed,premium,242,242,high,low,12,namesilo,,,03/10/2026 00:58
+89b8cc75-169c-4324-9cb4-1cb3f3e48a9e,construction.gifts,premium,207.2,207.2,high,low,12,spaceship,,,03/10/2026 00:58
 530b95e1-79e9-4c4c-8811-fb4396690059,construction.cricket,premium,1035.2,103.7,high,low,12,spaceship,,,03/10/2026 00:58
 e92b73f0-a697-4888-b247-c2dcd78bede0,construction.properties,premium,854,854,high,low,12,namesilo,,,03/10/2026 00:58
 61625341-8a50-48e5-b55b-c12d4eb829aa,construction.yoga,available,26.08,26.08,high,low,12,spaceship,,,03/10/2026 00:58
@@ -51,7 +162,6 @@ e25c02d9-237e-41e8-948f-8047f7865bc6,construction.auction,premium,1300,1300,high
 9a6c1615-a3dc-4d5c-9c7c-aacd0bc5e776,construction.plus,resell,,,high,low,12,"Chengdu West Dimension Digital Technology Co., Ltd.",07/04/2017 07:45,07/04/2027 07:45,03/10/2026 00:58
 d0d5de86-2731-4d1d-b45b-d959f2319244,construction.sbs,premium,68.43,147.2,high,low,12,namesilo,,,03/10/2026 00:58
 433fff91-eb59-40f3-b459-7609a63a0ee2,construction.energy,resell,,,high,low,12,"Sav.com, LLC - 18",23/04/2024 15:15,23/04/2027 15:15,03/10/2026 00:58
-70415c11-72f0-4f41-a62f-486918a9c756,construction.build,premium,650,650,high,low,12,namecheap,,,03/10/2026 00:58
 b1e6fd85-144f-4ee7-a250-634bd329ed56,construction.hiv,available,195.99,195.99,high,low,12,namesilo,,,03/10/2026 00:58
 37f03c00-7175-43ce-90ff-5d15676a57d3,construction.tax,resell,,,high,low,12,"GoDaddy.com, LLC",14/01/2019 22:25,14/01/2027 22:25,03/10/2026 00:58
 44892812-b1b8-493e-b352-1951162d36b7,construction.channel,premium,323.7,323.7,high,low,12,namecheap,,,03/10/2026 00:58
@@ -73,6 +183,7 @@ b938fc40-ef82-48d9-ab2d-90d3cea9c431,construction.style,premium,128.7,128.7,high
 5d98651f-a914-413e-88b8-189a283b5d22,construction.vacations,available,31.25,31.25,high,low,12,spaceship,,,03/10/2026 00:58
 23a09d71-0e2d-4f94-bfbd-64f7ff99bf56,construction.wine,available,46.2,46.2,high,low,12,cloudflare,,,03/10/2026 00:58
 d4e08083-1e68-436e-b8fe-82a84b931524,construction.immobilien,premium,118.8,118.8,high,low,12,namesilo,,,03/10/2026 00:58
+2475e42c-cb51-4480-bc48-dea2d3947ff0,building.archi,premium,640,640,high,low,8,namesilo,,,06/10/2026 05:17
 c32d20f2-495b-4953-ad45-083ed98aba2d,construction.industries,premium,207.2,207.2,high,low,12,spaceship,,,03/10/2026 00:58
 970b3c0c-4ff4-45a3-ad88-6375e460c2f4,construction.group,resell,,,high,low,12,"Sav.com, LLC",09/09/2026 13:22,09/09/2027 13:22,03/10/2026 00:58
 cc643a8a-1995-4e6c-a6bf-31acc7f10a34,construction.tv,resell,,,high,low,12,Dynadot Inc,17/12/2012 09:04,17/12/2026 09:04,03/10/2026 00:58
@@ -128,6 +239,8 @@ e8bf9576-64c0-4f35-9d06-d68ec52ce93a,construction.care,premium,400.5,520,high,lo
 254012f9-62e5-49d0-ad07-0f203a173e90,construction.onl,available,3.48,28.98,high,low,12,namecheap,,,03/10/2026 00:58
 1e061dd4-cb9d-4cc6-a4f5-81fbe0f0f596,construction.ink,resell,,,high,low,12,,,,03/10/2026 00:58
 aa796c76-aba3-498c-9db9-01bbac02fed9,construction.dealer,premium,1604.45,2070.2,high,low,12,spaceship,,,03/10/2026 00:58
+0d5cfcc6-8761-40c1-aa62-33a4e7edca39,building.immobilien,available,39.98,43.98,high,low,8,namecheap,,,06/10/2026 05:17
+30a28ab2-11aa-47b8-bdcf-ad039af35237,building.casa,premium,96,11.8,high,low,8,namesilo,,,06/10/2026 05:17
 638fcfd3-3225-4b3c-8674-dea2673af2ce,construction.vin,available,6.98,75.98,high,low,12,namecheap,,,03/10/2026 00:58
 dbba1709-33a5-41dd-845e-85a82ca10ba0,construction.christmas,available,1.24,31.16,high,low,12,spaceship,,,03/10/2026 00:58
 94b517d3-667e-42d0-843d-e590ec8e0ff6,construction.skin,available,1.99,17.29,high,low,12,namesilo,,,03/10/2026 00:58
@@ -136,6 +249,7 @@ a87a5bc0-9465-4787-939d-631816eb8f71,construction.claims,premium,512,512,high,lo
 47c7abe6-f6dc-45c5-8431-7af6d089b031,construction.zone,resell,,,high,low,12,"Sav.com, LLC - 25",19/06/2024 15:15,19/06/2027 15:15,03/10/2026 00:58
 9baaddcd-4c46-4c1a-9f39-2a7c4eb1ff5b,construction.forum,premium,39,130,high,low,12,namecheap,,,03/10/2026 00:58
 0d9085fe-ea9e-4784-95b0-485ddb4a0577,construction.vegas,premium,242,119.94,high,low,12,namesilo,,,03/10/2026 00:58
+1e720f05-6432-471a-b564-531cccfbc5f3,building.condos,premium,118.8,118.8,high,low,8,namesilo,,,06/10/2026 05:17
 01321845-7aa4-49be-8f63-54ebf0d33fbd,construction.flights,available,23.98,75.98,high,low,12,namecheap,,,03/10/2026 00:58
 e3d5e73e-81f2-4a08-925e-e5d201c7a075,construction.wedding,available,26.26,26.26,high,low,12,porkbun,,,03/10/2026 00:58
 319c9360-e41c-43ca-8bb5-e1955e824f81,construction.pink,available,5.89,20.9,high,low,12,spaceship,,,03/10/2026 00:58
@@ -161,841 +275,727 @@ cc92b923-f09f-46f3-ad5f-ff64c4e06e8f,construction.soy,premium,418.6,418.6,high,l
 bdae047e-2c25-44a1-9db5-f0c436456bed,construction.living,premium,362.45,517.7,high,low,12,spaceship,,,03/10/2026 00:58
 534c6252-3842-4f06-aa2f-e4e177556c19,construction.ski,premium,102.67,102.67,high,low,12,spaceship,,,03/10/2026 00:58
 1145f535-2e93-4bee-bc8d-e12f543d3237,construction.tickets,available,359.99,488.88,high,low,12,namesilo,,,03/10/2026 00:58
+4009dcd0-074b-4dcd-b48a-c385d56262c6,building.futbol,available,5.38,13.66,high,low,8,spaceship,,,06/10/2026 05:17
 8cc2fb70-49ea-4f41-a98f-a95adbec7efa,construction.reisen,available,16.99,16.99,high,low,12,porkbun,,,03/10/2026 00:58
 273166c1-ee08-4172-965d-ab5d44abfa28,construction.guitars,available,104.99,114.99,high,low,12,namesilo,,,03/10/2026 00:58
+af75194b-d75b-4732-a4d2-4acb06af9f0e,building.singles,available,26.2,26.2,high,low,8,cloudflare,,,06/10/2026 05:17
+fec67c39-ebbf-442f-81ac-34fee229f937,building.esq,premium,649.2,671.92,high,low,8,unstoppable,,,06/10/2026 05:17
+87a00cba-27bf-4e1f-9920-6328662e0cf2,building.agency,resell,,,high,low,8,"Spaceship, Inc.",21/03/2022 13:15,21/03/2027 13:15,06/10/2026 05:17
+e309a54f-dcb9-4c12-8dc7-ad1dd39fe36d,building.baby,available,50.2,50.2,high,low,8,cloudflare,,,06/10/2026 05:17
+c1d2479c-80c0-4b97-af33-9ad56663e935,building.camera,available,46.78,46.78,high,low,8,spaceship,,,06/10/2026 05:17
 d3775a54-3568-42c7-bf27-90d8dad1efa6,construction.supplies,premium,34.36,34.36,high,low,12,spaceship,,,03/10/2026 00:58
 d99bf37d-3bb8-4948-9fed-3a9c51593252,construction.hosting,available,300.2,300.2,high,low,12,cloudflare,,,03/10/2026 00:58
 8e2cc114-6142-444b-b963-d2d3fdcfebe6,construction.prof,premium,427.7,427.7,high,low,12,namecheap,,,03/10/2026 00:58
+a9943ab9-9392-43fe-92d3-49788e293f47,building.biz,resell,,,high,low,8,GoDaddy Online Services Cayman Islands Ltd.,27/03/2002 09:58,26/03/2027 23:59,06/10/2026 05:17
+c785999d-31bf-4416-8da5-f9e6490d5e08,building.florist,available,32.99,32.99,high,low,8,namesilo,,,06/10/2026 05:17
+35dbbe60-fabb-4a56-9986-c7345656d937,building.vet,available,36.56,36.56,high,low,8,porkbun,,,06/10/2026 05:17
 9e1a2d36-82de-4c35-a8db-97abbbe5fbf6,construction.london,premium,1096.72,27.62,high,low,12,spaceship,,,03/10/2026 00:58
-2436c3a8-9c82-4889-8231-fdcee0625adc,construction.land,resell,,,high,low,12,Dynadot Inc,24/07/2026 17:00,24/07/2027 17:00,03/10/2026 00:58
+f54f7928-bd99-41be-b0bc-9649b326d062,building.club,premium,1107,17.7,high,low,8,namesilo,,,06/10/2026 05:17
+001548eb-ea02-42b7-b019-2c239674732a,building.show,resell,,,high,low,8,"DNSPod, Inc.",19/04/2024 15:15,19/04/2027 15:15,06/10/2026 05:17
 baa0293f-7311-43c8-979a-dad9105e99f3,construction.productions,premium,207.2,207.2,high,low,12,spaceship,,,03/10/2026 00:58
+d967c82c-ccd8-49f6-975d-b644028c9171,building.dealer,premium,1604.45,2070.2,high,low,8,spaceship,,,06/10/2026 05:17
 e779205f-b974-4207-9316-f322e2e08818,construction.associates,premium,200.5,260,high,low,12,unstoppable,,,03/10/2026 00:58
-91fa603d-bb4a-4a36-a167-6d3148247f20,construction.estate,resell,,,high,low,12,"Sav.com, LLC",20/06/2026 19:25,20/06/2027 19:25,03/10/2026 00:58
+f697af71-3c80-4c1e-8cf6-0a3b08168bb3,building.pet,available,14.49,27.59,high,low,8,namesilo,,,06/10/2026 05:17
+88c8dc85-aa82-4317-ac4b-f672650abfa3,building.skin,available,1.54,14.21,high,low,8,porkbun,,,06/10/2026 05:17
+6b9f7926-8316-4150-82b7-6b3cfe64a84d,building.fan,available,6.69,48.92,high,low,8,porkbun,,,06/10/2026 05:17
 8da7bc84-1c02-4126-b363-e691f08841b2,construction.discount,premium,118.8,118.8,high,low,12,namesilo,,,03/10/2026 00:58
+1be128d9-f6f6-4a21-8e24-f79fcb36010f,building.vote,available,20.9,72.65,high,low,8,spaceship,,,06/10/2026 05:17
 9cc85c21-e654-4c77-ac81-deb0bf6e54ef,construction.loans,resell,,,high,low,12,"GoDaddy.com, LLC",28/08/2015 16:00,28/08/2027 16:00,03/10/2026 00:58
+edf4182e-0f06-4bb0-abae-a9227eadf506,building.prof,premium,671.92,671.92,high,low,8,spaceship,,,06/10/2026 05:17
 de8baeb8-b950-4dd2-a489-a5405fff739d,construction.equipment,resell,,,high,low,12,"Sav.com, LLC",17/03/2025 21:28,17/03/2027 21:28,03/10/2026 00:58
-763f4663-2428-410f-948b-20629d499666,construction.tech,premium,2500.2,3250,high,low,12,unstoppable,,,03/10/2026 00:58
-74538b9c-8429-4c45-abe5-31056c276329,construction.archi,premium,99.5,128.7,high,low,12,unstoppable,,,03/10/2026 00:58
+3f19928e-f0e9-4fad-a82b-86bbfceb668e,building.sexy,available,2587.7,2587.7,high,low,8,spaceship,,,06/10/2026 05:17
+f74b43cd-b6d6-425f-a63e-fc784e006e0a,building.lgbt,available,10.81,68.49,high,low,8,porkbun,,,06/10/2026 05:17
+6d4bb62a-68f2-48c5-9693-508dc9fe7a38,building.movie,available,36.56,309.47,high,low,8,porkbun,,,06/10/2026 05:17
+600cd9e6-ea0e-4249-b081-24422a79aa41,building.phd,premium,671.92,671.92,high,low,8,spaceship,,,06/10/2026 05:17
+26f242bc-c7e5-493f-93ee-3957c0e4b43b,building.apartments,available,60.98,72.98,high,low,8,namecheap,,,06/10/2026 05:17
 a386c729-031a-4045-917c-9fcddf77dc51,construction.luxe,available,19.49,19.49,high,low,12,namesilo,,,03/10/2026 00:58
+bd9256f5-2905-4a49-bc8a-c3ae1f058d9e,building.center,resell,,,high,low,8,Dynadot Inc,20/08/2017 08:09,20/08/2027 08:09,06/10/2026 05:17
 2b087150-e95e-4280-a55f-8079727a95db,construction.dentist,available,51.95,51.95,high,low,12,spaceship,,,03/10/2026 00:58
+1ba6f785-eedb-48e8-ba6f-c0571e316e43,building.jetzt,available,18.2,18.2,high,low,8,cloudflare,,,06/10/2026 05:17
 58d5465f-09ca-4523-b38e-c1059205e124,construction.sarl,premium,85.8,85.8,high,low,12,namecheap,,,03/10/2026 00:58
+df8fd8c4-c9cc-46b5-9a41-61528eb5250e,building.hamburg,available,69.98,73.98,high,low,8,namecheap,,,06/10/2026 05:17
 254f48eb-71da-4a6a-bbc8-8511cdd82c1d,construction.football,available,20.9,20.9,high,low,12,spaceship,,,03/10/2026 00:58
+d61b4899-b51e-420e-bb9f-8d7c6d5943eb,building.recipes,available,8.99,77.99,high,low,8,namesilo,,,06/10/2026 05:17
+ab5edd02-003a-41a4-bf4d-1ee097372eed,building.sex,available,51.95,98.53,high,low,8,spaceship,,,06/10/2026 05:17
+63e3c370-d8f2-4a60-8dfa-036ac5414794,building.travel,available,115.2,115.2,high,low,8,cloudflare,,,06/10/2026 05:17
 a1c17bc0-a1aa-4899-bb4c-d3bf0141084e,construction.dating,available,13.06,53.72,high,low,12,dynadot,,,03/10/2026 00:58
+547851f1-8874-411c-a87a-512d2081defd,building.kids,premium,390,23.4,high,low,8,namecheap,,,06/10/2026 05:17
 7bdd8cbb-0dce-489d-a8aa-ee4fe5f7dc46,construction.show,resell,,,high,low,12,"DNSPod, Inc.",10/05/2021 02:45,10/05/2027 02:45,03/10/2026 00:58
+8e4c2acf-ebe1-483d-b79b-5276dcbe6f06,building.gratis,available,21.11,21.11,high,low,8,porkbun,,,06/10/2026 05:17
+479e1fea-9c52-44d6-aaaa-9dbe243801b4,building.republican,available,5.38,26,high,low,8,spaceship,,,06/10/2026 05:17
+1133ccc4-42af-45d6-b266-1e56c97ade53,building.contact,available,12.87,12.87,high,low,8,porkbun,,,06/10/2026 05:17
+397d40e8-0d8a-4742-a4fe-2596394ea75b,building.graphics,available,22.98,31.98,high,low,8,namecheap,,,06/10/2026 05:17
 ec58dbcf-fcc5-461d-9bb6-e49c0d691e8d,construction.gratis,available,18.2,18.2,high,low,12,cloudflare,,,03/10/2026 00:58
 3abfd6a2-d868-4654-9a03-7633038738a6,construction.voto,available,10.92,58,high,low,12,dynadot,,,03/10/2026 00:58
 e1667fab-483e-46b4-81ca-c078d57da48d,construction.to,resell,,,high,low,12,Tonic,06/12/2023 02:27,01/08/2027 00:00,03/10/2026 00:58
+fa9bc08c-ed6d-4082-9a28-224e5b5f2fd1,building.christmas,available,1.24,31.16,high,low,8,spaceship,,,06/10/2026 05:17
+63a02d02-7041-47af-b811-d7772b0c2ebc,building.capital,resell,,,high,low,8,Epik LLC,29/12/2019 09:16,29/12/2026 09:16,06/10/2026 05:17
+a5741e8a-8709-436c-9b28-4495ab293bb9,building.london,premium,116.32,27.97,high,low,8,dynadot,,,06/10/2026 05:17
 ffd3cdf2-05d4-4823-896a-d8243ff279d5,construction.exchange,premium,42.9,42.9,high,low,12,namecheap,,,03/10/2026 00:58
 eb3d48d2-2483-4c6f-b6b5-8482384d631f,construction.soccer,available,20.2,20.2,high,low,12,cloudflare,,,03/10/2026 00:58
+9641962c-8da8-467b-9bee-df4938cd1452,building.bayern,available,31.62,30.8,high,low,8,porkbun,,,06/10/2026 05:17
+02194c20-d3ed-4060-9d29-4d3e73c605cc,building.loan,premium,11000,110,high,low,8,dynadot,,,06/10/2026 05:17
+df170834-95b8-4616-b936-2164691625f5,building.net,resell,86250,23.99,high,low,8,"GoDaddy.com, LLC",16/07/1995 04:00,15/07/2027 04:00,06/10/2026 05:17
 8aa8b2d0-3da5-4114-9076-2625c61d5fdb,construction.software,premium,2750,2750,high,low,12,dynadot,,,03/10/2026 00:58
+20dce466-8e82-40ef-83ec-ff2066923639,building.racing,available,11.99,11.99,high,low,8,namesilo,,,06/10/2026 05:17
 8a40db5a-ba54-4ccd-bc36-fe8f788fda56,construction.esq,premium,340.72,340.72,high,low,12,spaceship,,,03/10/2026 00:58
+02ee7aaf-aca8-4bc9-a7ee-82d6d34f3aea,building.organic,available,17.99,85.99,high,low,8,namesilo,,,06/10/2026 05:17
 02b36eb4-55d3-4e60-bb1b-164b441714b6,construction.rip,available,18.83,18.83,high,low,12,spaceship,,,03/10/2026 00:58
+9ff5e55b-7b89-4bf7-b383-7c05b36cd129,building.dental,available,78.99,78.99,high,low,8,namesilo,,,06/10/2026 05:17
+0f05a8f0-d1bd-4f5e-ac7d-1ae809df0851,building.partners,premium,118.8,118.8,high,low,8,namesilo,,,06/10/2026 05:17
 b7e35fd5-0469-470e-9644-7e1d97b61a42,construction.forsale,premium,414.2,414.2,high,low,12,spaceship,,,03/10/2026 00:58
-7b594b56-6cda-46ea-8cd5-cae5a1af5fcc,construction.diy,premium,325,650,high,low,12,namecheap,,,03/10/2026 00:58
 ec8f2103-aa7b-4b52-8eac-bcda3bcd8aad,construction.moda,available,33.32,33.32,high,low,12,spaceship,,,03/10/2026 00:58
+db898cc8-593b-488e-8908-4b21e1809aae,building.build,premium,1950,1950,high,low,8,namecheap,,,06/10/2026 05:17
+de72a23c-0027-44b3-a968-f16d37a6b20b,building.report,premium,828.2,828.2,high,low,8,spaceship,,,06/10/2026 05:17
 97c36ca5-6468-493c-b5e2-e0dec7817d99,construction.gmbh,available,36.43,36.43,high,low,12,spaceship,,,03/10/2026 00:58
+9ddef3d3-5762-4a1a-b6c3-c806bab465d6,building.mortgage,premium,512,512,high,low,8,namesilo,,,06/10/2026 05:17
+1c61da25-be55-47a1-9b39-90b82e4d085a,building.hiv,available,195.99,195.99,high,low,8,namesilo,,,06/10/2026 05:17
+21faee9e-5ddd-43cd-894a-dea74ce1a2ba,building.boutique,available,5.99,32.99,high,low,8,namesilo,,,06/10/2026 05:17
+e1d027a4-7836-499d-ad91-2d6199f6a612,building.wine,available,46.2,46.2,high,low,8,cloudflare,,,06/10/2026 05:17
 5ef098b8-0788-4f68-b320-b8045147b0c5,construction.farm,resell,49.98,,high,low,12,"Spaceship, Inc.",23/02/2026 08:03,23/02/2027 08:03,03/10/2026 00:58
 94f76c0b-76bd-4d45-ae56-38887bc8964f,construction.family,premium,62.3,62.3,high,low,12,spaceship,,,03/10/2026 00:58
+84880437-57e3-479c-8d34-32e97a23480a,building.hiphop,available,20.9,20.9,high,low,8,spaceship,,,06/10/2026 05:17
 93952a60-3a2c-4a90-b704-d7c99386bdd4,construction.trading,available,16.2,16.2,high,low,12,cloudflare,,,03/10/2026 00:58
 0167fcba-e9ca-453e-a96d-712988a73e97,construction.deal,premium,550,550,high,low,12,dynadot,,,03/10/2026 00:58
 6c306554-637b-4497-8b7b-5e63c71fd7f2,construction.dog,available,50.2,50.2,high,low,12,cloudflare,,,03/10/2026 00:58
+accf6e05-6932-425e-8a2a-e82de87277b6,building.blue,available,19.99,24.99,high,low,8,namesilo,,,06/10/2026 05:17
+c967e577-813d-4794-89ea-b399016f9bae,building.limited,available,28.2,28.2,high,low,8,cloudflare,,,06/10/2026 05:17
 93cfa62f-b308-42cf-a5cf-b1caff91d78f,construction.movie,available,47.99,349.99,high,low,12,namesilo,,,03/10/2026 00:58
 15c5629b-4117-410b-94bc-f5c417510267,construction.dad,premium,272.35,272.35,high,low,12,porkbun,,,03/10/2026 00:58
+6f031ff0-d5b6-4602-a3c0-52d9cd2ca5ab,building.auto,available,1863.2,2064.2,high,low,8,spaceship,,,06/10/2026 05:17
+a7ca98cb-e7ad-43c8-8560-fc95087e61e6,building.sucks,premium,2728.7,2728.7,high,low,8,namecheap,,,06/10/2026 05:17
 1202269e-4afd-49f1-819e-912c6cd3c925,construction.casino,available,14.99,159.99,high,low,12,namesilo,,,03/10/2026 00:58
+e81538c9-dd3f-4bf1-9e30-b974f53d3893,building.observer,premium,828.2,828.2,high,low,8,spaceship,,,06/10/2026 05:17
+cbb7b75b-4a99-43da-9f05-c83f0aa67525,building.diamonds,available,43.67,43.67,high,low,8,spaceship,,,06/10/2026 05:17
 bc97d3e5-56f2-4d48-9f84-4e98ec391dfb,construction.boston,premium,2000.5,,high,low,12,unstoppable,,,03/10/2026 00:58
 07774c6f-188f-44ab-a107-f9d96a29cf7f,construction.cruises,available,44.71,44.71,high,low,12,spaceship,,,03/10/2026 00:58
+d8c257d0-1cba-451c-a51a-1b6dce7dc61a,building.press,premium,550,1100,high,low,8,dynadot,,,06/10/2026 05:17
 3346bf02-2864-46f3-b849-034d4c34c558,construction.storage,available,509.99,529.99,high,low,12,namesilo,,,03/10/2026 00:58
+d9993d1e-8710-4751-a707-f3631fe0900b,building.menu,available,26.97,26.97,high,low,8,dynadot,,,06/10/2026 05:17
+9fc626b7-d123-4cda-b07c-57f3c6e8455d,building.study,premium,103.7,103.7,high,low,8,spaceship,,,06/10/2026 05:17
 18d29b18-7416-4997-9b6e-45d984620718,construction.llc,premium,1107,1107,high,low,12,namesilo,,,03/10/2026 00:58
-52fb3bbb-731e-46f3-aaf9-30f9611fdc38,construction.glass,premium,118.8,118.8,high,low,12,namesilo,,,03/10/2026 00:58
+b07c80d9-7973-4160-9c11-2da4e0a780f7,building.consulting,premium,103.7,207.2,high,low,8,spaceship,,,06/10/2026 05:17
 20079372-84c4-41ad-94a4-9589f62e25af,construction.rehab,premium,220,220,high,low,12,dynadot,,,03/10/2026 00:58
 17da83d2-5fa1-47cd-b7a0-ca30acf926c8,construction.blackfriday,available,128.98,134.98,high,low,12,namecheap,,,03/10/2026 00:58
+bbacdf43-15b6-48eb-afc7-79ab5e9b3c0e,building.jewelry,available,64.99,64.99,high,low,8,namesilo,,,06/10/2026 05:17
 e365b001-8876-4d56-b260-e483396efc8e,construction.fm,available,88.99,88.99,high,low,12,namesilo,,,03/10/2026 00:58
+d7e74ac3-bed5-400f-a75e-7e76b651c95c,building.gmbh,available,46.86,46.86,high,low,8,porkbun,,,06/10/2026 05:17
+355de231-1019-4a79-8882-f17f03e21986,building.clothing,available,10.92,30.18,high,low,8,dynadot,,,06/10/2026 05:17
+557906f3-1cdd-40f7-8f7b-a813bbd56e94,building.gift,available,20.98,23.98,high,low,8,namecheap,,,06/10/2026 05:17
 090ad012-4b55-4342-91ab-b80051dadaaf,construction.love,premium,1811.45,2587.7,high,low,12,spaceship,,,03/10/2026 00:58
-6a6583c0-3674-4fd4-83b4-ad9712e2c417,construction.haus,available,10.92,28.04,high,low,12,dynadot,,,03/10/2026 00:58
+f97cbceb-622d-4b76-9e70-078b287ec596,building.healthcare,available,70.58,70.58,high,low,8,spaceship,,,06/10/2026 05:17
 6e1ce0af-133e-46bd-bd27-850857d3e29f,construction.zip,premium,61.27,61.27,high,low,12,spaceship,,,03/10/2026 00:58
+081c8144-01e2-4b11-b216-998dbafcb1b0,building.company,resell,,,high,low,8,"Spaceship, Inc.",26/06/2015 21:09,26/06/2027 21:09,06/10/2026 05:17
+29483f6e-388f-42b4-9aac-2bb56d45e799,building.media,resell,,,high,low,8,"DNSPod, Inc.",08/06/2021 08:22,08/06/2027 08:22,06/10/2026 05:17
 ced1841a-bbd5-4615-b42b-56dd59ff1d74,construction.attorney,premium,3250,3250,high,low,12,namecheap,,,03/10/2026 00:58
-db898cc8-593b-488e-8908-4b21e1809aae,building.build,premium,1950,1950,high,low,8,namecheap,,,29/09/2026 05:13
 b207d1fa-2134-4e67-92c1-d297d09c38b1,construction.security,available,2000.2,2000.2,high,low,12,cloudflare,,,03/10/2026 00:58
+24a54f3a-29ce-4d0e-9d44-d8f81e41e3ca,building.gallery,available,28.99,28.99,high,low,8,namesilo,,,06/10/2026 05:17
+309315c8-f200-4d54-a540-c85f5f910841,building.flights,available,20.9,46.78,high,low,8,spaceship,,,06/10/2026 05:17
+69967009-4746-4bba-b260-91bf19d8d15c,building.ing,premium,93.35,93.35,high,low,8,spaceship,,,06/10/2026 05:17
 ef482df2-8e45-49b8-bdf4-f268655c26cd,construction.social,resell,,,high,low,12,"Spaceship, Inc.",20/02/2025 15:15,20/02/2027 15:15,03/10/2026 00:58
-1a0e2ec8-c0a7-45f8-a9d1-45e16b3441b2,construction.space,premium,6900,6900,high,low,12,namesilo,,,03/10/2026 00:58
+4f9c5cc3-e4c6-42ee-aca3-71edc9e7c92d,building.cyou,premium,68.43,147.2,high,low,8,namesilo,,,06/10/2026 05:17
 dc70bc2e-4900-43c3-b57c-76bc8d4bdf92,construction.fund,premium,242,242,high,low,12,namesilo,,,03/10/2026 00:58
+155d26a2-9d6a-4cfd-881f-9ffe331dd587,building.tennis,available,51.95,51.95,high,low,8,spaceship,,,06/10/2026 05:17
+772c3263-1c65-4003-9c03-010d8f872f55,building.rent,premium,650,650,high,low,8,namecheap,,,06/10/2026 05:17
 b3aebba4-ff9d-4526-af6e-4b334b8a4bb9,construction.locker,premium,1035.2,31.25,high,low,12,spaceship,,,03/10/2026 00:58
 8f4d5bba-f3bd-4cf6-9140-7dc9c0d48634,construction.uno,premium,2587.7,2587.7,high,low,12,spaceship,,,03/10/2026 00:58
-aec71bc9-9bc0-4c1a-b399-394e8b6e79a6,construction.makeup,available,1.24,13.97,high,low,12,spaceship,,,03/10/2026 00:58
-2b745107-7506-457c-ae99-6116350ff56f,construction.page,premium,249.2,323.7,high,low,12,unstoppable,,,03/10/2026 00:58
-d4242639-e211-458d-b7b5-65fd4accf51a,construction.online,premium,1293.95,5175.2,high,low,12,spaceship,,,03/10/2026 00:58
+284d372f-91c6-4b96-9f35-9a6d19fd0cfd,building.game,available,279.65,341.75,high,low,8,spaceship,,,06/10/2026 05:17
+68c1541d-0845-45ad-95de-4892e16a1aeb,building.nexus,premium,129.2,141.35,high,low,8,unstoppable,,,06/10/2026 05:17
+06a30cba-d7f9-4104-93dd-24d54d59c04e,building.camp,available,6.64,58,high,low,8,dynadot,,,06/10/2026 05:17
+f4f4d4de-7dbd-4e7f-b166-ca5ae32b35bb,building.locker,premium,1035.2,31.25,high,low,8,spaceship,,,06/10/2026 05:17
+96c3e97f-dc25-4736-acce-56db7b40ab43,building.tours,available,48.2,48.2,high,low,8,cloudflare,,,06/10/2026 05:17
+ef3ce79a-d1ec-44bf-9ade-3d2238a1cd6c,building.faith,premium,5175.2,103.7,high,low,8,spaceship,,,06/10/2026 05:17
 77c93f61-dc08-4174-a756-f1010e72f8d7,construction.town,premium,242,242,high,low,12,namesilo,,,03/10/2026 00:58
 91714806-6c7d-4486-a095-f27701a5b61f,construction.help,resell,,,high,low,12,West263 International Limited,07/01/2026 21:49,07/01/2027 23:59,03/10/2026 00:58
+17e25385-ceb3-49bf-9b9c-16f9a7970b7a,building.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,06/10/2026 05:17
 3282d3c3-c85f-4b5c-a63c-970caacd8950,construction.city,resell,,,high,low,12,"Sav.com, LLC - 13",17/06/2024 15:15,17/06/2027 15:15,03/10/2026 00:58
+950e268e-67bc-4507-b75b-b2ae16d9e140,building.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,06/10/2026 05:17
 3d61e649-24a5-45f0-8282-4e98559278aa,construction.salon,available,57.99,57.99,high,low,12,namesilo,,,03/10/2026 00:58
 3bb1f50f-b586-40c6-ad40-a5b83f045465,construction.tienda,available,47.81,47.81,high,low,12,spaceship,,,03/10/2026 00:58
 bf24448f-dc51-421c-ad95-cd261224af58,construction.watch,premium,242,242,high,low,12,namesilo,,,03/10/2026 00:58
 20ee0398-a01e-4c9b-9052-3022956dcd08,construction.hospital,available,45.74,45.74,high,low,12,spaceship,,,03/10/2026 00:58
 eceacbf9-c6de-457c-acd7-b49e8e5efda5,construction.gripe,available,5.38,5.38,high,low,12,spaceship,,,03/10/2026 00:58
-b53b38bb-a488-41a1-88f8-8f01e108cd17,construction.codes,premium,400.5,520,high,low,12,unstoppable,,,03/10/2026 00:58
-01475dc4-6e0b-4948-b9b9-6249019ad4af,construction.cool,premium,414.2,414.2,high,low,12,spaceship,,,03/10/2026 00:58
+90a7856f-e6fc-44a9-a032-0beb3c5e59bc,building.cab,available,32.99,32.99,high,low,8,namesilo,,,06/10/2026 05:17
+85a4224e-2890-496a-8ebe-2f69f07c51f4,building.org,resell,,,high,low,8,"NameCheap, Inc.",19/09/1995 04:00,18/09/2027 04:00,06/10/2026 05:17
 f1522d99-58da-446b-acbb-0b06c802b052,construction.cheap,premium,207.2,207.2,high,low,12,spaceship,,,03/10/2026 00:58
-6b44a837-2997-40b7-8573-c504c5a5cba1,construction.ing,premium,362.45,362.45,high,low,12,spaceship,,,03/10/2026 00:58
 d89eba0a-07a3-4bcc-abe2-dc451378649b,construction.xxx,resell,154.98,,high,low,12,namecheap,,,03/10/2026 00:58
-1611829a-c676-4d32-b4f3-45696469859a,construction.market,premium,,,high,low,12,,,,03/10/2026 00:58
-a107f239-fabb-472c-891d-f8560d8bd640,construction.click,premium,72.65,103.7,high,low,12,spaceship,,,03/10/2026 00:58
-95986c06-13cf-4d98-aa2d-257bcae5bfa8,construction.fishing,premium,96,29.5,high,low,12,namesilo,,,03/10/2026 00:58
-0c27b950-064e-4886-86f8-3cf2b7732e1b,construction.trade,premium,2750,110,high,low,12,dynadot,,,03/10/2026 00:58
-fba5a33d-5d5c-4c7b-9be0-042035c0e458,construction.co,resell,,,high,low,12,Dynadot Inc,17/04/2026 12:12,17/04/2027 23:59,03/10/2026 00:58
-a190931c-b656-4656-b7e6-a5c8affb62f5,construction.rsvp,premium,323.7,323.7,high,low,12,namecheap,,,03/10/2026 00:58
-4b1685ea-fe8e-4b9b-a804-ca7ae59a41f4,construction.science,premium,110,27.5,high,low,12,dynadot,,,03/10/2026 00:58
-84b556fb-04fb-4ff8-ae5c-0a762cdbef48,construction.holiday,available,51.95,51.95,high,low,12,spaceship,,,03/10/2026 00:58
-74fae7d6-2f5f-4e9c-b218-f91414a2d552,construction.qpon,premium,53.92,23.54,high,low,12,namesilo,,,03/10/2026 00:58
-bc03b7e8-6d6e-483d-bed5-38c76a2ec7d5,construction.how,premium,97.68,97.68,high,low,12,porkbun,,,03/10/2026 00:58
-b1938dcb-5779-4744-b3a0-98806ec93fd0,construction.la,resell,,,high,low,12,"GoDaddy.com, Inc.",24/08/2007 16:23,24/08/2027 23:59,03/10/2026 00:58
-ce70ca89-abbd-4a29-a943-b6409cb1ed59,construction.creditcard,available,125.2,125.2,high,low,12,cloudflare,,,03/10/2026 00:58
-5c79b49d-b8fe-47af-986b-08518a64da5b,construction.nyc,premium,5175.2,26.08,high,low,12,spaceship,,,03/10/2026 00:58
-a908e58d-cb75-4064-9a41-314ef79ea60a,construction.cyou,premium,74.75,149.5,high,low,12,namecheap,,,03/10/2026 00:58
-bb146120-ada3-479a-b738-116a49433c4b,construction.surgery,available,42.2,42.2,high,low,12,cloudflare,,,03/10/2026 00:58
-5746c2d7-f020-4bda-86be-b7208c3885a7,construction.kaufen,available,5.99,26.99,high,low,12,namesilo,,,03/10/2026 00:58
-0d92f3db-a93b-442d-842e-5021d518347f,construction.poker,available,5.38,54.02,high,low,12,spaceship,,,03/10/2026 00:58
-c1caf37c-f535-487f-bb66-7f1e844536f1,construction.barcelona,available,25.04,25.04,high,low,12,spaceship,,,03/10/2026 00:58
-ed6cf9c8-3d66-4ecc-be5e-1f844e60d6b8,construction.meme,premium,90.2,117,high,low,12,unstoppable,,,03/10/2026 00:58
-fc6393da-6e98-41cc-ada6-a5c6989bb3eb,construction.melbourne,available,58,58,high,low,12,namesilo,,,03/10/2026 00:58
-33ad1b8f-8a01-4cb3-9119-586490f33a9e,construction.rodeo,available,10.92,10.92,high,low,12,dynadot,,,03/10/2026 00:58
-e41cbc96-0924-4611-8077-cb694abf5e44,construction.blog,premium,517.7,2070.2,high,low,12,spaceship,,,03/10/2026 00:58
-c346440e-8d42-4599-9caf-b4a50d03a39e,construction.fashion,available,26.97,26.97,high,low,12,dynadot,,,03/10/2026 00:58
-0cd48229-345e-46ce-9b42-c2c85ea2dca9,construction.forex,available,10.55,83,high,low,12,spaceship,,,03/10/2026 00:58
-5e75049f-6b42-4d3f-89a1-aec8c62bfaaa,construction.racing,premium,103.7,155.45,high,low,12,spaceship,,,03/10/2026 00:58
-0259f022-0cf1-4754-8be3-17236351ffef,construction.limited,premium,118.8,118.8,high,low,12,namesilo,,,03/10/2026 00:58
-9c1af52f-d5db-4417-bb8e-47a5fbd11ce0,construction.condos,premium,128.7,128.7,high,low,12,namecheap,,,03/10/2026 00:58
-48a8c004-4762-496d-8931-2721974ebbdc,construction.band,available,16.27,25.9,high,low,12,dynadot,,,03/10/2026 00:58
-2c8c28aa-a505-4212-b8ef-92ae3353f2b2,construction.tennis,available,50.2,50.2,high,low,12,cloudflare,,,03/10/2026 00:58
-ad56230c-40a1-4955-af18-846f89d1e813,building.tools,premium,,,high,low,8,,,,29/09/2026 05:13
-a656b525-e412-40c4-8872-8b282cdd7860,building.maison,available,45.74,45.74,high,low,8,spaceship,,,29/09/2026 05:13
-192d8dcf-5561-4925-b169-ad6c3566f414,construction.hair,available,1.99,17.29,high,low,12,namesilo,,,03/10/2026 00:58
-21785631-ecc6-43bf-8879-dcedc12e8d0b,construction.boo,premium,257.92,257.92,high,low,12,spaceship,,,03/10/2026 00:58
-d629dc48-8acf-483d-804c-0b85b8fa7d49,construction.game,available,279.65,341.75,high,low,12,spaceship,,,03/10/2026 00:58
-1bff3116-a188-4fa1-8d94-9de89906fae8,construction.pet,available,6.41,20.9,high,low,12,spaceship,,,03/10/2026 00:58
-1b7d621b-884c-493a-a675-b6535ee3b5b3,construction.ceo,premium,218.9,218.9,high,low,12,dynadot,,,03/10/2026 00:58
-33ff7b5c-d3d2-4c57-8467-985ed732d065,construction.domains,premium,414.2,414.2,high,low,12,spaceship,,,03/10/2026 00:58
-0732189b-e458-4ec0-80a2-7028f01a6e97,building.work,premium,258.95,10.55,high,low,8,spaceship,,,29/09/2026 05:13
-70797f80-0409-4781-b7c3-0f86e065e553,construction.bar,premium,130.61,186.5,high,low,12,spaceship,,,03/10/2026 00:58
-dd1879b0-704d-48d4-8555-a53e72fd71ea,construction.horse,available,26.08,26.08,high,low,12,spaceship,,,03/10/2026 00:58
-5e9ece6c-4f95-4bd4-b85f-26911c983318,construction.furniture,available,27.99,94.99,high,low,12,namesilo,,,03/10/2026 00:58
-4f4ce471-05c5-4bec-8b68-228a00de1e66,construction.sale,premium,400.5,520,high,low,12,unstoppable,,,03/10/2026 00:58
-c542fad6-3288-48ca-980f-423cadc12799,construction.audio,available,100.2,100.2,high,low,12,cloudflare,,,03/10/2026 00:58
-8fdb66d7-9c5f-4cfb-a6b0-f3572d7f267f,construction.tips,premium,520,520,high,low,12,namecheap,,,03/10/2026 00:58
-55ecf361-675b-4460-bfd2-2490abdeb269,construction.church,available,7.45,46.78,high,low,12,spaceship,,,03/10/2026 00:58
-3b461d12-a99c-4c30-a7e8-8c1e54a02892,construction.reise,available,27.89,97.99,high,low,12,namesilo,,,03/10/2026 00:58
-269dd27f-7120-4408-9812-7607b5454c4e,construction.voyage,available,5.57,48.37,high,low,12,dynadot,,,03/10/2026 00:58
-2fd3a8ff-d1cb-4311-aa92-b003af7d1ec8,construction.tattoo,available,1.75,31.25,high,low,12,spaceship,,,03/10/2026 00:58
-9b761292-7b16-4f99-a50a-05b9d7c94528,construction.irish,available,7,,high,low,12,unstoppable,,,03/10/2026 00:58
-5824b3b6-5c71-47ea-9c06-48a71d4b1dc4,construction.website,premium,625,,high,low,12,name.com,,,03/10/2026 00:58
-0bec8252-9bb4-4416-8bdb-0cd4c4fe2639,construction.jetzt,available,23.99,23.99,high,low,12,namesilo,,,03/10/2026 00:58
-50356f56-f3ad-4505-9038-d996cbcd97b6,construction.lifestyle,premium,550,550,high,low,12,dynadot,,,03/10/2026 00:58
-9cabaeb6-fb18-4a58-b5b3-aca30509ad19,construction.one,premium,640,640,high,low,12,namesilo,,,03/10/2026 00:58
-b20861d2-fc70-451d-8cb6-c65c5f87ca46,construction.games,premium,54.36,108.6,high,low,12,porkbun,,,03/10/2026 00:58
-a2c3f81c-ffed-4e1b-aa3b-c31f58637e17,construction.bid,resell,,,high,low,12,"NameCheap, Inc.",05/03/2019 05:48,05/03/2035 05:48,03/10/2026 00:58
-b8fb16a8-d1ce-497b-8509-7680a35d4a6f,construction.degree,available,52.99,52.99,high,low,12,namesilo,,,03/10/2026 00:58
-45a1f3d9-65d8-44b8-81de-049368942635,construction.design,resell,,,high,low,12,West263 International Limited,17/05/2015 02:21,17/05/2027 23:59,03/10/2026 00:58
+d5634be0-aa91-45e3-850b-6a49fcb24b25,building.accountant,available,21.09,21.09,high,low,8,porkbun,,,06/10/2026 05:17
+9a8c8a2d-4f06-4a93-be46-a6dc77b2334d,building.productions,available,5.89,32.29,high,low,8,spaceship,,,06/10/2026 05:17
+8d3e18cd-6ae8-499f-a2ab-291f633812e7,building.solutions,resell,,,high,low,8,Dynadot Inc,09/09/2016 08:00,09/09/2027 08:00,06/10/2026 05:17
+88d4d129-83b4-497c-a3a6-d71026a0f4f4,building.video,available,14.99,36.49,high,low,8,namesilo,,,06/10/2026 05:17
+8d07f37f-6489-4d31-ae4f-406ac6f4032b,building.surf,resell,,,high,low,8,"Spaceship, Inc.",21/11/2025 09:47,21/11/2026 09:47,06/10/2026 05:17
+048e63c3-d2ab-403a-945d-28a50174ff52,building.vana,available,2070.2,2070.2,high,low,8,spaceship,,,06/10/2026 05:17
+265009a2-c120-48c1-acfa-c1e2001993ba,building.rip,available,18.83,18.83,high,low,8,spaceship,,,06/10/2026 05:17
+c01c371b-4c11-451d-809c-d9a52ac2e531,building.ong,premium,55,27.5,high,low,8,dynadot,,,06/10/2026 05:17
+82e451c2-4252-45d7-a79c-bd04beac411e,building.rich,available,94.99,1999,high,low,8,namesilo,,,06/10/2026 05:17
+a5ef2fed-0ddd-4046-a3db-7e9323297802,building.porn,available,53.72,101.87,high,low,8,dynadot,,,06/10/2026 05:17
+fe40a4cd-894d-482b-9580-ba779344e633,building.works,resell,,,high,low,8,Dynadot Inc,20/02/2018 23:19,20/02/2027 23:19,06/10/2026 05:17
+a656b525-e412-40c4-8872-8b282cdd7860,building.maison,available,57.99,57.99,high,low,8,namesilo,,,06/10/2026 05:17
+68e43ebe-8935-4d99-8e88-1cd1799097ca,building.coupons,available,5.99,54.99,high,low,8,namesilo,,,06/10/2026 05:17
+f654da91-c231-4bb8-8793-ee085d1f25b6,building.blackfriday,available,103.7,103.7,high,low,8,spaceship,,,06/10/2026 05:17
+22118060-cd2e-4e60-82f1-79050d926df7,building.tires,available,87.98,110.98,high,low,8,namecheap,,,06/10/2026 05:17
+2b9d2670-93f2-4eac-b909-199e8a8531fe,building.voyage,available,46.78,46.78,high,low,8,spaceship,,,06/10/2026 05:17
+58d46056-31ce-4041-83a9-f0c0e15cc2e2,building.investments,available,100.2,100.2,high,low,8,cloudflare,,,06/10/2026 05:17
+3918f8d7-3e27-4672-8452-6be8cec11a90,building.spot,premium,100.5,116,high,low,8,unstoppable,,,06/10/2026 05:17
+dc492d42-2645-4e49-8128-440a348e1dc1,build.ing,premium,39000,39000,high,low,8,namecheap,,,06/10/2026 05:17
+7ee847e0-2b49-4487-82b3-21b50d19b743,building.bingo,available,41.2,41.2,high,low,8,cloudflare,,,06/10/2026 05:17
+04492b09-341d-4c2d-b04c-93e768a80116,building.hockey,available,61,,high,low,8,unstoppable,,,06/10/2026 05:17
+0732189b-e458-4ec0-80a2-7028f01a6e97,building.work,premium,258.95,10.55,high,low,8,spaceship,,,06/10/2026 05:17
+b80cda8e-f3cf-4673-a1bb-fe7bf75d26cc,building.luxury,available,26,26,high,low,8,spaceship,,,06/10/2026 05:17
+eaacf546-53eb-45d7-81fc-f40885889236,building.you,premium,53.92,53.92,high,low,8,namesilo,,,06/10/2026 05:17
+bca6f1d8-5402-46b9-ab75-f2e7fd9156a0,building.ltd,premium,21.45,42.9,high,low,8,namecheap,,,06/10/2026 05:17
+bf685221-d565-44b1-a550-80130ba29058,building.cars,available,2070,2950,high,low,8,namecheap,,,06/10/2026 05:17
+1d86f356-74ce-49d0-aaf0-1ff9b8d512dd,building.design,premium,2600,2600,high,low,8,namecheap,,,06/10/2026 05:17
+bbc6fda5-f5cf-4cc3-990a-2a2440f9f724,building.meme,premium,150.2,195,high,low,8,unstoppable,,,06/10/2026 05:17
+3969aa97-149b-4c06-9130-2c1381557013,building.fm,available,67.98,87.72,high,low,8,spaceship,,,06/10/2026 05:17
+98d034cd-74aa-4670-82ff-8a8ce45f8c4f,building.fashion,available,26.08,26.08,high,low,8,spaceship,,,06/10/2026 05:17
+d553ff20-15de-4ecc-b08e-96ed6c6e76b4,building.photo,premium,103.7,103.7,high,low,8,spaceship,,,06/10/2026 05:17
+54ade7e6-1899-4c53-a837-31e069c375ae,building.tienda,available,62.98,74.98,high,low,8,namecheap,,,06/10/2026 05:17
+490dbc42-8360-4ceb-a21a-bc799397b08f,building.country,available,2298,2450,high,low,8,namecheap,,,06/10/2026 05:17
+16a0b3f0-898d-4bef-acdf-e669d11543fd,building.guru,resell,,,high,low,8,"Sav.com, LLC - 42",12/02/2025 15:15,12/02/2027 15:15,06/10/2026 05:17
+25e861ea-3b01-4cee-8b36-b9a62a39fd5c,building.pizza,available,17.99,64.99,high,low,8,namesilo,,,06/10/2026 05:17
+8bfdf402-593c-4dc1-ae42-9038953f9bcd,building.creditcard,available,5.66,129.25,high,low,8,porkbun,,,06/10/2026 05:17
+a9138dd1-5202-4fe0-b7df-107a380dcf0b,building.space,premium,1375,5500,high,low,8,dynadot,,,06/10/2026 05:17
+820cbf3b-5685-43f6-9887-1287c76f4a24,building.kiwi,available,21.27,21.27,high,low,8,dynadot,,,06/10/2026 05:17
+7e314ad6-febd-4a58-86fa-bd84d10c4d77,building.autos,available,1.24,13.97,high,low,8,spaceship,,,06/10/2026 05:17
+d5fc6dc9-ae7d-4603-a71b-8cbf44632c8a,building.salon,available,45.74,45.74,high,low,8,spaceship,,,06/10/2026 05:17
+315d0acf-8700-4f3f-ab9c-5f2862bf387e,building.band,available,17.48,39.98,high,low,8,namecheap,,,06/10/2026 05:17
+69c63842-3354-4992-a165-95207d1e3f5e,building.guitars,available,93.35,103.4,high,low,8,spaceship,,,06/10/2026 05:17
+98b5e7e3-6f86-4beb-9f39-d8ec9cf5c600,building.adult,available,95.2,95.2,high,low,8,cloudflare,,,06/10/2026 05:17
+b4c0b5d3-8195-4e69-a42e-773a98692e3e,building.ceo,available,9.99,107.22,high,low,8,dynadot,,,06/10/2026 05:17
+0b0457b8-dc1f-4c79-a060-a3c6509d3e40,building.auction,premium,242,242,high,low,8,namesilo,,,06/10/2026 05:17
+dcd6b949-5a79-4b7c-b068-9f1073a6dae9,building.miami,premium,2660,21.24,high,low,8,namesilo,,,06/10/2026 05:17
+0797e1c3-5835-4661-afe4-1534908fdb3c,building.pw,resell,3.99,24.49,high,low,8,"GoDaddy.com, LLC",28/05/2026 02:24,28/05/2027 02:24,06/10/2026 05:17
+c19ef4c7-08ff-4160-9f53-6f13646670d1,building.rest,available,1.54,26.26,high,low,8,porkbun,,,06/10/2026 05:17
+3a83b74a-04be-46f2-a796-a4d2a70a96f3,building.health,resell,,,high,low,8,Dynadot Inc,13/02/2026 00:00,13/02/2027 00:00,06/10/2026 05:17
+3379cd46-2cb7-4f32-80aa-1ab4d80e6381,building.dance,available,16.99,27.49,high,low,8,namesilo,,,06/10/2026 05:17
+e7265dde-938c-4541-ad08-3300bca119fd,building.forum,available,1.24,31.16,high,low,8,spaceship,,,06/10/2026 05:17
+1a73f521-05c2-49e8-b1e5-b059a9a7b2ce,building.soy,premium,418.6,418.6,high,low,8,namecheap,,,06/10/2026 05:17
+dd3b8886-41a2-4280-a00f-eb783b13afeb,building.audio,available,93.35,103.4,high,low,8,spaceship,,,06/10/2026 05:17
+f78fc689-4068-47fb-8419-3c3a026c61db,building.how,premium,89.2,97.9,high,low,8,unstoppable,,,06/10/2026 05:17
+8e2e8612-48ca-43ef-a970-554cbac37da2,building.gifts,available,28.2,28.2,high,low,8,cloudflare,,,06/10/2026 05:17
+aebb031d-714c-440b-8268-1d6176536b27,building.vodka,available,32.49,32.49,high,low,8,namesilo,,,06/10/2026 05:17
+356a6077-52a8-43a2-a6ae-e978e26259aa,building.mx,resell,,,high,low,8,GoDaddy.com,19/12/2009 00:00,18/12/2026 00:00,06/10/2026 05:17
+e1e2b478-8ad5-40a5-9ce3-c72f2e352f9a,builder.build,premium,1552.7,1552.7,high,low,7,spaceship,,,06/10/2026 05:14
+d5089dd3-6955-4371-9a62-f3d564e799c4,building.irish,available,7.49,22.49,high,low,8,namesilo,,,06/10/2026 05:17
+61357dfa-bf03-4fe4-9892-f2ac686197af,building.cc,resell,,,high,low,8,"NameSilo, LLC",21/07/2005 16:14,21/07/2027 16:14,06/10/2026 05:17
+cfae5e51-b034-45ed-9c34-3d5f498f7b7c,building.cooking,available,25.2,25.2,high,low,8,cloudflare,,,06/10/2026 05:17
+f8664fb5-aa83-4976-bc0b-4fedc0200688,building.download,premium,5500,110,high,low,8,dynadot,,,06/10/2026 05:17
+81f5cb32-3664-4b63-a9d0-79b97076e893,architecture.homes,resell,,,high,low,12,"GoDaddy.com, LLC",19/12/2021 05:26,19/12/2027 23:59,05/10/2026 17:09
+d703396c-f674-40f0-8c7f-44ecf74095cf,building.moda,available,32.2,32.2,high,low,8,cloudflare,,,06/10/2026 05:17
 d8186b0d-58e9-44d1-9011-c82367db7c37,architecture.builders,premium,78.54,78.54,high,low,12,namesilo,,,05/10/2026 17:09
-a9138dd1-5202-4fe0-b7df-107a380dcf0b,building.space,premium,1375,5500,high,low,8,dynadot,,,29/09/2026 05:13
-c500a464-67a7-496e-bec6-15c907494e31,construction.icu,premium,63.25,126.5,high,low,12,dynadot,,,03/10/2026 00:58
-3379cd46-2cb7-4f32-80aa-1ab4d80e6381,building.dance,available,16.99,27.49,high,low,8,namesilo,,,29/09/2026 05:13
-e7265dde-938c-4541-ad08-3300bca119fd,building.forum,available,1.8,49.98,high,low,8,namecheap,,,29/09/2026 05:13
-31b7286a-030f-41c7-b990-11ded82c5829,construction.cfd,premium,59.71,119.23,high,low,12,spaceship,,,03/10/2026 00:58
-6cf14348-5f21-4325-8f2c-b465bcdf2b60,construction.florist,available,8.24,26.97,high,low,12,dynadot,,,03/10/2026 00:58
-1a73f521-05c2-49e8-b1e5-b059a9a7b2ce,building.soy,premium,309.67,309.67,high,low,8,spaceship,,,29/09/2026 05:13
-9771b35d-3f67-4931-861f-d17793aafe0e,construction.guide,premium,440,440,high,low,12,dynadot,,,03/10/2026 00:58
-dd3b8886-41a2-4280-a00f-eb783b13afeb,building.audio,available,107.22,107.22,high,low,8,dynadot,,,29/09/2026 05:13
-61357dfa-bf03-4fe4-9892-f2ac686197af,building.cc,resell,,,high,low,8,"NameSilo, LLC",21/07/2005 16:14,21/07/2027 16:14,29/09/2026 05:13
-f78fc689-4068-47fb-8419-3c3a026c61db,building.how,premium,97.9,97.9,high,low,8,dynadot,,,29/09/2026 05:13
-d4a55bbd-4329-4153-9190-cb0aafef098a,construction.lgbt,available,11.98,93.98,high,low,12,namecheap,,,03/10/2026 00:58
-62482d6d-8e13-447f-b75c-1eb2a4755ca9,construction.film,premium,130,130,high,low,12,namecheap,,,03/10/2026 00:58
-7f68f649-0a4d-40e3-b9f0-377079247e69,construction.school,resell,,,high,low,12,"Xiamen ChinaSource Internet Service Co., Ltd",20/02/2026 15:15,20/02/2027 15:15,03/10/2026 00:58
-356a6077-52a8-43a2-a6ae-e978e26259aa,building.mx,resell,,,high,low,8,GoDaddy.com,19/12/2009 00:00,18/12/2026 00:00,29/09/2026 05:13
-e2bcef76-c18a-489f-a8b7-dfea42db3e48,construction.download,available,5.25,6.25,high,low,12,namesilo,,,03/10/2026 00:58
-8e2e8612-48ca-43ef-a970-554cbac37da2,building.gifts,available,38.48,47.48,high,low,8,namecheap,,,29/09/2026 05:13
-56164235-afc9-45e9-aaa2-e16a4ac4851c,construction.date,premium,116,29.5,high,low,12,namesilo,,,03/10/2026 00:58
-aebb031d-714c-440b-8268-1d6176536b27,building.vodka,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 05:13
-0612a2f8-5c81-4088-9a15-48d3da7e0b9a,construction.consulting,premium,1300,1300,high,low,12,namecheap,,,03/10/2026 00:58
-349e38a9-e750-4d88-a916-1342236da1ce,construction.vodka,available,33.98,43.98,high,low,12,namecheap,,,03/10/2026 00:58
-3c9184cd-3570-4e96-9273-ea5ebc4cbf16,construction.law,resell,,,high,low,12,101domain GRS Limited,04/02/2020 20:24,04/02/2027 20:24,03/10/2026 00:58
-550c9fd5-d11d-4546-a202-dafc3fa1ebc6,construction.video,premium,103.7,207.2,high,low,12,spaceship,,,03/10/2026 00:58
-d5089dd3-6955-4371-9a62-f3d564e799c4,building.irish,available,17.2,17.2,high,low,8,cloudflare,,,29/09/2026 05:13
-df1b1104-2952-4cd2-813a-3467532e5893,construction.fast,premium,640,640,high,low,12,namesilo,,,03/10/2026 00:58
-b7f8fc3e-89b9-4337-a26d-0fdb27610199,building.social,resell,,,high,low,8,"Sav.com, LLC",13/01/2021 08:20,13/01/2027 08:20,29/09/2026 05:13
-cfae5e51-b034-45ed-9c34-3d5f498f7b7c,building.cooking,available,32.49,32.49,high,low,8,namesilo,,,29/09/2026 05:13
-f8664fb5-aa83-4976-bc0b-4fedc0200688,building.download,premium,5500,110,high,low,8,dynadot,,,29/09/2026 05:13
-ffb1761d-de64-4a66-82c2-c5bf45b34fbd,construction.fun,premium,812.5,3250,high,low,12,namecheap,,,03/10/2026 00:58
-d703396c-f674-40f0-8c7f-44ecf74095cf,building.moda,available,10.81,33.47,high,low,8,porkbun,,,29/09/2026 05:13
-4dbf06df-87cb-4fc8-91d3-9a1f3bb5c1e4,building.gives,available,11.99,23.01,high,low,8,dynadot,,,29/09/2026 05:13
-b5141886-5e5a-48eb-b31b-f7b43296f842,construction.reviews,premium,102.67,102.67,high,low,12,spaceship,,,03/10/2026 00:58
-555f7389-faf3-4f32-9aff-f022035e16ea,construction.airforce,available,85.82,85.82,high,low,12,dynadot,,,03/10/2026 00:58
-53252778-417d-4225-8916-36ae74163791,construction.srl,premium,54.28,30.68,high,low,12,namesilo,,,03/10/2026 00:58
-d4953791-ce57-41b0-b60b-526839dca2b5,building.guide,resell,,,high,low,8,"Spaceship, Inc.",18/09/2014 15:48,18/09/2027 15:48,29/09/2026 05:13
-22a03bc1-ef90-4b84-b1d8-a47b823b792a,building.bike,available,12,,high,low,8,unstoppable,,,29/09/2026 05:13
-7d216ca5-fee2-43db-bffa-3c4b576f0844,building.group,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",24/08/2020 08:09,24/08/2027 08:09,29/09/2026 05:13
-260d74e2-9b3b-4a2c-ab18-b80121035982,building.town,premium,207.2,207.2,high,low,8,spaceship,,,29/09/2026 05:13
-d889ffcc-2826-41ec-b6dc-695575c9fe3f,construction.vote,available,26.97,75.12,high,low,12,dynadot,,,03/10/2026 00:58
-4c6a1a94-f49b-45e5-bcb3-9c5da48cec02,construction.cab,available,32.99,32.99,high,low,12,namesilo,,,03/10/2026 00:58
-b2a0a52d-0a26-48d9-afe7-8fe696e81a86,construction.now,resell,650,650,high,low,12,namecheap,,,03/10/2026 00:58
-438a4e93-0971-410d-b4e9-a39d2ff8ac0c,building.luxe,premium,5520,17.7,high,low,8,namesilo,,,29/09/2026 05:13
-f17e10ca-4769-4cea-9467-d0a92c47e397,construction.kim,available,5.38,18.83,high,low,12,spaceship,,,03/10/2026 00:58
-1276079a-5daf-45b7-aaa8-2c50376e967b,building.properties,premium,68.51,68.51,high,low,8,spaceship,,,29/09/2026 05:13
-d8015c4f-8d2f-4482-8b78-0a84e617982e,building.juegos,available,368.98,478.98,high,low,8,namecheap,,,29/09/2026 05:13
-377d3a31-9ca4-43fb-bbce-b8f4b535c2b4,building.vip,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",18/08/2019 22:50,18/08/2027 22:50,29/09/2026 05:13
-a9970902-29e3-4e4f-a8a0-95234025a1b1,building.review,premium,6500,130,high,low,8,namecheap,,,29/09/2026 05:13
-d38cb5cd-f67e-4cb8-9b93-b240cb9fd8f6,building.boats,resell,,,high,low,8,Dynadot Inc,04/02/2026 00:35,04/02/2027 23:59,29/09/2026 05:13
-4d59bb16-40bd-47d3-905a-f2d440b323fa,building.immo,resell,,,high,low,8,Dynadot Inc,05/03/2026 17:00,05/03/2027 17:00,29/09/2026 05:13
-712370e5-0a88-4320-9779-a8ed03e99b27,construction.ngo,premium,65,32.5,high,low,12,namecheap,,,03/10/2026 00:58
-31a2a2a7-aa75-4b90-b39d-e2a3524826d2,building.barcelona,available,25.04,25.04,high,low,8,spaceship,,,29/09/2026 05:13
-aa60bfe5-e946-4f00-809d-fcd3e06b0929,building.inc,premium,1705,2060.21,high,low,8,dynadot,,,29/09/2026 05:13
-5e6e45b6-8623-43fc-85b3-10ea85edbf6b,building.yoga,available,32.49,32.49,high,low,8,namesilo,,,29/09/2026 05:13
-48bc0c16-ec35-4417-aae0-9809af091d2b,construction.voting,available,1398,1448,high,low,12,namecheap,,,03/10/2026 00:58
-3d87b4e5-dcc2-4267-a8f8-52a86512f7ec,building.parts,premium,242,242,high,low,8,namesilo,,,29/09/2026 05:13
-04e9e196-e54f-43e9-bd69-88233faef412,construction.adult,available,95.2,95.2,high,low,12,cloudflare,,,03/10/2026 00:58
-2cf71baf-b1dd-462d-8cb6-c23c81e4c66f,construction.vana,available,2060.25,2060.25,high,low,12,porkbun,,,03/10/2026 00:58
-2029da21-68f7-4ef8-9cac-dc1b148bbb84,construction.food,premium,362.45,517.7,high,low,12,spaceship,,,03/10/2026 00:58
-ef3e8457-9042-4168-8c56-b863b53aa437,construction.guru,resell,,,high,low,12,"Sav.com, LLC - 4",16/07/2026 15:15,16/07/2027 15:15,03/10/2026 00:58
-7b53b9b7-2f6f-4861-bf36-05ec0cf1aab2,building.theater,available,10.92,53.72,high,low,8,dynadot,,,29/09/2026 05:13
-d573c094-1ae5-4f6f-9e4d-d5377bd21b4c,building.solar,available,64.99,64.99,high,low,8,namesilo,,,29/09/2026 05:13
-6e1c3e99-52c4-4a5a-973b-d11faf8cdd86,construction.shoes,premium,78.54,78.54,high,low,12,namesilo,,,03/10/2026 00:58
-a56aad4a-40df-4167-ace4-b17908e2c3b4,construction.coupons,available,2.57,43.77,high,low,12,porkbun,,,03/10/2026 00:58
-a6b69db1-6e2c-40c7-bc59-63fa03788b6b,building.construction,resell,,,high,low,8,,,,29/09/2026 05:13
-08b170d6-2553-442c-b720-fe0587362d2e,building.cv,premium,137.6,8.85,high,low,8,namesilo,,,29/09/2026 05:13
-34a6920b-bd5d-4a31-92c0-adab5b86a4b2,building.mom,available,1.24,26,high,low,8,spaceship,,,29/09/2026 05:13
-77efc3df-2880-46ee-b042-c52cd42db1b8,building.gay,resell,,,high,low,8,"GoDaddy.com, LLC",26/05/2025 23:40,26/05/2027 23:40,29/09/2026 05:13
-256a4f67-e471-4387-be0f-3d35f1d22719,construction.study,premium,1092.18,1092.18,high,low,12,porkbun,,,03/10/2026 00:58
-00e98184-0fef-4594-a1a7-725e9c6fa80b,construction.protection,available,1999.99,2049.99,high,low,12,namesilo,,,03/10/2026 00:58
-b6516668-20de-4230-b1b7-5790e729522b,construction.mov,premium,61.27,61.27,high,low,12,spaceship,,,03/10/2026 00:58
-47cc19d1-a944-410f-bec3-befc6b4124dd,building.me,resell,28621.2,27.99,high,low,8,"Spaceship, Inc.",28/07/2008 16:43,28/07/2027 16:43,29/09/2026 05:13
-28c585e7-c715-422c-9c53-b9a699630d2c,construction.rocks,available,3.5,18.41,high,low,12,dynadot,,,03/10/2026 00:58
-418431d3-acbb-4a7d-a5f5-758ca10a797c,building.webcam,premium,116,29.5,high,low,8,namesilo,,,29/09/2026 05:13
-d2a17819-f328-4bbb-9410-8d47817c8058,building.surgery,available,54.99,54.99,high,low,8,namesilo,,,29/09/2026 05:13
-cdad6222-d4c5-4adc-a052-34990ddb08f7,building.supply,resell,,,high,low,8,,,,29/09/2026 05:13
-1d6b8c40-fe84-4440-b11a-b73d1ddd9578,building.berlin,available,54.82,54.82,high,low,8,dynadot,,,29/09/2026 05:13
-b7413c31-8d82-42a8-992b-88926d6cce06,building.foo,premium,167.7,167.7,high,low,8,namecheap,,,29/09/2026 05:13
-920200ad-c5e0-46a8-9701-21cb882b184b,building.wedding,premium,41.6,26.08,high,low,8,spaceship,,,29/09/2026 05:13
-b4e07e5c-d923-49aa-ad89-17f898e64097,building.srl,premium,50.74,28.91,high,low,8,porkbun,,,29/09/2026 05:13
-0a49858b-cbb0-4915-acbb-9e8ae147e64a,building.reise,available,80.47,80.47,high,low,8,dynadot,,,29/09/2026 05:13
-84beff01-1221-4d23-84af-943ce7f6cc72,building.website,premium,550,1100,high,low,8,dynadot,,,29/09/2026 05:13
-e8f6b460-1b54-40a4-83f1-b78176cedd21,construction.bike,available,12.99,38.99,high,low,12,namesilo,,,03/10/2026 00:58
-7528258a-0465-42eb-8700-179eecb3a216,construction.careers,premium,512,512,high,low,12,namesilo,,,03/10/2026 00:58
-4a3e0677-1753-4b8f-9f26-921c29c161c1,construction.money,resell,,,high,low,12,"Sav.com, LLC - 47",04/02/2026 15:16,04/02/2027 15:16,03/10/2026 00:58
-550f91cf-7b2f-4e11-b629-cbe206433f66,construction.review,premium,3250,130,high,low,12,namecheap,,,03/10/2026 00:58
-48c9a65c-7ff7-4b50-a515-526e9e43c61f,building.sarl,available,6.99,6.99,high,low,8,namesilo,,,29/09/2026 05:13
-dcfac709-a010-48f1-bf0c-1b811eac1e04,building.lawyer,premium,2587.7,2587.7,high,low,8,spaceship,,,29/09/2026 05:13
-5212c371-16b9-4b00-8a15-80e5359e4615,construction.sucks,premium,2658.67,2658.67,high,low,12,namesilo,,,03/10/2026 00:58
-551d9be4-18bd-42a1-b129-65ad8c78e2b3,construction.exposed,premium,242,242,high,low,12,namesilo,,,03/10/2026 00:58
-8d5bc79b-2948-4917-983d-c6889b889c66,building.reisen,available,21.98,28.98,high,low,8,namecheap,,,29/09/2026 05:13
-89b8cc75-169c-4324-9cb4-1cb3f3e48a9e,construction.gifts,premium,207.2,207.2,high,low,12,spaceship,,,03/10/2026 00:58
-c45016f6-de47-4ced-8dd2-3faba010bc2e,building.la,resell,,,high,low,8,"GoDaddy.com, Inc.",09/07/2013 16:48,09/07/2027 23:59,29/09/2026 05:13
-a98ab598-4d2e-427e-bad9-3d44a536fe96,building.diet,available,93.35,103.4,high,low,8,spaceship,,,29/09/2026 05:13
-2713c94d-123c-4148-a358-c7957930fef1,building.security,available,1999.99,2049.99,high,low,8,namesilo,,,29/09/2026 05:13
-2492d412-776f-48f8-bf00-20c130fed3f7,building.trading,available,16.76,16.76,high,low,8,spaceship,,,29/09/2026 05:13
-b74236fe-44ab-4970-bb84-4550d9045235,building.management,resell,,,high,low,8,"GoDaddy.com, LLC",27/05/2024 20:29,27/05/2027 20:29,29/09/2026 05:13
-c97f2552-5a5a-4401-a37b-a73702d168de,building.holdings,available,64.99,64.99,high,low,8,namesilo,,,29/09/2026 05:13
+4dbf06df-87cb-4fc8-91d3-9a1f3bb5c1e4,building.gives,available,6.41,22.39,high,low,8,spaceship,,,06/10/2026 05:17
+0acd53cc-3d6e-4810-abbe-a7fd59c4006e,architecture.blue,available,19.99,24.99,high,low,12,namesilo,,,05/10/2026 17:09
+d4953791-ce57-41b0-b60b-526839dca2b5,building.guide,resell,,,high,low,8,"Spaceship, Inc.",18/09/2014 15:48,18/09/2027 15:48,06/10/2026 05:17
+22a03bc1-ef90-4b84-b1d8-a47b823b792a,building.bike,available,12.99,38.99,high,low,8,namesilo,,,06/10/2026 05:17
+260d74e2-9b3b-4a2c-ab18-b80121035982,building.town,premium,200.5,207.2,high,low,8,unstoppable,,,06/10/2026 05:17
+438a4e93-0971-410d-b4e9-a39d2ff8ac0c,building.luxe,premium,4140.2,15.73,high,low,8,spaceship,,,06/10/2026 05:17
+377d3a31-9ca4-43fb-bbce-b8f4b535c2b4,building.vip,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",18/08/2019 22:50,18/08/2027 22:50,06/10/2026 05:17
+a9970902-29e3-4e4f-a8a0-95234025a1b1,building.review,premium,5175.2,103.7,high,low,8,spaceship,,,06/10/2026 05:17
+e3bde866-ab1a-42bb-ac2e-1ac3288e0d97,architecture.furniture,available,27.99,94.99,high,low,12,namesilo,,,05/10/2026 17:09
+d38cb5cd-f67e-4cb8-9b93-b240cb9fd8f6,building.boats,resell,,,high,low,8,Dynadot Inc,04/02/2026 00:35,04/02/2027 23:59,06/10/2026 05:17
+4d59bb16-40bd-47d3-905a-f2d440b323fa,building.immo,resell,,,high,low,8,Dynadot Inc,05/03/2026 17:00,05/03/2027 17:00,06/10/2026 05:17
+1276079a-5daf-45b7-aaa8-2c50376e967b,building.properties,premium,68.51,68.51,high,low,8,spaceship,,,06/10/2026 05:17
+31a2a2a7-aa75-4b90-b39d-e2a3524826d2,building.barcelona,available,25.04,25.04,high,low,8,spaceship,,,06/10/2026 05:17
+00aa3ec5-a26d-44b0-9cfb-d795dfdb6d59,architecture.luxe,premium,2070.2,15.73,high,low,12,spaceship,,,05/10/2026 17:09
+d801b6da-59bc-4a95-836c-dfc74314ebfd,engineering.build,premium,1552.7,1552.7,high,low,11,spaceship,,,05/10/2026 19:09
+aa60bfe5-e946-4f00-809d-fcd3e06b0929,building.inc,premium,1604.45,2070.2,high,low,8,spaceship,,,06/10/2026 05:17
+5e6e45b6-8623-43fc-85b3-10ea85edbf6b,building.yoga,available,33.98,45.98,high,low,8,namecheap,,,06/10/2026 05:17
+47cc19d1-a944-410f-bec3-befc6b4124dd,building.me,resell,28621.2,27.99,high,low,8,"Spaceship, Inc.",28/07/2008 16:43,28/07/2027 16:43,06/10/2026 05:17
+3d87b4e5-dcc2-4267-a8f8-52a86512f7ec,building.parts,premium,200.5,242,high,low,8,unstoppable,,,06/10/2026 05:17
+7b53b9b7-2f6f-4861-bf36-05ec0cf1aab2,building.theater,available,10.81,52.01,high,low,8,porkbun,,,06/10/2026 05:17
+d573c094-1ae5-4f6f-9e4d-d5377bd21b4c,building.solar,available,64.99,64.99,high,low,8,namesilo,,,06/10/2026 05:17
+08b170d6-2553-442c-b720-fe0587362d2e,building.cv,premium,117.66,8.5,high,low,8,porkbun,,,06/10/2026 05:17
+34a6920b-bd5d-4a31-92c0-adab5b86a4b2,building.mom,available,1.99,27.99,high,low,8,namesilo,,,06/10/2026 05:17
+77efc3df-2880-46ee-b042-c52cd42db1b8,building.gay,resell,,,high,low,8,"GoDaddy.com, LLC",26/05/2025 23:40,26/05/2027 23:40,06/10/2026 05:17
+ba16585f-4eee-48e4-ac44-3cf88b16ca81,architecture.technology,resell,,,high,low,12,"Sav.com, LLC - 36",26/04/2023 15:15,26/04/2027 15:15,05/10/2026 17:09
+e6df79a1-0bff-4d6f-8ea0-8dbe4aa0b0bc,architecture.enterprises,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
+07ae487f-be65-47ed-a620-09ca4a9e0ae3,architecture.team,resell,,,high,low,12,Squarespace Domains II LLC,02/06/2025 15:15,02/06/2027 15:15,05/10/2026 17:09
+418431d3-acbb-4a7d-a5f5-758ca10a797c,building.webcam,premium,110,27.5,high,low,8,dynadot,,,06/10/2026 05:17
+d2a17819-f328-4bbb-9410-8d47817c8058,building.surgery,available,54.99,54.99,high,low,8,namesilo,,,06/10/2026 05:17
+8df9ce97-474e-4101-8d18-5a9de930335e,architecture.country,available,2064.2,2064.2,high,low,12,spaceship,,,05/10/2026 17:09
+75c27b38-041d-4f49-907a-5099c0cf96b4,architecture.florist,available,25.2,25.2,high,low,12,cloudflare,,,05/10/2026 17:09
+1d6b8c40-fe84-4440-b11a-b73d1ddd9578,building.berlin,available,54.08,54.08,high,low,8,dynadot,,,06/10/2026 05:17
+bcf50d84-d70c-4f77-ba32-0657984d86f1,architecture.jewelry,available,50.2,50.2,high,low,12,cloudflare,,,05/10/2026 17:09
+2042a311-9572-400e-ba76-162d24a742f8,architecture.clothing,available,32.99,32.99,high,low,12,namesilo,,,05/10/2026 17:09
+b7413c31-8d82-42a8-992b-88926d6cce06,building.foo,premium,129.2,167.7,high,low,8,unstoppable,,,06/10/2026 05:17
+920200ad-c5e0-46a8-9701-21cb882b184b,building.wedding,premium,47.2,29.5,high,low,8,namesilo,,,06/10/2026 05:17
+b4e07e5c-d923-49aa-ad89-17f898e64097,building.srl,premium,54.28,30.68,high,low,8,namesilo,,,06/10/2026 05:17
+0a49858b-cbb0-4915-acbb-9e8ae147e64a,building.reise,available,77.83,77.83,high,low,8,spaceship,,,06/10/2026 05:17
+6802095c-b197-49fc-b31a-39cfdf26aedc,structure.engineer,available,9.85,32.21,high,low,9,dynadot,,,05/10/2026 18:22
+47eaf36b-f868-47b9-8b70-48e407d44a51,architecture.soccer,available,20.9,20.9,high,low,12,spaceship,,,05/10/2026 17:09
+dd0dde37-82ca-4df8-abea-3f472345684d,architecture.gratis,available,18.83,18.83,high,low,12,spaceship,,,05/10/2026 17:09
+5378c834-6df5-4bcf-a13c-75fd2a33190e,building.store,premium,3450,3450,high,low,8,namesilo,,,06/10/2026 05:17
+12f0cf06-b8cc-4110-9b70-b07ec48817f1,architecture.trade,premium,448,53.92,high,low,12,namesilo,,,05/10/2026 17:09
+48c9a65c-7ff7-4b50-a515-526e9e43c61f,building.sarl,available,6.99,6.99,high,low,8,namesilo,,,06/10/2026 05:17
+84beff01-1221-4d23-84af-943ce7f6cc72,building.website,premium,1092.18,1092.18,high,low,8,porkbun,,,06/10/2026 05:17
+a98ab598-4d2e-427e-bad9-3d44a536fe96,building.diet,available,93.35,103.4,high,low,8,spaceship,,,06/10/2026 05:17
+257d463e-10c8-4282-bec9-e27ed92ef942,architecture.clinic,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
+dcfac709-a010-48f1-bf0c-1b811eac1e04,building.lawyer,premium,2587.7,2587.7,high,low,8,spaceship,,,06/10/2026 05:17
+590ea6e4-5952-48f8-82f6-5e06fc88e166,architecture.coupons,available,5.99,54.99,high,low,12,namesilo,,,05/10/2026 17:09
+8d5bc79b-2948-4917-983d-c6889b889c66,building.reisen,available,3.99,20.99,high,low,8,namesilo,,,06/10/2026 05:17
+d063596b-14c0-4f6a-a09f-b86356a8b073,architecture.gold,available,5.66,82.9,high,low,12,porkbun,,,05/10/2026 17:09
+e1ac1cbd-a589-4a7b-9700-01aa396f6470,architecture.ltd,available,24.2,24.2,high,low,12,cloudflare,,,05/10/2026 17:09
+2713c94d-123c-4148-a358-c7957930fef1,building.security,available,2140.22,2140.22,high,low,8,dynadot,,,06/10/2026 05:17
+bdf7d008-7ad3-4c8c-a70f-e7fe2c184852,architecture.channel,premium,257.92,257.92,high,low,12,spaceship,,,05/10/2026 17:09
+c45016f6-de47-4ced-8dd2-3faba010bc2e,building.la,resell,,,high,low,8,"GoDaddy.com, Inc.",09/07/2013 16:48,09/07/2027 23:59,06/10/2026 05:17
+20ef4280-a1ca-47c0-8d77-94007181e323,architecture.school,premium,130,260,high,low,12,namecheap,,,05/10/2026 17:09
+2492d412-776f-48f8-bf00-20c130fed3f7,building.trading,available,16.76,16.76,high,low,8,spaceship,,,06/10/2026 05:17
+abcc43df-1bb7-410c-ada5-fafa22d5dcc4,architecture.porn,available,95.2,95.2,high,low,12,cloudflare,,,05/10/2026 17:09
+b74236fe-44ab-4970-bb84-4550d9045235,building.management,resell,,,high,low,8,"GoDaddy.com, LLC",27/05/2024 20:29,27/05/2027 20:29,06/10/2026 05:17
+c97f2552-5a5a-4401-a37b-a73702d168de,building.holdings,available,60.14,60.14,high,low,8,dynadot,,,06/10/2026 05:17
+6f9fcfed-d693-432f-8087-93ff56deb60f,architecture.kitchen,available,10.5,50.2,high,low,12,unstoppable,,,05/10/2026 17:09
+15be5824-5644-4d56-8bb5-480d337adac3,architecture.car,available,1863.2,2064.2,high,low,12,spaceship,,,05/10/2026 17:09
+ca565c49-6f3b-4391-9628-1eee5c819303,architecture.motorcycles,available,1.99,17.29,high,low,12,namesilo,,,05/10/2026 17:09
+70e30217-d42b-4cb0-a536-661ec580246a,building.hair,available,1.99,14.45,high,low,8,dynadot,,,06/10/2026 05:17
+a5bf8a5e-8e51-4a3a-a946-fc0f90f0eb25,architecture.site,premium,13800,13800,high,low,12,namesilo,,,05/10/2026 17:09
+67d91c69-9fdf-447b-984b-c4b0f4add183,building.furniture,available,27.99,94.99,high,low,8,namesilo,,,06/10/2026 05:17
+8626afff-d963-48ad-a1d1-c45e327329ef,architecture.mortgage,available,62.99,62.99,high,low,12,namesilo,,,05/10/2026 17:09
+ab6b1f71-2ff6-47a6-9748-89427aeecece,building.dentist,available,51.95,51.95,high,low,8,spaceship,,,06/10/2026 05:17
+a14e8eed-8742-471a-9538-1bbc5f687e57,architecture.cool,resell,,,high,low,12,"GoDaddy.com, LLC",10/07/2014 01:01,10/07/2028 01:01,05/10/2026 17:09
+ddcec727-c256-45ba-8f49-d913577604a4,architecture.day,premium,257.92,257.92,high,low,12,spaceship,,,05/10/2026 17:09
+8d4254a1-1ad3-4443-b406-8308c9a262e4,architecture.futbol,available,5.38,13.66,high,low,12,spaceship,,,05/10/2026 17:09
+bf4db171-6161-4d21-aa33-a99d87b2fea8,architecture.lat,available,1.8,40.98,high,low,12,namecheap,,,05/10/2026 17:09
+14236a7d-8428-47dc-9671-19065d129a08,building.cx,available,18.99,18.99,high,low,8,namesilo,,,06/10/2026 05:17
+c342cef1-b5bf-4a77-9083-f1dac4cbfcbc,building.theatre,available,500.2,500.2,high,low,8,cloudflare,,,06/10/2026 05:17
+c0e9f590-9c7c-49cb-8779-c6703fd69e2c,architecture.llc,premium,1552.7,1552.7,high,low,12,spaceship,,,05/10/2026 17:09
+71da3975-2b96-4a91-89e2-1d9a41c5ca45,building.gripe,available,6.98,8.98,high,low,8,namecheap,,,06/10/2026 05:17
+6103487e-313a-44b1-aed6-a1a7cd2244f0,building.site,premium,,,high,low,8,,,,06/10/2026 05:17
+47e962bf-17c6-4f53-b998-282963fed621,building.courses,premium,116,116,high,low,8,namesilo,,,06/10/2026 05:17
+9d6bba02-396c-42b9-86dd-7410cb5c6a69,architecture.cv,premium,649.6,80.33,high,low,12,namesilo,,,05/10/2026 17:09
+0c4ca518-852c-41e5-be9c-cf1e4a1a54d7,building.bio,resell,,,high,low,8,"eNom, LLC",10/09/2014 13:28,10/09/2027 13:28,06/10/2026 05:17
+a19fcd22-6833-4991-8432-3e3e98017e10,building.fishing,premium,83,26.08,high,low,8,spaceship,,,06/10/2026 05:17
+e69ecb33-14fa-442c-9101-0cde26f717fc,architecture.surgery,available,54.99,54.99,high,low,12,namesilo,,,05/10/2026 17:09
+3a364943-bf3c-43de-bfc2-91a5d2f401bf,architecture.ryukyu,available,17.98,22.98,high,low,12,namecheap,,,05/10/2026 17:09
+69ad343d-f64c-4fc6-8fba-0375d4141467,architecture.apartments,available,10.81,45.83,high,low,12,porkbun,,,05/10/2026 17:09
+024ff654-c12e-4f89-93a0-9a6e586c6b87,building.forex,available,10.55,83,high,low,8,spaceship,,,06/10/2026 05:17
+89ecbc5b-850f-40ef-b64c-f78e990c3173,building.college,available,1.18,51.95,high,low,8,spaceship,,,06/10/2026 05:17
+289e2aaf-e6fa-42fa-9b79-96b2feb66f69,architecture.link,premium,1552.7,1552.7,high,low,12,spaceship,,,05/10/2026 17:09
+5e10ed11-bfc6-46cc-b060-c0678a2cfbc9,architecture.coach,premium,78.54,78.54,high,low,12,namesilo,,,05/10/2026 17:09
+f1d4b2e0-7141-4f81-98b7-6d0a66b61f4d,building.degree,available,41.6,41.6,high,low,8,spaceship,,,06/10/2026 05:17
+f4a004d7-f462-4afc-89b6-eba506437597,architecture.cat,available,18.83,25.04,high,low,12,spaceship,,,05/10/2026 17:09
+ef6d56d9-2d2b-40ea-85a0-5d6b41ebbc3d,builder.moi,available,27,21.11,high,low,7,unstoppable,,,06/10/2026 05:14
+28387384-e198-44cd-8322-9d69b587a8e7,architecture.help,resell,,,high,low,12,Dynadot Inc,28/12/2025 19:02,28/12/2026 23:59,05/10/2026 17:09
+67b4e735-452f-4e8c-a999-ee9a99cd2f72,building.voting,available,1398,1448,high,low,8,namecheap,,,06/10/2026 05:17
+7b75e5d6-1b87-45db-a004-62cfe32dfd16,architecture.melbourne,available,58,58,high,low,12,namesilo,,,05/10/2026 17:09
+6e4ae8f5-804a-4bb9-896f-c798a58fb1f0,architecture.shoes,available,31.25,51.95,high,low,12,spaceship,,,05/10/2026 17:09
 4401c3b8-6537-46b1-94b6-a8273edaedff,building.desi,available,19.98,22.98,high,low,8,namecheap,,,29/09/2026 05:13
-5378c834-6df5-4bcf-a13c-75fd2a33190e,building.store,premium,781.25,3125,high,low,8,name.com,,,29/09/2026 05:13
-70e30217-d42b-4cb0-a536-661ec580246a,building.hair,available,1.99,17.29,high,low,8,namesilo,,,29/09/2026 05:13
-67d91c69-9fdf-447b-984b-c4b0f4add183,building.furniture,available,20.9,82.76,high,low,8,spaceship,,,29/09/2026 05:13
-ab6b1f71-2ff6-47a6-9748-89427aeecece,building.dentist,available,52.01,52.01,high,low,8,porkbun,,,29/09/2026 05:13
-0c4ca518-852c-41e5-be9c-cf1e4a1a54d7,building.bio,resell,,,high,low,8,"eNom, LLC",10/09/2014 13:28,10/09/2027 13:28,29/09/2026 05:13
-14236a7d-8428-47dc-9671-19065d129a08,building.cx,available,18.99,18.99,high,low,8,namesilo,,,29/09/2026 05:13
-c342cef1-b5bf-4a77-9083-f1dac4cbfcbc,building.theatre,available,465.95,500.18,high,low,8,spaceship,,,29/09/2026 05:13
-71da3975-2b96-4a91-89e2-1d9a41c5ca45,building.gripe,available,6.99,6.99,high,low,8,namesilo,,,29/09/2026 05:13
-47e962bf-17c6-4f53-b998-282963fed621,building.courses,premium,116,116,high,low,8,namesilo,,,29/09/2026 05:13
-a19fcd22-6833-4991-8432-3e3e98017e10,building.fishing,premium,96,29.5,high,low,8,namesilo,,,29/09/2026 05:13
-024ff654-c12e-4f89-93a0-9a6e586c6b87,building.forex,available,13.5,,high,low,8,unstoppable,,,29/09/2026 05:13
-89ecbc5b-850f-40ef-b64c-f78e990c3173,building.college,available,1.18,51.95,high,low,8,spaceship,,,29/09/2026 05:13
-f1d4b2e0-7141-4f81-98b7-6d0a66b61f4d,building.degree,available,41.6,41.6,high,low,8,spaceship,,,29/09/2026 05:13
-67b4e735-452f-4e8c-a999-ee9a99cd2f72,building.voting,available,1398,1448,high,low,8,namecheap,,,29/09/2026 05:13
-1342ff2e-597c-4d67-9618-35d52ce5beb6,building.deal,premium,103.7,103.7,high,low,8,spaceship,,,29/09/2026 05:13
-977c27df-72c6-45d7-b3f7-934fad987d10,building.football,available,20.9,20.9,high,low,8,spaceship,,,29/09/2026 05:13
-bce566c8-736c-48b2-8df8-bedfcdfd4cd4,building.hosting,available,300.2,300.2,high,low,8,cloudflare,,,29/09/2026 05:13
-bae33265-b073-4e21-aa17-7ed89c593c1a,building.tv,resell,,,high,low,8,Dynadot Inc,20/11/2013 09:05,20/11/2027 09:05,29/09/2026 05:13
-7c5e697f-ea7f-43b7-ad42-17e8bb9b34df,building.top,resell,,,high,low,8,阿里云计算有限公司,06/01/2020 11:37,06/01/2027 11:37,29/09/2026 05:13
-6999cfd6-a096-4dcd-894f-4d20e5dd2005,building.living,available,1.34,31.25,high,low,8,spaceship,,,29/09/2026 05:13
-44954ddc-9bc8-4afc-b6d8-82d932c5d038,building.moi,available,27,25.99,high,low,8,unstoppable,,,29/09/2026 05:13
-7b7c9b53-09e5-4ea6-88f6-73188f2cbb99,building.beer,available,25.2,25.2,high,low,8,cloudflare,,,29/09/2026 05:13
-ded004b6-168d-4139-9ac4-b2454ab7858c,building.foundation,premium,85.8,85.8,high,low,8,namecheap,,,29/09/2026 05:13
+353adb5c-bf65-42f4-993d-f2ff0087832d,architecture.tattoo,available,1.75,31.25,high,low,12,spaceship,,,05/10/2026 17:09
+1342ff2e-597c-4d67-9618-35d52ce5beb6,building.deal,premium,100.5,103.7,high,low,8,unstoppable,,,06/10/2026 05:17
+977c27df-72c6-45d7-b3f7-934fad987d10,building.football,available,20.9,20.9,high,low,8,spaceship,,,06/10/2026 05:17
+d4e3eca3-8f67-4eb2-a082-88539d5deac3,architecture.airforce,available,82.9,82.9,high,low,12,porkbun,,,05/10/2026 17:09
+ec71a30b-816f-40ed-afdd-0a94b4841ed1,architecture.sbs,premium,68.43,147.2,high,low,12,namesilo,,,05/10/2026 17:09
+bce566c8-736c-48b2-8df8-bedfcdfd4cd4,building.hosting,available,279.65,341.75,high,low,8,spaceship,,,06/10/2026 05:17
+2fe79fae-5ff9-4464-a29f-9d992d5ea939,architecture.camera,available,11.84,46.86,high,low,12,porkbun,,,05/10/2026 17:09
+dc6fb056-8343-4293-b28e-4a4a3a00f210,building.dev,premium,830.72,830.72,high,low,8,namesilo,,,06/10/2026 05:17
+e574aa49-6d4c-4c05-8484-8672881b4125,architecture.food,premium,1100,1100,high,low,12,dynadot,,,05/10/2026 17:09
+d5e466ea-3095-42fc-bc82-226b3e1da042,architecture.business,premium,42.9,42.9,high,low,12,namecheap,,,05/10/2026 17:09
+ff330740-cab0-4ebf-b959-6e03d8bda5db,structure.ninja,resell,,,high,low,9,Dynadot Inc,24/01/2026 17:00,24/01/2027 17:00,05/10/2026 18:22
+6999cfd6-a096-4dcd-894f-4d20e5dd2005,building.living,available,5.49,39.99,high,low,8,namesilo,,,06/10/2026 05:17
+44954ddc-9bc8-4afc-b6d8-82d932c5d038,building.moi,available,21.11,21.11,high,low,8,porkbun,,,06/10/2026 05:17
+f8e21a2a-9caa-44f7-a42e-baa828f5e933,architecture.giving,available,6.41,22.39,high,low,12,spaceship,,,05/10/2026 17:09
+1800e5c2-022f-4599-9d80-a03fd618e9b9,architecture.video,premium,103.7,207.2,high,low,12,spaceship,,,05/10/2026 17:09
+7b7c9b53-09e5-4ea6-88f6-73188f2cbb99,building.beer,available,25.2,25.2,high,low,8,cloudflare,,,06/10/2026 05:17
+25b59981-7fb7-453f-b673-d7558e1e594f,architecture.to,resell,,,high,low,12,Tonic,02/06/2023 02:27,01/08/2027 00:00,05/10/2026 17:09
+59c9d432-b0ea-48dc-ae02-9bc01d948d9e,architecture.band,available,20,,high,low,12,unstoppable,,,05/10/2026 17:09
+ded004b6-168d-4139-9ac4-b2454ab7858c,building.foundation,premium,85.8,85.8,high,low,8,namecheap,,,06/10/2026 05:17
+070bdb8d-ef56-42ac-94c4-9f2b42cc2484,building.cricket,available,20.18,20.18,high,low,8,cloudflare,,,06/10/2026 05:17
+2bff8a41-db8f-42bc-9215-f98ca80f0142,building.airforce,available,83,83,high,low,8,spaceship,,,06/10/2026 05:17
+7875752e-43ae-40a8-952f-85917e8ae706,building.vacations,available,38.99,38.99,high,low,8,namesilo,,,06/10/2026 05:17
+7c5e697f-ea7f-43b7-ad42-17e8bb9b34df,building.top,resell,,,high,low,8,阿里云计算有限公司,06/01/2020 11:37,06/01/2027 11:37,06/10/2026 05:17
+d377462e-8dda-4110-ab60-6691ace58a32,architecture.sydney,available,58,58,high,low,12,namesilo,,,05/10/2026 17:09
+7d8c4416-ab3a-444c-b4bb-ad142985f91a,building.protection,available,1999.99,2049.99,high,low,8,namesilo,,,06/10/2026 05:17
+7d67e8cb-4af1-41b7-b22d-19f3ec6ef7ff,building.family,premium,62.3,62.3,high,low,8,spaceship,,,06/10/2026 05:17
+bc33c5de-26a7-4d18-b9b7-0e4854c42072,architecture.guitars,available,100.2,100.2,high,low,12,cloudflare,,,05/10/2026 17:09
+b57cd6ca-7b57-425d-8e63-7e13baadb140,architecture.estate,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
+76fcf55c-38f6-499f-9ebe-e694062ab36c,architecture.tickets,available,326.21,388.33,high,low,12,spaceship,,,05/10/2026 17:09
+bae33265-b073-4e21-aa17-7ed89c593c1a,building.tv,resell,,,high,low,8,Dynadot Inc,20/11/2013 09:05,20/11/2027 09:05,06/10/2026 05:17
+2986aa45-62f0-41e4-b367-a3a8d9f0a846,architecture.theater,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
+d7361bfa-cb50-4c69-a7e4-c9d5c187b148,builder.engineering,available,50.2,50.2,high,low,7,cloudflare,,,06/10/2026 05:14
+5213b099-769e-4535-b5b1-7a3b4e9772ab,building.dating,available,12.98,86.98,high,low,8,namecheap,,,06/10/2026 05:17
+d0a39ed1-c664-4822-bd9f-eb978310905e,building.realty,premium,1811.45,2587.7,high,low,8,spaceship,,,06/10/2026 05:17
+fdf13900-2ed9-4219-bc62-4f8db58f36b6,builder.holdings,available,67.98,81.98,high,low,7,namecheap,,,06/10/2026 05:14
+fa2c2305-5e1c-424b-8993-4c2ad085c963,building.flowers,available,64.99,114.99,high,low,8,namesilo,,,06/10/2026 05:17
+eb2f25a6-30a3-4ebf-ae88-0cbe0e397065,building.exchange,premium,68.51,68.51,high,low,8,spaceship,,,06/10/2026 05:17
+4ff43b7a-03fb-4608-9c4f-de09c8d19d65,architecture.legal,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
+2001e10d-a3ba-4e2e-8fa1-cdd9a1687a1d,architecture.vodka,available,26.08,26.08,high,low,12,spaceship,,,05/10/2026 17:09
+27c09542-f1f9-45fc-a7b8-e1d55b72a380,architecture.plumbing,available,72.99,72.99,high,low,12,namesilo,,,05/10/2026 17:09
+6ec0c67d-22ed-4db5-82e9-aeea92644fff,engineering.equipment,available,29.98,32.98,high,low,11,namecheap,,,05/10/2026 19:09
+d6686bd6-2c25-4880-8acd-5c04a3b48e2b,building.hospital,available,56.13,56.13,high,low,8,porkbun,,,06/10/2026 05:17
+4c261101-05db-43de-920c-878a49643ecd,architecture.city,resell,,,high,low,12,"DNSPod, Inc.",10/03/2021 12:23,10/03/2027 12:23,05/10/2026 17:09
+a66bf6e2-1a69-4ee6-97c4-dbffdacc193b,architecture.space,premium,1293.95,5175.2,high,low,12,spaceship,,,05/10/2026 17:09
+074943d0-43b5-4c3d-b2d2-f8e38e79a6b9,builder.finance,resell,,,high,low,7,"Spaceship, Inc.",16/12/2021 06:52,16/12/2026 06:52,06/10/2026 05:14
+b8f899fe-8718-4c9a-926e-dc02be15da29,structure.rent,available,17.99,59.99,high,low,9,namesilo,,,05/10/2026 18:22
+53668ad8-ab72-4f38-9011-95196e64eec3,building.hot,premium,116,116,high,low,8,namesilo,,,06/10/2026 05:17
+fa5ffb26-e484-4d4a-bc67-fabb8bbd2be0,architecture.tax,available,14.99,67.49,high,low,12,namesilo,,,05/10/2026 17:09
+972a8e21-1ac3-4cfd-b095-e4a7315facdf,architecture.sexy,available,2675.22,2675.22,high,low,12,dynadot,,,05/10/2026 17:09
+de4f4327-14a8-4c1d-b2ab-4d49a4ceb319,engineering.cards,premium,512,512,high,low,11,namesilo,,,05/10/2026 19:09
+85861657-b87a-4de6-bf2a-1301d0c50dbe,builder.hosting,available,300.2,300.2,high,low,7,cloudflare,,,06/10/2026 05:14
+91205ca5-5994-4ef5-9744-ef25661c8592,builder.trade,premium,13800,116,high,low,7,namesilo,,,06/10/2026 05:14
+86c7a7f0-3802-40d8-ab48-eca4c52b63f1,architecture.download,premium,362.45,51.95,high,low,12,spaceship,,,05/10/2026 17:09
+25cec7e9-2dba-42ed-93b4-b0cc568523db,building.mobile,premium,1035.2,1035.2,high,low,8,spaceship,,,06/10/2026 05:17
+70d4e5b2-fc75-42de-8aed-98f36c880d96,architecture.soy,premium,174.1,174.1,high,low,12,porkbun,,,05/10/2026 17:09
+dfbadf7c-f7e7-4ca2-96d8-5583d4be56da,architecture.cooking,available,32.49,32.49,high,low,12,namesilo,,,05/10/2026 17:09
+7bca985f-f81c-43d4-94cf-37ae4b6f05bc,architecture.moe,available,14.98,17.88,high,low,12,namecheap,,,05/10/2026 17:09
+9d3c9ed4-ed8c-4928-8400-dbcf7280e971,engineering.apartments,available,57.99,57.99,high,low,11,namesilo,,,05/10/2026 19:09
+ff14a802-3650-485a-ae55-02b50df7aba6,architecture.law,available,105.98,130.98,high,low,12,namecheap,,,05/10/2026 17:09
+af779503-a1df-4595-9204-505acc669ef1,architecture.flowers,available,93.35,103.4,high,low,12,spaceship,,,05/10/2026 17:09
+18bde55f-2bfd-4162-a0a1-9a73985d453c,builder.schule,available,29.98,32.98,high,low,7,namecheap,,,06/10/2026 05:14
+2be44598-9787-46a2-9f42-95aa0e216a83,builder.dentist,available,50.2,50.2,high,low,7,cloudflare,,,06/10/2026 05:14
+d2a55269-af62-4653-924e-921b7421eb55,architecture.bingo,premium,102.67,102.67,high,low,12,spaceship,,,05/10/2026 17:09
+4ab89106-5c94-465a-9b1d-77b00fa2a28c,builder.baby,resell,,,high,low,7,Dynadot Inc,17/09/2026 13:39,17/09/2027 23:59,06/10/2026 05:14
+bb15c2bb-0d2a-411e-8bfc-2643de64ef4f,architecture.fishing,premium,83,26.08,high,low,12,spaceship,,,05/10/2026 17:09
+b81796d8-de17-47f7-b01c-bee4cd628c5e,architecture.sale,premium,242,242,high,low,12,namesilo,,,05/10/2026 17:09
 1a9380ec-6967-4120-bef6-3ecccee9fa66,architecture.engineer,premium,1107,1107,high,low,12,namesilo,,,05/10/2026 17:09
-070bdb8d-ef56-42ac-94c4-9f2b42cc2484,building.cricket,available,21.6,21.6,high,low,8,dynadot,,,29/09/2026 05:13
-2bff8a41-db8f-42bc-9215-f98ca80f0142,building.airforce,available,83,83,high,low,8,spaceship,,,29/09/2026 05:13
-7875752e-43ae-40a8-952f-85917e8ae706,building.vacations,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 05:13
-7d8c4416-ab3a-444c-b4bb-ad142985f91a,building.protection,available,2070,2950,high,low,8,namecheap,,,29/09/2026 05:13
-7d67e8cb-4af1-41b7-b22d-19f3ec6ef7ff,building.family,premium,71.4,71.4,high,low,8,namesilo,,,29/09/2026 05:13
-5213b099-769e-4535-b5b1-7a3b4e9772ab,building.dating,available,11.59,51.95,high,low,8,spaceship,,,29/09/2026 05:13
-d0a39ed1-c664-4822-bd9f-eb978310905e,building.realty,premium,2275,3250,high,low,8,namecheap,,,29/09/2026 05:13
-fa2c2305-5e1c-424b-8993-4c2ad085c963,building.flowers,available,64.99,114.99,high,low,8,namesilo,,,29/09/2026 05:13
-eb2f25a6-30a3-4ebf-ae88-0cbe0e397065,building.exchange,premium,72.6,72.6,high,low,8,dynadot,,,29/09/2026 05:13
+eb6a8d06-6d38-4e54-bc31-a51591a5cc6c,architecture.cloud,premium,6900,6900,high,low,12,namesilo,,,05/10/2026 17:09
+52957856-2e59-40d5-ab27-04ad1c0b9cc9,builder.forsale,available,16.99,36.99,high,low,7,namesilo,,,06/10/2026 05:14
+fdf9f8fb-88a8-40af-ad6d-2b869cffd6b2,builder.sarl,available,5.38,5.38,high,low,7,spaceship,,,06/10/2026 05:14
+8b54b75e-f0b9-4d05-8855-59c692be37f5,architecture.srl,premium,54.28,30.68,high,low,12,namesilo,,,05/10/2026 17:09
+e3854b58-d6b0-4535-ba97-719f932b3a8f,building.world,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",11/04/2016 06:16,11/04/2027 06:16,06/10/2026 05:17
+50ed6e73-d213-4ffe-93d6-b3e4cf4837f3,builder.school,resell,,,high,low,7,"GoDaddy.com, LLC",28/05/2025 17:00,28/05/2027 17:00,06/10/2026 05:14
+58a32e63-997b-40cf-9242-761b4318312b,architecture.men,premium,448,53.92,high,low,12,namesilo,,,05/10/2026 17:09
+6e183450-3846-48db-a332-b748e6127e5a,builder.dog,available,50.2,50.2,high,low,7,cloudflare,,,06/10/2026 05:14
+f0e078c6-8827-4491-9a73-b8dd344af3cc,builder.flights,available,58.99,58.99,high,low,7,namesilo,,,06/10/2026 05:14
+90c32907-a4db-4d4b-b737-d2a3d9da5f3b,architecture.zone,resell,,,high,low,12,"Sav.com, LLC - 27",22/03/2024 15:15,22/03/2027 15:15,05/10/2026 17:09
+bc5de953-39c7-4f7d-bdc1-af4aea69244b,structure.condos,available,45.2,45.2,high,low,9,cloudflare,,,05/10/2026 18:22
+75112235-6c13-4c4a-bba3-5134937affbf,architecture.show,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
+3aff85bf-6e26-427c-8308-2bafbe245750,architecture.cx,available,16.53,16.75,high,low,12,porkbun,,,05/10/2026 17:09
+204dfca7-1273-4249-aa8f-664b178cc18f,building.tattoo,available,1.75,31.25,high,low,8,spaceship,,,06/10/2026 05:17
+dc1f71b1-07af-4380-a6c1-83e2d6c3266e,engineering.tattoo,available,2.99,34.99,high,low,11,namesilo,,,05/10/2026 19:09
+4786ef61-b8cd-49f3-acfb-02b33571d105,design.gold,resell,,,high,medium,6,Xin Net Technology Corporation,10/04/2018 07:47,10/04/2027 07:47,06/10/2026 16:06
+f22a9dae-a791-4de3-8345-09d9f8ec4fad,architecture.farm,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
+e341ec5a-97a0-4cd4-8c86-eddcca03c001,building.fit,premium,2070.2,26.08,high,low,8,spaceship,,,06/10/2026 05:17
+4595d978-07c5-4a9b-b082-6262d2542f3f,architecture.training,premium,118.8,118.8,high,low,12,namesilo,,,05/10/2026 17:09
+a240d564-58e3-44f5-8eb9-6e91a7b01770,structure.fashion,available,25.2,25.2,high,low,9,cloudflare,,,05/10/2026 18:22
+9cc5f42c-7a03-40c8-9507-ecebd1f94583,engineering.kitchen,available,8.98,83.98,high,low,11,namecheap,,,05/10/2026 19:09
+b1e91bcb-7742-439c-8d1a-8ad9bbff5851,engineering.glass,premium,102.67,102.67,high,low,11,spaceship,,,05/10/2026 19:09
+2b25ce8b-0305-4f08-ad82-5fe1e1c1862b,builder.recipes,available,4.86,62.3,high,low,7,spaceship,,,06/10/2026 05:14
+391d2491-4802-4e59-901d-575b00c23ab4,architecture.party,premium,,,high,low,12,,,,05/10/2026 17:09
+3493b3f3-63c3-406e-b36d-323e218242ed,builder.cyou,premium,155.45,310.7,high,low,7,spaceship,,,06/10/2026 05:14
+40649ad6-863e-43ca-9764-ab848959a07e,builder.parts,available,12.99,41.99,high,low,7,namesilo,,,06/10/2026 05:14
+8fe13bed-4830-46ce-b4f4-0379e26e0517,building.talk,premium,71.4,71.4,high,low,8,namesilo,,,06/10/2026 05:17
+f1b996bb-fa3a-4486-839d-bd98f742d553,architecture.cfd,premium,68.43,147.2,high,low,12,namesilo,,,05/10/2026 17:09
+3942d642-d069-4603-9c71-c7ca4399a23b,architecture.host,premium,640,640,high,low,12,namesilo,,,05/10/2026 17:09
+40ce26ab-eeb3-4d26-9fd1-dd039360c30b,design.red,resell,,,high,medium,6,"Sav.com, LLC - 6",17/07/2023 17:00,17/07/2027 17:00,06/10/2026 16:06
+502b3e2c-a062-4dbd-8aaf-c810bfd3bfb3,builder.world,resell,,,high,low,7,Squarespace Domains II LLC,03/08/2019 09:58,03/08/2027 09:58,06/10/2026 05:14
+6f56b11c-3ce3-40f4-91f1-d913e41c8ca1,architecture.jetzt,available,23.99,23.99,high,low,12,namesilo,,,05/10/2026 17:09
+99757c3c-ccc6-4593-b6f8-17919c141d38,engineering.auto,available,1863.2,2064.2,high,low,11,spaceship,,,05/10/2026 19:09
 f565617f-fd19-4b9b-bf52-1391c1bcd43d,architecture.ninja,available,15.99,30.99,high,low,12,namesilo,,,05/10/2026 17:09
-d6686bd6-2c25-4880-8acd-5c04a3b48e2b,building.hospital,available,45.74,45.74,high,low,8,spaceship,,,29/09/2026 05:13
-28feba25-7e0a-43a3-b22a-7f49216d3a87,building.uno,premium,,,high,low,8,,,,29/09/2026 05:13
-53668ad8-ab72-4f38-9011-95196e64eec3,building.hot,premium,103.7,103.7,high,low,8,spaceship,,,29/09/2026 05:13
+67be0a4c-82f8-4741-9a47-3b0ae4e62649,engineering.casa,premium,96,11.8,high,low,11,namesilo,,,05/10/2026 19:09
+20f2020d-81f8-4823-a704-7e6461cb09a2,builder.photo,available,26.08,26.08,high,low,7,spaceship,,,06/10/2026 05:14
+8668c4da-d60b-4ce6-920c-2fbccb1edebc,building.market,premium,207.2,207.2,high,low,8,spaceship,,,06/10/2026 05:17
+a00e717e-cec1-4755-a8f0-2b6864ff4358,architecture.dentist,available,51.95,51.95,high,low,12,spaceship,,,05/10/2026 17:09
+231cca1d-8c00-42c8-9295-913a0d9c4fd5,architecture.dealer,premium,1604.45,2070.2,high,low,12,spaceship,,,05/10/2026 17:09
+59a8a602-561f-48e6-9868-ae076283574d,building.us,resell,,,high,low,8,DomainSpot LLC,24/04/2002 14:04,23/04/2027 23:59,06/10/2026 05:17
 7224b4fb-eba1-415c-9d8e-a0969c870db6,architecture.build,premium,1552.7,1552.7,high,low,12,spaceship,,,05/10/2026 17:09
-dc6fb056-8343-4293-b28e-4a4a3a00f210,building.dev,premium,811.25,811.25,high,low,8,name.com,,,29/09/2026 05:13
-25cec7e9-2dba-42ed-93b4-b0cc568523db,building.mobile,premium,1100,1100,high,low,8,dynadot,,,29/09/2026 05:13
-e3854b58-d6b0-4535-ba97-719f932b3a8f,building.world,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",11/04/2016 06:16,11/04/2027 06:16,29/09/2026 05:13
-204dfca7-1273-4249-aa8f-664b178cc18f,building.tattoo,available,2.06,31.41,high,low,8,porkbun,,,29/09/2026 05:13
-e341ec5a-97a0-4cd4-8c86-eddcca03c001,building.fit,premium,2070.2,26.08,high,low,8,spaceship,,,29/09/2026 05:13
+35c0d25c-b231-4a10-a758-c3e70df62d99,engineering.rodeo,available,12.99,12.99,high,low,11,namesilo,,,05/10/2026 19:09
+e7360d24-9b2e-48bf-9248-2122fd580704,builder.investments,available,12.99,129.99,high,low,7,namesilo,,,06/10/2026 05:14
+9dda8c48-af7a-427e-9048-246841cee62d,builder.zone,resell,,,high,low,7,"DNSPod, Inc.",05/07/2025 15:15,05/07/2027 15:15,06/10/2026 05:14
+5bbb9659-1fa8-46c1-aefa-791d098b2f2d,building.lease,premium,207.2,207.2,high,low,8,spaceship,,,06/10/2026 05:17
+e2bdacdd-897b-426b-aa8c-eea5448c4435,engineering.jewelry,available,51.95,51.95,high,low,11,spaceship,,,05/10/2026 19:09
+572695f4-3dde-4aee-8b4c-3bee8d3056ca,engineering.viajes,available,37.99,37.99,high,low,11,namesilo,,,05/10/2026 19:09
+a47d74a6-af38-4416-b6bb-02a2a96b09b8,engineering.nyc,premium,2587.7,26.08,high,low,11,spaceship,,,05/10/2026 19:09
+a7616201-c7c2-4cee-add6-34351d905852,engineering.mom,premium,832,832,high,low,11,namesilo,,,05/10/2026 19:09
+27879fcb-3e48-49aa-9c69-b8300241b75f,design.diamonds,premium,512,512,high,medium,6,namesilo,,,06/10/2026 16:06
+2ad85939-1625-461f-954c-e22ddbb9909a,builder.democrat,available,7.25,32.99,high,low,7,namesilo,,,06/10/2026 05:14
+579b6998-b90f-409f-9b94-daabaa6ca338,building.express,premium,78.54,78.54,high,low,8,namesilo,,,06/10/2026 05:17
+92aa6d51-43da-42ec-af33-7caa929c9c37,architecture.miami,premium,83,18.83,high,low,12,spaceship,,,05/10/2026 17:09
+7b04ac78-0b24-4081-a9fd-74627adfcbb7,engineering.sydney,available,58,58,high,low,11,namesilo,,,05/10/2026 19:09
+81d7748f-7f8f-455c-8c63-035d06b5679d,engineering.fitness,premium,102.67,102.67,high,low,11,spaceship,,,05/10/2026 19:09
+5ef38b9b-1176-43cd-b7d8-ff47a0276677,engineering.soy,premium,81.97,81.97,high,low,11,spaceship,,,05/10/2026 19:09
+921b3a8e-caab-4e07-9995-2dcbbc8313d3,architecture.mba,available,11.98,49.98,high,low,12,namecheap,,,05/10/2026 17:09
+bf4b4e92-4a2b-42d0-8074-d379893636e8,architecture.run,resell,,,high,low,12,"Spaceship, Inc.",17/07/2026 13:11,17/07/2027 13:11,05/10/2026 17:09
+b6b45013-de82-4f8b-8a76-db544698bed3,builder.organic,available,66.2,66.2,high,low,7,cloudflare,,,06/10/2026 05:14
+b96ce23f-6bc9-465e-9868-2243b014db0d,building.free,premium,100.5,130,high,low,8,unstoppable,,,06/10/2026 05:17
+5daca8b7-91ae-4a42-9898-0ef1ab121181,architecture.family,premium,102.67,102.67,high,low,12,spaceship,,,05/10/2026 17:09
+4efad479-3075-48a7-ad77-df1cc1a6b233,builder.cx,resell,,,high,low,7,CentralNic Ltd,08/09/2025 06:00,08/09/2027 06:00,06/10/2026 05:14
+b8e513c4-572f-4d1b-97b6-931c2e438949,structure.deal,premium,103.7,103.7,high,low,9,spaceship,,,05/10/2026 18:22
+18e43848-a97d-4852-9091-07e307e6f3a9,engineering.tires,available,72.44,72.44,high,low,11,spaceship,,,05/10/2026 19:09
+29e3d9ba-6a84-442a-82e5-1f57a15b9193,design.properties,resell,,,high,medium,6,"GoDaddy.com, LLC",03/06/2014 21:01,03/06/2027 21:01,06/10/2026 16:06
+520d7ac3-4723-4bbc-af09-afb40f020f7c,architecture.review,premium,3450,116,high,low,12,namesilo,,,05/10/2026 17:09
+a596a889-07e6-4001-9650-83aa747e01f7,building.click,available,2.19,12.99,high,low,8,namesilo,,,06/10/2026 05:17
+f42ceeb2-6c4c-4e8d-852d-7c95905ca26a,engineering.voto,available,26.5,55.93,high,low,11,unstoppable,,,05/10/2026 19:09
+404e5725-8dbb-4369-83ef-5a69e7308793,builder.boston,premium,414.2,18.83,high,low,7,spaceship,,,06/10/2026 05:14
+aeb50f47-c82b-4cb7-8a41-d9817df1f193,builder.berlin,available,54.08,54.08,high,low,7,dynadot,,,06/10/2026 05:14
+77ae1363-8feb-439e-913b-2dfe7f2b7f86,structure.locker,available,5.68,31.25,high,low,9,spaceship,,,05/10/2026 18:22
+48b384ef-11b0-4ddf-a1db-01b2c7770f7a,builder.locker,premium,159.23,8.8,high,low,7,namesilo,,,06/10/2026 05:14
+de41769b-cca0-4cbe-b7b9-19f144282c45,builder.audio,available,93.35,103.4,high,low,7,spaceship,,,06/10/2026 05:14
+d200ce53-7f46-4547-9125-8dbb9615c5ad,structure.wine,available,9.5,59.99,high,low,9,unstoppable,,,05/10/2026 18:22
+c5cd5ac7-7f3b-4dca-ab78-5289bfdd25a6,engineering.so,resell,,,high,low,11,NameCheap,17/06/2024 19:58,17/06/2026 19:58,
+0bafeef2-296d-49bd-a7d3-e6573e22787b,engineering.zip,premium,61.27,61.27,high,low,11,spaceship,,,05/10/2026 19:09
+25e94882-1f6a-4439-a39d-256eb520fff4,architecture.store,premium,275,1100,high,low,12,dynadot,,,05/10/2026 17:09
+720d0e8a-4e8d-4709-8ce8-68e70fd067c6,building.domains,available,34.36,34.36,high,low,8,spaceship,,,06/10/2026 05:17
+372fb8ee-d9bc-4a93-a9bc-9e7a1e64bf92,architecture.ong,available,18.98,24.98,high,low,12,namecheap,,,05/10/2026 17:09
+e6cdcb77-4ed2-42ba-a17f-0cfc94e142a6,engineering.casino,available,6.41,129.58,high,low,11,spaceship,,,05/10/2026 19:09
+cbee09d9-3895-4eb6-ad8e-52dc2e887dcb,architecture.community,resell,,,high,low,12,"Sav.com, LLC - 31",12/09/2025 15:15,12/09/2027 15:15,05/10/2026 17:09
+4314771f-86a1-4aac-9f1b-5680f4b40f1f,architecture.spot,premium,110,110,high,low,12,dynadot,,,05/10/2026 17:09
+2e45349f-0bda-4bdf-a148-b7156b1c273b,building.ooo,available,24.99,24.99,high,low,8,namesilo,,,06/10/2026 05:17
+7c23a04f-be15-4ab4-8940-decaa124a899,engineering.horse,available,26.08,26.08,high,low,11,spaceship,,,05/10/2026 19:09
+9a12bdd5-c485-4f31-9518-2738f807477b,engineering.mba,available,10.55,31.25,high,low,11,spaceship,,,05/10/2026 19:09
+a5495d29-c247-43c1-8141-a12413ab1031,architecture.ing,premium,150.2,164.27,high,low,12,unstoppable,,,05/10/2026 17:09
+ef139b87-806b-4506-b135-c5beb15f83fb,building.kaufen,available,23.2,23.2,high,low,8,cloudflare,,,06/10/2026 05:17
+d74d02d8-0b4a-4dfe-b1a1-cb107acfe2f9,architecture.blackfriday,available,114.99,114.99,high,low,12,namesilo,,,05/10/2026 17:09
+98e92e19-b92f-42e1-89be-fafbaccf5577,contractor.builders,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 17:45
+bf5c9d5b-a765-4be5-bb11-d83a7a1e5dd1,structure.luxe,available,19.49,19.49,high,low,9,namesilo,,,05/10/2026 18:22
+199b846e-82d4-4dde-be99-c16c494c7ae4,architecture.photography,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",04/10/2025 15:15,04/10/2027 15:15,05/10/2026 17:09
+1ce25c30-64e1-4fe6-8183-18eb48b9919f,structure.sale,available,7.49,38.99,high,low,9,namesilo,,,05/10/2026 18:22
+68a1ed65-7ed5-4866-9e11-ecf250677781,builder.singles,available,7.17,28.04,high,low,7,dynadot,,,06/10/2026 05:14
+70c12c5c-e3ec-4c64-9f17-ca3f9c1d67e8,builder.shiksha,premium,1300,1300,high,low,7,namecheap,,,06/10/2026 05:14
+0a55ac0d-38dd-42e1-8c6b-a7d3d6ab9373,design.clothing,premium,512,512,high,medium,6,namesilo,,,06/10/2026 16:06
+1c7880a7-28ec-47c4-8fb5-7b456893d68a,engineering.moda,available,33.32,33.32,high,low,11,spaceship,,,05/10/2026 19:09
+121ed0d0-0f92-48df-be94-1dd344337fe3,engineering.film,premium,116,116,high,low,11,namesilo,,,05/10/2026 19:09
+aced57e8-4b57-4c2c-a85c-b5bed6fe8193,structure.monster,available,1.99,17.29,high,low,9,namesilo,,,05/10/2026 18:22
+c0ce0818-bf2c-41be-850b-e30c65eab436,architecture.voting,available,1398,1448,high,low,12,namecheap,,,05/10/2026 17:09
+fae3c79b-a672-45e8-98b2-8beced7105b5,structure.apartments,available,57.99,57.99,high,low,9,namesilo,,,05/10/2026 18:22
+c9ca389b-a601-4ca8-9e0b-54db931c7ba0,building.garden,premium,83,26.08,high,low,8,spaceship,,,06/10/2026 05:17
+7ad9ec46-3a1e-4584-ae6e-8cf1972721bb,architecture.faith,premium,546.35,71.48,high,low,12,porkbun,,,05/10/2026 17:09
+1cf30998-3df2-4bab-b874-8035b71df470,architecture.page,premium,249.2,318.72,high,low,12,unstoppable,,,05/10/2026 17:09
 9f474a89-d64e-40cb-82f9-906776c5cf49,structure.contractors,available,35.49,35.49,high,low,9,namesilo,,,05/10/2026 18:22
-a2db4d09-6d4c-4a5e-aefe-758266a885f0,building.today,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",20/06/2018 10:34,20/06/2027 10:34,29/09/2026 05:13
-8fe13bed-4830-46ce-b4f4-0379e26e0517,building.talk,premium,71.4,71.4,high,low,8,namesilo,,,29/09/2026 05:13
+73a64972-86a4-4f7e-a0c4-62b449d9a8ea,engineering.vegas,available,18.99,43.99,high,low,11,namesilo,,,05/10/2026 19:09
+879018ee-3a0a-4d18-8cc5-5512f9a25ffc,engineering.fish,premium,118.8,118.8,high,low,11,namesilo,,,05/10/2026 19:09
+7ddfd003-197f-4f11-b821-8e0c29d24a46,architecture.lawyer,available,65.98,66.98,high,low,12,namecheap,,,05/10/2026 17:09
+90d52ec7-09d3-4668-89c5-f378307d08ae,engineering.condos,premium,102.67,102.67,high,low,11,spaceship,,,05/10/2026 19:09
+13dd90e2-914c-4fdd-86bd-09f06314777b,building.markets,resell,,,high,low,8,Dynadot Inc,15/05/2026 17:00,15/05/2027 17:00,06/10/2026 05:17
+a1618825-9428-4ad6-a708-b3678e4423c0,architecture.security,available,1863.2,2000.18,high,low,12,spaceship,,,05/10/2026 17:09
+fa827c9f-9c29-44c8-8241-fdc6c5a88779,architecture.fast,premium,53.92,53.92,high,low,12,namesilo,,,05/10/2026 17:09
+3ddc9595-37c8-44ed-8275-f8b3c9a05c22,structure.vote,available,34.99,90.99,high,low,9,namesilo,,,05/10/2026 18:22
+2c450702-bc22-403d-8c3e-8269bde576b2,architecture.autos,available,1.99,17.29,high,low,12,namesilo,,,05/10/2026 17:09
+bbec555c-9659-4e61-b37e-92e95d4b66ec,building.host,premium,640,640,high,low,8,namesilo,,,06/10/2026 05:17
+41a132c4-6ef2-4e7e-87e5-a1b8b55ffbdf,architecture.casa,premium,87.86,11.44,high,low,12,porkbun,,,05/10/2026 17:09
+d6bf3769-af01-4485-926b-7bd0b84c33d4,engineering.gallery,premium,118.8,118.8,high,low,11,namesilo,,,05/10/2026 19:09
+1c4c26d1-ac25-42f4-a8a4-927ed03d053f,structure.dog,available,5.38,51.95,high,low,9,spaceship,,,05/10/2026 18:22
+c52e5f33-0324-47f1-b1d8-a4805fcad88d,engineering.global,premium,4000.5,53.92,high,low,11,unstoppable,,,05/10/2026 19:09
+5ec828e8-b32b-4c28-aec4-36cffe569b11,engineering.ltda,premium,66.3,66.3,high,low,11,namecheap,,,05/10/2026 19:09
+9b4dcc22-2f52-4e63-b781-47057795cbde,build.foo,premium,1298.7,1298.7,high,medium,5,namecheap,,,24/09/2026 06:26
+ee95ce12-a43e-46e9-8a47-78f0f3a64244,building.villas,premium,207.2,207.2,high,low,8,spaceship,,,06/10/2026 05:17
+f6f0d670-3c30-4d8d-8711-03906e565135,builder.zip,premium,257.92,257.92,high,low,7,spaceship,,,06/10/2026 05:14
 ed4b99a0-fe4f-43a3-954a-181e440350b8,architecture.agency,resell,,,high,low,12,"Sav.com, LLC - 5",14/06/2022 13:15,14/06/2027 13:15,05/10/2026 17:09
 225a3580-5d4a-484d-9eee-2fdcdb474afb,structure.build,premium,517.7,517.7,high,low,9,spaceship,,,05/10/2026 18:22
 135182ea-de52-4f9d-b5e8-ee12094f2092,architecture.pink,available,14.49,25.99,high,low,12,namesilo,,,05/10/2026 17:09
-8668c4da-d60b-4ce6-920c-2fbccb1edebc,building.market,premium,207.2,207.2,high,low,8,spaceship,,,29/09/2026 05:13
+1217db53-915c-49f1-8dc7-8a77c51801e2,engineering.vote,available,70.2,70.2,high,low,11,cloudflare,,,05/10/2026 19:09
+3d85481f-c0dd-455f-9ac0-d3b90730f235,structure.holiday,available,51.95,51.95,high,low,9,spaceship,,,05/10/2026 18:22
+c4c8045e-670d-4f10-995f-eaae7e1b67af,engineering.shiksha,premium,2070.2,2070.2,high,low,11,spaceship,,,05/10/2026 19:09
+7f526f62-ce18-461b-83e6-0950f60877cc,design.car,available,2140.22,2140.22,high,medium,6,dynadot,,,06/10/2026 16:06
+7450eaaf-ea77-41dd-9eba-f5d33779abcd,architecture.viajes,available,36.56,36.56,high,low,12,porkbun,,,05/10/2026 17:09
+1825dc3e-c615-4159-ab86-8c2082e06c90,design.management,resell,,,high,medium,6,Dynadot Inc,04/06/2022 13:15,04/06/2027 13:15,06/10/2026 16:06
+7cdecfaa-4d19-4356-b105-b8b5b8ba5adc,building.reviews,premium,36.32,72.57,high,low,8,porkbun,,,06/10/2026 05:17
+91e9844c-5a4f-42be-b2bb-4b52d94189ad,engineering.surgery,premium,102.67,102.67,high,low,11,spaceship,,,05/10/2026 19:09
+50e0c9f0-c34a-41fc-b39b-fdb56633023f,structure.hospital,available,44.2,44.2,high,low,9,cloudflare,,,05/10/2026 18:22
+fac4f281-0ed5-4876-968d-acc183f14db9,design.zone,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",04/04/2026 15:15,04/04/2027 15:15,06/10/2026 16:06
+e9fcd10a-3bdb-4048-8e77-d69deca1122f,builder.place,resell,,,high,low,7,"Sav.com, LLC",29/11/2025 21:13,29/11/2026 21:13,06/10/2026 05:14
+4dfe94b4-c60c-431d-bbbc-a517e26c14b5,structure.audio,available,104.99,114.99,high,low,9,namesilo,,,05/10/2026 18:22
+8a2c81f6-eb52-4aca-a84a-878ae5c13b7a,architecture.cars,available,1999.99,2199,high,low,12,namesilo,,,05/10/2026 17:09
+6b7c2cb9-4b71-43c4-a245-81513b762203,builder.click,premium,72.65,103.7,high,low,7,spaceship,,,06/10/2026 05:14
+7ce6f813-c074-4256-8ef3-0e5ad183643f,building.shopping,available,26.99,26.99,high,low,8,namesilo,,,06/10/2026 05:17
+d1af9b1b-d43c-4cac-92e2-f39f0ce4e886,building.industries,premium,109.53,218.86,high,low,8,porkbun,,,06/10/2026 05:17
+29750dcd-6fe0-4b50-826e-43b01aa416c5,design.sexy,available,2749.99,2749.99,high,medium,6,namesilo,,,06/10/2026 16:06
+e4270dec-4df2-48fd-95e2-f1741d0cc7e9,architecture.free,premium,116,116,high,low,12,namesilo,,,05/10/2026 17:09
+1be58b4c-4c6a-4fe6-937a-b2358c14c666,engineering.sarl,available,6.99,6.99,high,low,11,namesilo,,,05/10/2026 19:09
+93fd9412-91bc-4494-b46e-d6cdeec934d4,design.exposed,premium,512,512,high,medium,6,namesilo,,,06/10/2026 16:06
 ce43db26-0fc6-454b-b134-187fd5e12d3e,architecture.design,premium,2070.2,2070.2,high,low,12,spaceship,,,05/10/2026 17:09
-5bbb9659-1fa8-46c1-aefa-791d098b2f2d,building.lease,premium,242,242,high,low,8,namesilo,,,29/09/2026 05:13
-579b6998-b90f-409f-9b94-daabaa6ca338,building.express,premium,66.5,42.9,high,low,8,unstoppable,,,29/09/2026 05:13
-b96ce23f-6bc9-465e-9868-2243b014db0d,building.free,premium,100.5,130,high,low,8,unstoppable,,,29/09/2026 05:13
-a596a889-07e6-4001-9650-83aa747e01f7,building.click,available,1.24,10.55,high,low,8,spaceship,,,29/09/2026 05:13
+5ff0893d-345c-4d51-ac2f-cfe4e417e1e2,structure.boats,available,1.24,13.97,high,low,9,spaceship,,,05/10/2026 18:22
+52974492-de83-4601-807a-df7ab55b6c0d,design.loan,premium,640,77.35,high,medium,6,namesilo,,,06/10/2026 16:06
+caa50338-adc6-4fe3-811e-52a99c10f569,engineering.college,premium,3250,3250,high,low,11,namecheap,,,05/10/2026 19:09
+0bd68f6f-ee17-4f23-897a-bfe2cc93ba2c,architecture.buzz,premium,116,53.92,high,low,12,namesilo,,,05/10/2026 17:09
+ff5061a8-95bb-4500-90c0-0058eefeecb2,builder.trading,available,21.98,27.98,high,low,7,namecheap,,,06/10/2026 05:14
+05df8b66-6888-4e8e-a610-65e2cbdd7a97,design.vision,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",27/01/2026 15:16,27/01/2027 15:16,06/10/2026 16:06
+0ec90a4a-42a4-457d-bbf1-446f290f35de,builder.video,premium,130,260,high,low,7,namecheap,,,06/10/2026 05:14
+3f5a069a-850d-4e6b-8612-112ce95da80c,structure.university,available,49.88,49.88,high,low,9,spaceship,,,05/10/2026 18:22
+9ba86acd-d9db-4259-bcbf-790758471b6a,engineering.pw,premium,517.5,517.5,high,low,11,spaceship,,,05/10/2026 19:09
+115e01e4-9b56-4629-b1cb-c268ba870b53,architecture.tienda,available,59.99,59.99,high,low,12,namesilo,,,05/10/2026 17:09
+f65a8694-4b36-4a4c-9d39-6f08ae9f2523,architecture.lease,available,56.99,56.99,high,low,12,namesilo,,,05/10/2026 17:09
+d280ab55-d138-49c3-8d89-521b745bbc61,building.eco,premium,1638.01,63.3,high,low,8,porkbun,,,06/10/2026 05:17
+63df74fb-7644-4f36-a994-65b59e03bb0b,builder.land,resell,,,high,low,7,Dynadot Inc,08/02/2026 17:00,08/02/2027 17:00,06/10/2026 05:14
+cc501904-a9ed-4aba-9c8a-75e8662f5b01,building.army,available,30.2,30.2,high,low,8,cloudflare,,,06/10/2026 05:17
+2473474e-265c-4422-baa1-b506276afdcf,builder.careers,premium,512,512,high,low,7,namesilo,,,06/10/2026 05:14
+c1bf22ff-b1f4-440a-ae85-5c67c80b8446,builder.clinic,available,10.55,51.95,high,low,7,spaceship,,,06/10/2026 05:14
+6d5f5b7d-a1ec-498b-9487-2fe320e6c6d4,builder.fitness,available,2.79,33.32,high,low,7,spaceship,,,06/10/2026 05:14
+7a3e4453-c6a7-4edf-a5af-1d557d0999ed,architecture.credit,available,11.49,104.99,high,low,12,namesilo,,,05/10/2026 17:09
+25a5785f-6193-4268-9070-046e2a2a9901,structure.baby,available,17.99,54.99,high,low,9,namesilo,,,05/10/2026 18:22
+6831a903-0887-40fa-8336-01ca31b1d5fc,construct.build,premium,1875,1875,high,low,9,name.com,,,24/09/2026 10:59
+0785e6bb-37ea-41fa-81dc-b53ed63a6282,builder.tickets,available,359.99,488.88,high,low,7,namesilo,,,06/10/2026 05:14
+98a46dcc-69a8-4b07-9e63-ba81ff51f40e,structure.gallery,available,23.76,23.76,high,low,9,dynadot,,,05/10/2026 18:22
+ad0ca742-eac1-49cc-836b-a0a196a12d28,structure.reviews,available,62.99,62.99,high,low,9,namesilo,,,05/10/2026 18:22
+3b32c132-3680-43d5-8a61-ad0bdd7ded8b,engineering.band,available,17.48,39.98,high,low,11,namecheap,,,05/10/2026 19:09
+7a620644-5c6f-49d2-b77c-fe627137f51f,architecture.news,premium,1000.5,1107,high,low,12,unstoppable,,,05/10/2026 17:09
+18f09ac7-1176-4e78-b146-9a5eaa97b3fe,architecture.theatre,available,500.2,500.2,high,low,12,cloudflare,,,05/10/2026 17:09
 84d5a558-6e09-48b6-8055-f087b6cf0723,architecture.condos,available,61.98,72.98,high,low,12,namecheap,,,05/10/2026 17:09
-720d0e8a-4e8d-4709-8ce8-68e70fd067c6,building.domains,available,33.2,33.2,high,low,8,cloudflare,,,29/09/2026 05:13
-2e45349f-0bda-4bdf-a148-b7156b1c273b,building.ooo,available,24.99,24.99,high,low,8,namesilo,,,29/09/2026 05:13
-ef139b87-806b-4506-b135-c5beb15f83fb,building.kaufen,available,23.94,23.94,high,low,8,spaceship,,,29/09/2026 05:13
-59a8a602-561f-48e6-9868-ae076283574d,building.us,resell,,,high,low,8,,,,29/09/2026 05:13
-c9ca389b-a601-4ca8-9e0b-54db931c7ba0,building.garden,premium,104,32.5,high,low,8,namecheap,,,29/09/2026 05:13
-13dd90e2-914c-4fdd-86bd-09f06314777b,building.markets,resell,,,high,low,8,Dynadot Inc,15/05/2026 17:00,15/05/2027 17:00,29/09/2026 05:13
-bbec555c-9659-4e61-b37e-92e95d4b66ec,building.host,premium,640,640,high,low,8,namesilo,,,29/09/2026 05:13
-ee95ce12-a43e-46e9-8a47-78f0f3a64244,building.villas,premium,260,260,high,low,8,namecheap,,,29/09/2026 05:13
-7cdecfaa-4d19-4356-b105-b8b5b8ba5adc,building.reviews,premium,36.32,72.57,high,low,8,porkbun,,,29/09/2026 05:13
-7ce6f813-c074-4256-8ef3-0e5ad183643f,building.shopping,available,26.99,26.99,high,low,8,namesilo,,,29/09/2026 05:13
-d1af9b1b-d43c-4cac-92e2-f39f0ce4e886,building.industries,premium,220,220,high,low,8,dynadot,,,29/09/2026 05:13
+3102472e-c854-4ca0-81c3-62eb19eafc1a,builder.juegos,available,321.22,321.22,high,low,7,dynadot,,,06/10/2026 05:14
+0f616f28-456a-4d4d-be60-c06dca250054,engineer.build,premium,1650,1650,high,low,8,dynadot,,,03/10/2026 22:54
+fb8fcdfb-d196-446d-800b-1e23c1986a0a,structure.organic,available,17.99,85.99,high,low,9,namesilo,,,05/10/2026 18:22
+6bd0f8f3-07df-4d99-be16-ec8a049b72b1,design.ooo,premium,17043,119.99,high,medium,6,namesilo,,,06/10/2026 16:06
+acfb219b-0e31-4d32-a477-76c06c1b6821,engineering.buzz,premium,512,116,high,low,11,namesilo,,,05/10/2026 19:09
+ae6bf02a-5052-4a44-8cdd-2abb808ef982,building.onl,available,5.49,23.49,high,low,8,namesilo,,,06/10/2026 05:17
+6be20c57-8c85-4728-905c-7305d55e0236,structure.garden,available,25.2,25.2,high,low,9,cloudflare,,,05/10/2026 18:22
+67e65b82-65ba-4f02-8cac-dc6cd7a5e2a1,engineering.bar,premium,576,576,high,low,11,namesilo,,,05/10/2026 19:09
+571b44f7-f122-498f-a3d8-ac54e71c6d69,builder.bargains,available,13.14,23.94,high,low,7,spaceship,,,06/10/2026 05:14
+4394be8c-663b-491d-b584-478b910aa266,structure.shopping,available,23.18,23.18,high,low,9,spaceship,,,05/10/2026 18:22
+ef12c2db-e88f-45ec-a277-c0095de2a5c4,structure.vin,available,8.99,59.99,high,low,9,namesilo,,,05/10/2026 18:22
+3ca7081f-b837-4e31-a455-9f2c40e314a9,architecture.mom,resell,,,high,low,12,Dynadot Inc,03/05/2026 21:38,03/05/2027 23:59,05/10/2026 17:09
+cb38ee41-88e2-48f5-a1d0-d00b529f34dc,structure.careers,available,34.99,71.99,high,low,9,namesilo,,,05/10/2026 18:22
+4a84c24a-130b-46a0-9f37-f99e19d7ee11,engineering.exposed,premium,207.2,207.2,high,low,11,spaceship,,,05/10/2026 19:09
+e68d5e0e-53e2-46e9-a74f-10eb7c6d1863,build.gg,resell,,,high,medium,5,GoDaddy.com LLC (https://www.godaddy.com),,,26/09/2026 04:39
+cdd1fe38-a66a-482c-a3ba-879962d011e1,engineering.forex,available,80.2,80.2,high,low,11,cloudflare,,,05/10/2026 19:09
+4ed6f0d4-0ce9-489a-b609-370e362f5716,engineering.capital,premium,68.51,68.51,high,low,11,spaceship,,,05/10/2026 19:09
+89c9d174-23ae-4e20-af51-0e8803db9920,structure.gifts,available,36.99,36.99,high,low,9,namesilo,,,05/10/2026 18:22
+4f9cb6e9-24a0-401a-8ba7-4d09fa71a792,structure.blackfriday,available,128.98,134.98,high,low,9,namecheap,,,05/10/2026 18:22
+75dd7e1f-8372-402e-a2a8-83e7587bdfae,engineering.pet,available,6.41,20.9,high,low,11,spaceship,,,05/10/2026 19:09
+96cf3d79-8e1a-45ca-8643-8e99deba4d1e,architecture.bid,premium,448,53.92,high,low,12,namesilo,,,05/10/2026 17:09
+ddf7233a-ac31-40cc-94dd-dec5b2d7a666,structure.navy,available,32.2,32.2,high,low,9,cloudflare,,,05/10/2026 18:22
+c281bf4a-35f8-47a9-948e-f669a0a0c5b8,architecture.rodeo,available,13.98,17.98,high,low,12,namecheap,,,05/10/2026 17:09
+2c33feed-9157-47e8-9a19-22320bc42dbd,structure.partners,available,10.48,88.98,high,low,9,namecheap,,,05/10/2026 18:22
+96a23cb6-4947-4f80-b664-47fa84b37458,design.direct,premium,414.2,414.2,high,medium,6,spaceship,,,06/10/2026 16:06
+8552d831-1e43-4297-bdab-098bf86f718a,building.one,premium,6900,6900,high,low,8,namesilo,,,06/10/2026 05:17
+ff187b60-6bc5-41e2-b8e0-985978e4a064,builder.hair,available,1.99,17.29,high,low,7,namesilo,,,06/10/2026 05:14
+813e7d5f-dc4c-48a7-9e5f-751123aa6148,architecture.mov,premium,59.2,61.27,high,low,12,unstoppable,,,05/10/2026 17:09
+ce06187a-ceb5-4c5f-8b9b-a54d9fe9c55c,structure.cool,available,5.57,37.55,high,low,9,dynadot,,,05/10/2026 18:22
+c885f5b1-08ad-4c7f-9bbb-aa04deb9f73b,engineering.properties,premium,220,220,high,low,11,dynadot,,,05/10/2026 19:09
+9efd60e4-0244-43e0-a797-6ee6a32d1b28,building.toys,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",25/03/2026 15:15,25/03/2027 15:15,06/10/2026 05:17
+ed675ad7-61d9-4274-9a43-7ecc6250b830,structure.supplies,available,20.55,20.55,high,low,9,dynadot,,,05/10/2026 18:22
+fe07f378-a110-4da0-8445-a8c009d6de10,engineering.online,premium,1625,6500,high,low,11,namecheap,,,05/10/2026 19:09
+9457ea9e-8696-4ba1-9b94-b05b8c04fa5c,design.lat,premium,672.95,672.95,high,medium,6,spaceship,,,06/10/2026 16:06
+26c65b55-9b20-486e-a913-99670d0f9b88,structure.skin,available,1.8,21.98,high,low,9,namecheap,,,05/10/2026 18:22
+1aedb7ae-87ad-48c6-a5dc-c677d3646aed,builder.gmbh,available,36.43,36.43,high,low,7,spaceship,,,06/10/2026 05:14
+e9fc6ee6-ef33-4f7d-8a19-cb69f02f0ffd,engineering.vana,available,2070.2,2070.2,high,low,11,spaceship,,,05/10/2026 19:09
+f4befc6a-5a42-46ea-9a9b-095c9423df66,architecture.hamburg,available,69.98,73.98,high,low,12,namecheap,,,05/10/2026 17:09
+6090589a-a88f-48e1-b219-bb532021e9e5,engineering.mov,premium,59.2,61.27,high,low,11,unstoppable,,,05/10/2026 19:09
+69f42cd2-7dd5-4852-9079-cf64a2954ad4,design.berlin,resell,,,high,medium,6,,27/11/2015 16:02,27/11/2027 16:02,06/10/2026 16:06
+35a694d9-24e1-42df-b0af-4ec96ff0f26a,design.finance,resell,,,high,medium,6,UM DOMAINS PTE. LTD,22/03/2026 15:15,22/03/2027 15:15,06/10/2026 16:06
+4473c00d-3770-4d01-a014-09210e62b3f6,structure.tube,resell,,,high,low,9,"GoDaddy.com, LLC",10/04/2019 22:15,10/04/2027 22:15,05/10/2026 18:22
+ce242cc3-7dcc-44c4-88a3-96e37cdc86fa,engineering.mx,available,39.99,43.99,high,low,11,namesilo,,,05/10/2026 19:09
+e01db70a-55e9-4fb8-9e55-248fd26e4bbd,builder.estate,available,15.99,38.99,high,low,7,namesilo,,,06/10/2026 05:14
+7481d6ca-8392-41b4-ae77-feb282f8618b,structure.limo,available,54.99,54.99,high,low,9,namesilo,,,05/10/2026 18:22
+3339f57d-e903-4e6c-9b86-a632d441e058,structure.band,available,20.99,31.49,high,low,9,namesilo,,,05/10/2026 18:22
+e0b33707-8a44-4f2f-8d03-6ec7b786343b,architecture.fun,premium,129.58,517.7,high,low,12,spaceship,,,05/10/2026 17:09
+39644a4a-b2ca-4cea-8892-dbdd7d9cf2dc,design.tires,available,5.99,78.99,high,medium,6,namesilo,,,06/10/2026 16:06
+053fe283-781c-4252-b981-a264381f3adb,builder.talk,premium,78,78,high,low,7,namecheap,,,06/10/2026 05:14
+21fdc59c-b3b4-4991-89f3-7f48c19f29e9,design.world,resell,,,high,medium,6,"Spaceship, Inc.",31/03/2022 13:15,31/03/2027 13:15,06/10/2026 16:06
+c46c8765-c1af-43e9-baf3-6412d832f020,build.design,premium,2660,2660,high,medium,5,namesilo,,,24/09/2026 06:26
+0d039cf0-7f06-4e5b-9632-b43d52bc5154,builder.ceo,premium,413.37,413.37,high,low,7,spaceship,,,06/10/2026 05:14
+d49af453-193b-4ce9-a481-b0e43c54f4ea,architecture.holdings,premium,207.2,207.2,high,low,12,spaceship,,,05/10/2026 17:09
+a958f779-e438-4428-88a0-f842f16bcf94,structure.faith,premium,640,77.35,high,low,9,namesilo,,,05/10/2026 18:22
+e47cf98d-b054-4b57-ae8c-ac6cb6b9789b,design.qpon,premium,640,23.54,high,medium,6,namesilo,,,06/10/2026 16:06
+7d5fd44e-f118-4dbc-bf46-5e19e456b3a4,design.bargains,premium,68.51,68.51,high,medium,6,spaceship,,,06/10/2026 16:06
+0cd81c7c-1074-4823-9a59-c27e0e2fdcaf,builder.racing,premium,103.7,103.7,high,low,7,spaceship,,,06/10/2026 05:14
+79c867d3-95c2-4e93-88b5-6b7c0c2ceff9,building.financial,available,15.73,46.78,high,low,8,spaceship,,,06/10/2026 05:17
+67c933d9-419e-45f3-92cc-d3897df61188,building.run,resell,,,high,low,8,"DNSPod, Inc.",03/10/2023 15:15,03/10/2027 15:15,06/10/2026 05:17
+7b34552c-b246-48b1-900a-1184d030e43d,engineering.blackfriday,available,114.99,114.99,high,low,11,namesilo,,,05/10/2026 19:09
+a24e1048-3f2e-4150-ace1-0768ce3da0bd,architecture.singles,available,26.2,26.2,high,low,12,cloudflare,,,05/10/2026 17:09
+fb95e012-b4ec-485e-b250-3e1b49ee34b1,building.motorcycles,available,1.99,17.29,high,low,8,namesilo,,,06/10/2026 05:17
+ce674653-ce57-4c07-a5e0-dc1b042164d2,design.llc,premium,3450,3450,high,medium,6,namesilo,,,06/10/2026 16:06
+f13ae44e-3744-42a0-88c0-37602f3bb00c,building.best,resell,,,high,low,8,"Spaceship, Inc.",19/08/2026 02:03,19/08/2027 23:59,06/10/2026 05:17
+e3ea88a2-ec37-42e1-9123-b1d7ee3c84c3,engineering.giving,premium,207.2,207.2,high,low,11,spaceship,,,05/10/2026 19:09
+27611d8f-3a82-44a4-b908-3ab057b80bee,builder.guitars,available,104.99,114.99,high,low,7,namesilo,,,06/10/2026 05:14
+69a2147a-d0ff-4bf7-8827-d5bb6ca2ffa1,architecture.reise,available,27.89,97.99,high,low,12,namesilo,,,05/10/2026 17:09
+127353b4-c608-496e-b066-27fddd869dfb,design.store,premium,1293.95,5175.2,high,medium,6,spaceship,,,06/10/2026 16:06
+4fa7a196-27bb-4e79-8f69-7316d43c5928,builder.mov,premium,249.2,,high,low,7,unstoppable,,,06/10/2026 05:14
+8f774615-8278-4a31-82c2-7fe090b7e605,architecture.tires,available,5.99,78.99,high,low,12,namesilo,,,05/10/2026 17:09
+5465cc89-6039-45ed-8b2a-5fc58e07cc34,builder.team,resell,,,high,low,7,"DNSPod, Inc.",12/12/2020 23:46,12/12/2026 23:46,06/10/2026 05:14
+9e6d5a3a-dd02-40a2-80f5-36e345ba7745,structure.ski,premium,108.9,108.9,high,low,9,dynadot,,,05/10/2026 18:22
+63684357-5284-437d-83fa-9c59f16353cc,engineering.space,premium,10000.2,13000,high,low,11,unstoppable,,,05/10/2026 19:09
+25da0185-9cd1-45c2-8242-9f24e8c15ae9,design.games,resell,,,high,medium,6,"GoDaddy.com, LLC",12/09/2024 00:04,12/09/2027 00:04,06/10/2026 16:06
+a371eee4-eb0f-40eb-ae97-9d90ffa087be,building.buzz,premium,116,53.92,high,low,8,namesilo,,,06/10/2026 05:17
+6b04139c-6d1d-4e08-9c6a-39c890ecd904,builder.film,available,65.99,65.99,high,low,7,namesilo,,,06/10/2026 05:14
+843ecef6-7a3d-4a36-92c1-894a178e3e2c,engineering.family,premium,102.67,102.67,high,low,11,spaceship,,,05/10/2026 19:09
+6f2cbd76-b5aa-46bf-8506-c5e5179d6667,architecture.ag,available,82.5,82.5,high,low,12,dynadot,,,05/10/2026 17:09
+73dffb93-89cf-4d1d-b443-908299236774,engineering.graphics,available,18.83,18.83,high,low,11,spaceship,,,05/10/2026 19:09
 2f9e8e1e-7f05-42c4-a230-cc1b59156f2d,architecture.ngo,available,15.2,15.2,high,low,12,cloudflare,,,05/10/2026 17:09
-2475e42c-cb51-4480-bc48-dea2d3947ff0,building.archi,premium,640,640,high,low,8,namesilo,,,29/09/2026 05:13
-d280ab55-d138-49c3-8d89-521b745bbc61,building.eco,premium,1650,61.74,high,low,8,dynadot,,,29/09/2026 05:13
-cc501904-a9ed-4aba-9c8a-75e8662f5b01,building.army,available,10.92,32.21,high,low,8,dynadot,,,29/09/2026 05:13
+40bd57e5-b9aa-4cfb-b025-a7cbe84b8ea7,building.credit,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",04/01/2026 15:15,04/01/2027 15:15,06/10/2026 05:17
+153fb89a-bfac-4fcc-afee-534317d96a24,engineer.technology,resell,,,high,low,8,"GoDaddy.com, LLC",16/05/2026 17:04,16/05/2027 17:04,03/10/2026 22:54
+115af7e3-d424-4e63-bcd7-993983e87652,design.futbol,available,5.38,13.66,high,medium,6,spaceship,,,06/10/2026 16:06
+2b35d032-78a5-4c3a-9051-c2996e133383,builder.vet,available,33.32,33.32,high,low,7,spaceship,,,06/10/2026 05:14
+1c7134a1-39e3-451f-9c57-98ecc3603c94,builder.gratis,available,18.83,18.83,high,low,7,spaceship,,,06/10/2026 05:14
+ed5e2bf2-b2b7-463e-977e-0b35218b4bbb,engineering.security,available,1863.2,2000.18,high,low,11,spaceship,,,05/10/2026 19:09
+674e4693-585c-4b6c-9158-2bcc9c6a9d0d,engineering.ski,premium,118.8,118.8,high,low,11,namesilo,,,05/10/2026 19:09
+58f70d59-754a-4399-a584-eb4518e922ae,builder.bet,resell,,,high,low,7,Dynadot Inc,13/02/2024 12:04,13/02/2027 12:04,06/10/2026 05:14
+a9348ec8-610b-44a6-a26b-4f9e7a884f12,builder.voto,available,10.55,55.93,high,low,7,spaceship,,,06/10/2026 05:14
+1fe92bb7-bb74-48fc-a66c-a1700c897105,build.construction,resell,,,high,medium,5,"GoDaddy.com, LLC",10/02/2014 21:46,10/02/2027 21:46,26/09/2026 04:39
+4817b62e-d33e-4e5d-a89f-e51df74d0b3b,builder.degree,available,40.2,40.2,high,low,7,cloudflare,,,06/10/2026 05:14
+6d89d161-314c-4579-8f45-2587f0375844,architecture.bayern,available,31.62,30.8,high,low,12,porkbun,,,05/10/2026 17:09
+c88daee9-f357-4546-a531-2cbc8d4feffb,structure.xxx,resell,154.98,,high,low,9,"GoDaddy.com, LLC",23/06/2026 06:11,23/06/2027 06:11,05/10/2026 18:22
+d68a7f9b-8cc1-4eaa-b523-34a8fd8a4dbf,design.cleaning,premium,260,260,high,medium,6,namecheap,,,06/10/2026 16:06
+7dea0837-5ba9-4649-b983-3809a43b213d,structure.shop,premium,2660,35.4,high,low,9,namesilo,,,05/10/2026 18:22
+b85bdbd4-4f5f-4064-af5e-9810e853ee06,architecture.moi,available,27,,high,low,12,unstoppable,,,05/10/2026 17:09
+bf19747e-263e-4a1c-a6ed-4f86349a8294,builder.skin,available,1.99,17.29,high,low,7,namesilo,,,06/10/2026 05:14
+82568892-284b-43ff-8737-63fbc08f4ad5,builder.date,premium,310.7,51.95,high,low,7,spaceship,,,06/10/2026 05:14
+8380a017-5964-4b52-8207-6d3e27ded638,architecture.hospital,available,45.74,45.74,high,low,12,spaceship,,,05/10/2026 17:09
+e521ae0c-7546-4644-83d9-18b3e30eb4e5,design.trade,resell,,,high,medium,6,"Spaceship, Inc.",29/07/2019 12:35,29/07/2027 12:35,06/10/2026 16:06
+f948b940-3653-43b2-8ecb-ab1e286ceab4,design.capital,resell,,,high,medium,6,"Spaceship, Inc.",14/04/2024 15:15,14/04/2027 15:15,06/10/2026 16:06
+9fa696a1-4af9-47c2-8914-aadf7eb65a9d,engineering.navy,available,41.99,41.99,high,low,11,namesilo,,,05/10/2026 19:09
+84e85645-3b90-4483-9803-9479b60ffd16,engineering.flowers,available,64.99,114.99,high,low,11,namesilo,,,05/10/2026 19:09
 ff5ae5a8-8066-495e-a7eb-99a855e42807,architecture.maison,available,57.99,57.99,high,low,12,namesilo,,,05/10/2026 17:09
+a0581856-f31f-451d-8019-1acfed37b5ac,architecture.voto,available,10.55,55.93,high,low,12,spaceship,,,05/10/2026 17:09
+e1b3a029-8304-41ec-99cd-0aff6afa0751,contractor.haus,available,11.98,37.98,high,low,10,namecheap,,,24/09/2026 17:45
 39ff975c-9bc9-44fc-bbfe-dc661d248f64,architecture.network,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",08/03/2015 21:27,08/03/2027 21:27,05/10/2026 17:09
-8552d831-1e43-4297-bdab-098bf86f718a,building.one,premium,6900,6900,high,low,8,namesilo,,,29/09/2026 05:13
+7a41faaa-6981-49ee-bbe2-c4fba8907eb6,architecture.watch,premium,36.32,72.57,high,low,12,porkbun,,,05/10/2026 17:09
+3043cc09-5eb0-463e-b305-a3fbe05797c1,architecture.desi,available,19.98,22.98,high,low,12,namecheap,,,28/09/2026 17:04
+454673b8-3047-4f5f-9874-e0f754b0f1ac,design.boston,premium,260,23.4,high,medium,6,namecheap,,,06/10/2026 16:06
+ed5c3108-6b85-4a55-8ec9-49c6bccffb0f,structure.soccer,available,20.2,20.2,high,low,9,cloudflare,,,05/10/2026 18:22
+43c6c0eb-d8d3-48e5-b3a4-f307a07957c6,development.build,premium,3300,3300,high,low,11,dynadot,,,05/10/2026 05:37
+38150408-2631-444f-bfa0-d472bc183c06,architecture.menu,available,27.99,27.99,high,low,12,namesilo,,,05/10/2026 17:09
+1a1e6f4f-74e4-4708-b48b-8a8dafab583d,architecture.new,available,412.2,412.2,high,low,12,spaceship,,,05/10/2026 17:09
+152ab7db-1d0a-4c21-9d2f-44b3e38955c6,building.vin,available,8.5,49.44,high,low,8,unstoppable,,,06/10/2026 05:17
 554a0610-14db-4a4b-8d56-48711887a508,architecture.villas,available,47.81,47.81,high,low,12,spaceship,,,05/10/2026 17:09
-ae6bf02a-5052-4a44-8cdd-2abb808ef982,building.onl,available,5.49,23.49,high,low,8,namesilo,,,29/09/2026 05:13
+6885476c-d98d-4819-a0b3-496b4d44939a,design.bike,resell,,,high,medium,6,"Spaceship, Inc.",01/04/2025 15:15,01/04/2027 15:15,06/10/2026 16:06
+f764148b-442e-41c0-b652-0bd9b8ba1e9e,building.day,premium,516.67,516.67,high,low,8,spaceship,,,06/10/2026 05:17
+4ea3ed5c-2f0e-454c-8497-76e7c774cec3,engineering.bayern,available,34.99,34.99,high,low,11,namesilo,,,05/10/2026 19:09
+090e05cd-f996-4190-9c55-f70d34d37834,build.zone,resell,,,high,medium,5,Xin Net Technology Corporation,25/09/2021 17:00,25/09/2027 17:00,26/09/2026 04:39
+d7356fbe-e651-4f81-a767-8fe42a09df69,building.memorial,available,52.99,52.99,high,low,8,namesilo,,,06/10/2026 05:17
+74324002-4d81-4ad7-894c-e757cdc3a16f,builder.limited,available,36.99,36.99,high,low,7,namesilo,,,06/10/2026 05:14
+c0d52e26-8a4b-4872-befb-165b43a5675e,structure.watch,available,3,36.6,high,low,9,dynadot,,,05/10/2026 18:22
+e40e4505-f20f-4f65-8d20-210f1f30fe5e,structure.zip,premium,61.27,61.27,high,low,9,spaceship,,,05/10/2026 18:22
+d96ab619-f93e-4fbb-bcac-a1aaffa16729,engineering.social,premium,414.2,414.2,high,low,11,spaceship,,,05/10/2026 19:09
+c6895a50-945b-4173-9d22-278c3103ab4a,contractor.realty,premium,2275,3250,high,low,10,namecheap,,,24/09/2026 17:45
+038c78c9-bc48-497b-8a49-4329a730394a,building.vegas,available,19.98,64.98,high,low,8,namecheap,,,06/10/2026 05:17
+2f6d2e35-5647-47bd-9328-1c9aa86e5b4c,builder.salon,available,57.99,57.99,high,low,7,namesilo,,,06/10/2026 05:14
+1faf15f2-f606-4722-b5bf-798e1e78742a,design.rsvp,premium,999.2,1298.7,high,medium,6,unstoppable,,,06/10/2026 16:06
+5438cd4e-4828-49bb-baf3-834f61441349,contractor.airforce,available,103.99,103.99,high,low,10,namesilo,,,24/09/2026 17:45
 275d3f26-2c3c-48e6-9a49-a7c868eea8af,architecture.glass,available,76.98,99.98,high,low,12,namecheap,,,05/10/2026 17:09
+5f04018f-b150-46ef-a092-81d2f38e1f69,structure.moe,available,13.99,13.99,high,low,9,namesilo,,,05/10/2026 18:22
 cf20441a-3ee8-4663-a24d-985458df6502,architecture.gives,available,11.99,23.01,high,low,12,dynadot,,,05/10/2026 17:09
+513f7ab9-40d8-4574-85b2-d99a3911c65b,builder.lgbt,available,14.99,79.99,high,low,7,namesilo,,,06/10/2026 05:14
+c47929ba-535b-47be-8fd0-91a1606fba61,structure.moda,available,41.99,41.99,high,low,9,namesilo,,,05/10/2026 18:22
+0081d85d-d197-4ea5-8e9f-b539fa08e512,structure.gay,available,2.99,38.99,high,low,9,namesilo,,,05/10/2026 18:22
 6a49ad6b-73fb-46b9-8ba6-7abc80fcc996,architecture.center,premium,207.2,207.2,high,low,12,spaceship,,,05/10/2026 17:09
+5431235d-41a1-4b05-9fe3-c3eaf961f960,build.rent,premium,1107,1107,high,medium,5,namesilo,,,24/09/2026 06:26
+15379da7-0492-4ca9-8f50-f92677d034bb,build.gmbh,available,45.99,45.99,high,medium,5,namesilo,,,24/09/2026 06:26
+5bb639bd-7ef9-4a52-abd6-022ad672858f,builder.bayern,available,34.99,34.99,high,low,7,namesilo,,,06/10/2026 05:14
+54a9deaa-3333-4fb5-bf82-969fb1e231f7,engineering.srl,premium,54.28,30.68,high,low,11,namesilo,,,05/10/2026 19:09
+94623494-697b-4bb8-a17b-f342068211d1,design.family,premium,400.5,414.2,high,medium,6,unstoppable,,,06/10/2026 16:06
+048c8b27-7e6f-40bf-892e-be7ab9fa84c7,builder.free,premium,103.7,103.7,high,low,7,spaceship,,,06/10/2026 05:14
+425e92fd-a146-4751-94ba-e513b70226bb,building.soccer,available,25.99,25.99,high,low,8,namesilo,,,06/10/2026 05:17
+69904a70-c252-4c49-8a53-b44eeb518b34,engineering.mortgage,available,65.98,76.98,high,low,11,namecheap,,,05/10/2026 19:09
+952979df-a90f-4bec-9ed8-e095b8b7cb18,engineering.pictures,available,15.49,15.49,high,low,11,namesilo,,,05/10/2026 19:09
+a6a69846-a54c-422b-84ae-970cec3153c3,builder.dating,available,20,50.2,high,low,7,unstoppable,,,06/10/2026 05:14
 8f4f0268-4d65-4249-88b2-e85f19200852,architecture.irish,available,5.38,17.8,high,low,12,spaceship,,,05/10/2026 17:09
 51abfa22-676e-4045-9a53-9999fdb460f0,architecture.properties,premium,220,220,high,low,12,dynadot,,,05/10/2026 17:09
+ced7644e-d791-4015-bec8-c168a5b58ba4,builder.osaka,available,26.97,26.97,high,low,7,dynadot,,,06/10/2026 05:14
 c1c50848-69de-4f49-b6ac-cf1e15889ce6,architecture.marketing,premium,85.8,85.8,high,low,12,namecheap,,,05/10/2026 17:09
 fb4f3411-39c4-4d1f-ae74-2218a57b3212,architecture.cyou,premium,68.43,147.2,high,low,12,namesilo,,,05/10/2026 17:09
-67c933d9-419e-45f3-92cc-d3897df61188,building.run,resell,,,high,low,8,"DNSPod, Inc.",03/10/2023 15:15,03/10/2027 15:15,05/10/2026 06:07
+3108b583-f050-4f22-b5dd-fa0aa6834b06,structure.forex,available,13.5,83,high,low,9,unstoppable,,,05/10/2026 18:22
+aaa7fe1d-0763-4348-a2c1-fb321667ad5c,construct.cloud,resell,,,high,low,9,"Spaceship, Inc.",06/05/2022 00:00,06/05/2027 00:00,26/09/2026 05:12
+e3267c34-a5f4-4a43-b8cb-cf4089bd6bcb,builder.fashion,available,26.97,26.97,high,low,7,dynadot,,,06/10/2026 05:14
 350746c5-c283-4e99-a21b-8cc96773bb46,architecture.email,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
 2ab1c21d-a41a-432c-a706-0cb796f44786,architecture.rest,premium,163.8,234,high,low,12,namecheap,,,05/10/2026 17:09
+1e3c58d8-cf69-4cef-8a42-1523eee224ef,structure.ong,available,16.72,16.72,high,low,9,dynadot,,,05/10/2026 18:22
+1f97e8b4-e09e-400c-9214-8981dc6e0dba,structure.day,premium,141.35,141.35,high,low,9,porkbun,,,05/10/2026 18:22
+70f518e0-dee7-417f-9faf-9708a84d2964,builder.agency,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",08/04/2026 15:16,08/04/2027 15:16,06/10/2026 05:14
+ded0531a-d466-4c8e-ba73-977e5be8c491,engineering.review,premium,5175.2,103.7,high,low,11,spaceship,,,05/10/2026 19:09
+7bb60905-a01b-4ca7-a09b-71ea49317107,structure.free,premium,116,116,high,low,9,namesilo,,,05/10/2026 18:22
+cf96b173-b4e2-4ebd-a4db-7bbdc907cced,engineering.luxe,available,19.49,19.49,high,low,11,namesilo,,,05/10/2026 19:09
+43a26416-8cc8-4248-a533-a2864302091e,builder.tv,resell,,,high,low,7,Dynadot Inc,06/10/2021 13:54,06/10/2027 13:54,06/10/2026 05:14
+710f15e6-c2ce-4424-96aa-133ea65ea421,engineering.day,premium,257.92,257.92,high,low,11,spaceship,,,05/10/2026 19:09
+f0fca7be-7314-47e6-af63-271528e76749,design.florist,available,32.99,32.99,high,medium,6,namesilo,,,06/10/2026 16:06
+bfc2d564-5606-4639-82a0-f372936093d2,structure.rest,available,1.25,26,high,low,9,spaceship,,,05/10/2026 18:22
+0d301c45-1115-4c84-b55d-3c11f4b18ecc,structure.movie,available,36.43,279.65,high,low,9,spaceship,,,05/10/2026 18:22
+e685bf30-3e62-4548-a403-6d0d3aca3533,building.cards,available,31.25,31.25,high,low,8,spaceship,,,06/10/2026 05:17
 5e6292de-f32a-443d-b898-957b1faac873,architecture.cash,available,12.99,38.99,high,low,12,namesilo,,,05/10/2026 17:09
+4715f6aa-dfc5-439c-a91e-acfd7d7adbaa,building.ngo,premium,55,27.5,high,low,8,dynadot,,,06/10/2026 05:17
+d77478b2-ae78-4cbd-ac4e-bc846777d7b2,structure.autos,available,1.8,21.98,high,low,9,namecheap,,,05/10/2026 18:22
+1506c050-1e3c-48b2-8e82-32f61af314c2,build.kitchen,resell,,,high,medium,5,"GoDaddy.com, LLC",10/02/2014 21:55,10/02/2027 21:55,26/09/2026 04:39
+eb36fc6b-d8a0-4b4c-aee4-30680a2904ac,building.rentals,resell,,,high,low,8,"GoDaddy.com, LLC",28/05/2014 16:50,28/05/2027 16:50,06/10/2026 05:17
 c0484604-6b58-401a-b8fc-5beb9f8244ba,architecture.trading,available,16.2,16.2,high,low,12,cloudflare,,,05/10/2026 17:09
+fc919714-186f-4989-a97d-46a77891570f,structure.jetzt,available,23.99,23.99,high,low,9,namesilo,,,05/10/2026 18:22
 91e822bd-5c31-4d9b-a7c1-dd4fb8b0cf8d,architecture.black,available,50.2,50.2,high,low,12,cloudflare,,,05/10/2026 17:09
-cf59e152-f426-4c12-a64e-ebbaefe5e051,architecture.rentals,available,10.99,44.49,high,low,12,namesilo,,,05/10/2026 17:09
-79c867d3-95c2-4e93-88b5-6b7c0c2ceff9,building.financial,available,15.96,46.86,high,low,8,porkbun,,,29/09/2026 05:13
-fb95e012-b4ec-485e-b250-3e1b49ee34b1,building.motorcycles,available,1.54,14.21,high,low,8,porkbun,,,29/09/2026 05:13
-f13ae44e-3744-42a0-88c0-37602f3bb00c,building.best,resell,,,high,low,8,"Spaceship, Inc.",19/08/2026 02:03,19/08/2027 23:59,29/09/2026 05:13
-ca15a260-646d-4a59-b88d-4b6edc30f9c4,architecture.express,available,9,31.25,high,low,12,spaceship,,,05/10/2026 17:09
-a371eee4-eb0f-40eb-ae97-9d90ffa087be,building.buzz,premium,110,55,high,low,8,dynadot,,,29/09/2026 05:13
-412e2c50-b285-49e8-84e4-d46027c9ba12,architecture.cruises,available,43.2,43.2,high,low,12,cloudflare,,,05/10/2026 17:09
-e3fd9ca1-b24d-427b-ae93-bb12b6f0ddf6,architecture.yachts,available,1.24,13.97,high,low,12,spaceship,,,05/10/2026 17:09
-92309434-da9f-487b-8a9d-44fe6c5ab553,architecture.dance,available,10.48,36.98,high,low,12,namecheap,,,05/10/2026 17:09
-abdd876c-d8ed-495d-9656-d83dae70698a,architecture.capital,premium,242,242,high,low,12,namesilo,,,05/10/2026 17:09
-dd1edfee-87ef-41c1-806b-b4e2ca37b3e2,architecture.degree,premium,1035.2,1035.2,high,low,12,spaceship,,,05/10/2026 17:09
-1dd75450-7b41-4d98-a31b-3a9c2cc68403,architecture.cab,available,26.08,26.08,high,low,12,spaceship,,,05/10/2026 17:09
-1120b8c0-baec-43fc-94de-161dbedd9f5a,architecture.science,premium,103.7,26.08,high,low,12,spaceship,,,05/10/2026 17:09
-152ab7db-1d0a-4c21-9d2f-44b3e38955c6,building.vin,available,6.64,49.44,high,low,8,dynadot,,,29/09/2026 05:13
-f764148b-442e-41c0-b652-0bd9b8ba1e9e,building.day,premium,516.67,516.67,high,low,8,spaceship,,,29/09/2026 05:13
-3bb80b9d-4aa7-4dd7-9fde-21fee9fe17eb,architecture.insure,available,56.2,56.2,high,low,12,cloudflare,,,05/10/2026 17:09
-d7356fbe-e651-4f81-a767-8fe42a09df69,building.memorial,available,52.99,52.99,high,low,8,namesilo,,,29/09/2026 05:13
-458017d0-d50c-4f67-b457-d2062577d566,architecture.limited,available,36.99,36.99,high,low,12,namesilo,,,05/10/2026 17:09
-038c78c9-bc48-497b-8a49-4329a730394a,building.vegas,available,12.99,43.99,high,low,8,namesilo,,,29/09/2026 05:13
-24bba1f7-161e-448c-be85-1fc09cedff45,architecture.catering,available,31.25,31.25,high,low,12,spaceship,,,05/10/2026 17:09
-425e92fd-a146-4751-94ba-e513b70226bb,building.soccer,available,20.9,20.9,high,low,8,spaceship,,,29/09/2026 05:13
-8a21c859-5a8d-42ce-934b-5aaf9cd82dcc,structure.construction,available,31.25,31.25,high,low,9,spaceship,,,05/10/2026 18:22
-a30a0640-c87a-4379-97a5-238e3b7710cb,architecture.win,premium,448,53.92,high,low,12,namesilo,,,05/10/2026 17:09
-eb36fc6b-d8a0-4b4c-aee4-30680a2904ac,building.rentals,resell,,,high,low,8,"GoDaddy.com, LLC",28/05/2014 16:50,28/05/2027 16:50,29/09/2026 05:13
-0b061f01-d522-4809-9526-c9838ba2a27a,architecture.biz,resell,,,high,low,12,Sav.com LLC,14/06/2022 08:39,14/06/2027 08:39,05/10/2026 17:09
-d24d020f-2aae-4f98-b991-14cff0261431,architecture.fm,available,67.98,87.72,high,low,12,spaceship,,,05/10/2026 17:09
-c6f8fa03-5f1e-43d4-b885-c32f9739467b,building.party,premium,455,65,high,low,8,namecheap,,,29/09/2026 05:13
-e685bf30-3e62-4548-a403-6d0d3aca3533,building.cards,available,38.99,38.99,high,low,8,namesilo,,,29/09/2026 05:13
-ae5f460c-d9ef-4a7d-b44b-217abb3b0679,architecture.travel,available,23.98,186.98,high,low,12,namecheap,,,05/10/2026 17:09
-4715f6aa-dfc5-439c-a91e-acfd7d7adbaa,building.ngo,premium,65,32.5,high,low,8,namecheap,,,29/09/2026 05:13
-4ad290d8-0138-4e27-8e64-928893adc392,architecture.financial,premium,99.5,,high,low,12,unstoppable,,,05/10/2026 17:09
-4f7d5dbf-22c8-4417-8fae-d911399d09ec,architecture.church,resell,,,high,low,12,"Name.com, Inc.",08/04/2024 15:50,08/04/2027 15:50,05/10/2026 17:09
-3c9f175a-1a04-40bb-9d7a-3a48876f0748,architecture.fit,resell,,,high,low,12,"Spaceship, Inc.",03/07/2026 16:34,03/07/2027 16:34,05/10/2026 17:09
-490bf5f4-6e14-4977-b98b-9fde98c14d41,building.fish,available,34.2,34.2,high,low,8,cloudflare,,,29/09/2026 05:13
-f17f977f-d1c5-43db-8022-0712c89c1cb2,building.channel,premium,648.7,648.7,high,low,8,namecheap,,,29/09/2026 05:13
-1e955b2b-387d-4a35-8d70-e6952e898374,building.horse,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 05:13
-fbbd0568-456a-4034-9db7-48705eb331f2,architecture.bar,premium,326.23,465.95,high,low,12,spaceship,,,05/10/2026 17:09
-8aab1399-8818-4b9d-b2b3-326596d8803f,architecture.organic,available,17,85.99,high,low,12,unstoppable,,,05/10/2026 17:09
-76511a0f-9488-4b70-ba11-af1c1ba69d80,architecture.gift,available,16.58,16.58,high,low,12,porkbun,,,05/10/2026 17:09
-611b7a7c-1d0b-4285-8e87-c661f75712b1,architecture.reviews,premium,102.67,102.67,high,low,12,spaceship,,,05/10/2026 17:09
-cf38a79d-470a-4c36-a7b5-6a0d786f1b63,architecture.lifestyle,premium,1100,1100,high,low,12,dynadot,,,05/10/2026 17:09
-6a8ff6d5-3145-4fbd-b49a-f42920953572,architecture.style,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
-830ddc59-8d82-468d-825c-6ed9463e3c21,architecture.wiki,premium,273.44,273.44,high,low,12,porkbun,,,05/10/2026 17:09
-546a40a1-6294-4c58-828e-671fbab2b150,architecture.lgbt,available,10.55,64.37,high,low,12,spaceship,,,05/10/2026 17:09
-3a3d5b34-cb0d-4042-9b0e-592112f6c5cf,building.actor,available,8.48,35.39,high,low,8,spaceship,,,29/09/2026 05:13
-fff52a64-4de2-4f1e-87f3-02b3534c9e92,architecture.gallery,premium,34.36,34.36,high,low,12,spaceship,,,05/10/2026 17:09
-6d6266c3-01b9-4f6b-882d-7bc588ae91fd,building.ltda,premium,52.8,30.18,high,low,8,dynadot,,,29/09/2026 05:13
-4b076b0b-0121-40cd-9d6b-f4d3a941bc8d,building.food,available,5.49,39.99,high,low,8,namesilo,,,29/09/2026 05:13
-db78a7e3-ac56-4d8f-b6f3-d269f1ecf4e4,building.cat,available,18.83,25.04,high,low,8,spaceship,,,29/09/2026 05:13
-87df0a64-fe0f-4980-aa8a-43668b443da5,architecture.exposed,premium,34.36,34.36,high,low,12,spaceship,,,05/10/2026 17:09
-11f0ed69-b615-4af9-b59d-03fc3a490a98,building.events,premium,118.8,118.8,high,low,8,namesilo,,,29/09/2026 05:13
-d0cbf3b2-caeb-40ac-93cc-5e6038677819,architecture.ltda,premium,56.64,33.04,high,low,12,namesilo,,,05/10/2026 17:09
-cbc8104e-440e-440d-9c0a-790c2d76bb0b,architecture.army,available,10.92,32.21,high,low,12,dynadot,,,05/10/2026 17:09
-4c4e83d9-a3ec-46b7-a7d4-ce3cd1d3382b,architecture.pizza,available,17.99,64.99,high,low,12,namesilo,,,05/10/2026 17:09
-eecf8c8a-866e-454b-8d3c-b24bfd00b41b,architecture.cards,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
-9e55cdce-68d1-4a29-9865-76c623c5c5c4,building.catering,available,30.2,30.2,high,low,8,cloudflare,,,29/09/2026 05:13
-b8df1a66-2bb7-4884-9e64-d7590cac8cbb,architecture.makeup,available,1.99,17.29,high,low,12,namesilo,,,05/10/2026 17:09
-6c107a4d-3144-4cda-9681-07aac6c6ef90,architecture.vin,available,6.41,47.81,high,low,12,spaceship,,,05/10/2026 17:09
-d0a40a48-679a-4deb-82b9-ee7f3578bfab,building.zip,premium,133.72,133.72,high,low,8,spaceship,,,29/09/2026 05:13
-2a5a1919-9697-4ef2-83c2-6e1be2fb3f34,building.money,resell,,,high,low,8,"Sav.com, LLC - 25",16/07/2025 15:15,16/07/2027 15:15,29/09/2026 05:13
-abf3a4ab-a014-4772-ad95-6938b3a2d429,building.sale,premium,99.5,128.7,high,low,8,unstoppable,,,29/09/2026 05:13
-a8405cc1-2d55-4770-b094-c85f2f7a2531,architecture.auction,available,36.99,36.99,high,low,12,namesilo,,,05/10/2026 17:09
-287698e4-fd92-4681-a54b-9aa6fec7f503,architecture.press,premium,2587.7,5175.2,high,low,12,spaceship,,,05/10/2026 17:09
-fc4a2070-07f8-4219-9ad4-c504ceed3fba,architecture.contractors,premium,128.7,128.7,high,low,12,namecheap,,,05/10/2026 17:09
-ba6a6dd8-c23c-49a2-8186-8928be85407c,architecture.qpon,available,2.19,11.49,high,low,12,namesilo,,,05/10/2026 17:09
-f2d4ef59-e268-471e-a4c8-1526cf6b76e5,building.cfd,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",11/01/2023 17:45,11/01/2027 23:59,29/09/2026 05:13
-c9b1de00-4b7d-44b9-81f8-1cda419d63ed,building.discount,available,24.01,24.01,high,low,8,spaceship,,,29/09/2026 05:13
-bd8e6a9f-291d-4acd-90ea-aef2527a42b8,building.finance,resell,,,high,low,8,"Sav.com, LLC - 40",28/04/2023 15:15,28/04/2027 15:15,29/09/2026 05:13
-191ef7cc-ddd2-4026-8c94-e5dd9aba411c,building.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 05:13
-ef97c5b1-ead5-48a2-bd19-e501a20ab323,architecture.realty,premium,3450,3450,high,low,12,namesilo,,,05/10/2026 17:09
-0f0ca33e-d50e-4f6f-aea7-d940b204c8a9,building.tax,premium,207.2,207.2,high,low,8,spaceship,,,29/09/2026 05:13
-7f629c95-6486-4e08-b6f6-85c4d92c75cd,architecture.industries,premium,68.51,68.51,high,low,12,spaceship,,,05/10/2026 17:09
-30a28ab2-11aa-47b8-bdcf-ad039af35237,building.casa,premium,96,11.8,high,low,8,namesilo,,,29/09/2026 05:13
-0d5cfcc6-8761-40c1-aa62-33a4e7edca39,building.immobilien,available,29.2,29.2,high,low,8,cloudflare,,,29/09/2026 05:13
-1e081368-1b47-4f8b-8dfd-039f59019159,building.ski,premium,99.5,135.2,high,low,8,unstoppable,,,29/09/2026 05:13
-fca9b109-44fc-426c-83cf-609c211b0af5,architecture.ceo,available,9.19,103.7,high,low,12,spaceship,,,05/10/2026 17:09
-46669a67-87f0-4634-8581-ba333efbd8aa,structure.place,available,22.49,22.49,high,low,9,namesilo,,,05/10/2026 18:22
-cf1dc691-462b-45ec-a39d-8243d3541b1e,building.qpon,available,1.54,9.66,high,low,8,porkbun,,,29/09/2026 05:13
-7321282e-c4f3-473e-8c09-322dbc52d3e8,architecture.casino,available,6.41,129.58,high,low,12,spaceship,,,05/10/2026 17:09
-fb138886-7bee-4893-a724-7546816e6dc1,building.rocks,resell,,,high,low,8,Dynadot Inc,09/05/2026 17:00,09/05/2027 17:00,29/09/2026 05:13
-ef5d88a5-ef4d-4c06-9f00-96d31123f4ea,building.shiksha,available,14.99,51.99,high,low,8,namesilo,,,29/09/2026 05:13
-a48251de-d485-4958-bed0-8257751dafcb,engineering.app,premium,799.2,1022.72,high,low,11,unstoppable,,,05/10/2026 19:09
-39a76234-a960-4c88-8464-873d0901e716,building.lighting,available,23.99,23.99,high,low,8,namesilo,,,29/09/2026 05:13
-4f87b3ea-63e0-4bae-9178-7b82ea0ac7f6,building.osaka,available,26.68,26.88,high,low,8,porkbun,,,29/09/2026 05:13
-d4620cb5-8699-4574-a4c7-a054ee977096,building.tickets,available,401.47,401.47,high,low,8,dynadot,,,29/09/2026 05:13
-cb4c8bd8-e2c4-4ea8-887b-e2a4d11e32a4,architecture.ventures,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
-2065f1e2-83e3-4f9a-a532-8f8a7dd33666,architecture.cc,resell,,,high,low,12,Unstoppable Domains Inc.,10/09/2013 02:55,10/09/2027 02:55,05/10/2026 17:09
-ca277ba5-6f0e-40e7-8607-d15f79908916,building.chat,resell,,,high,low,8,Dynadot Inc,05/06/2026 17:00,05/06/2027 17:00,29/09/2026 05:13
-6b9bf242-4f56-46ce-bc8a-b2fb418c0b97,building.dad,premium,516.67,516.67,high,low,8,spaceship,,,29/09/2026 05:13
-ba0e534a-7b15-406b-bec4-e163421bc279,building.to,resell,,,high,low,8,Tonic,08/07/2023 02:27,01/08/2027 00:00,29/09/2026 05:13
-73399b60-9059-4f4b-8916-74f312290183,architecture.tennis,available,50.2,50.2,high,low,12,cloudflare,,,05/10/2026 17:09
-ec88dfdb-340f-4163-ad15-c5eaa4631aed,building.mov,premium,167.7,167.7,high,low,8,namecheap,,,29/09/2026 05:13
-e07d72a0-cfd1-4298-abb0-a9abc9d54173,building.info,resell,,,high,low,8,"Domain Registration Services, Inc. dba dotEarth.com",13/07/2002 19:26,13/07/2027 19:26,29/09/2026 05:13
-0559e046-39cf-4253-a1d1-b7c46891ec9a,architecture.shopping,available,26.99,26.99,high,low,12,namesilo,,,05/10/2026 17:09
-3c7f9be7-657a-4acd-a16c-0ba426221f3e,building.rehab,premium,207.2,207.2,high,low,8,spaceship,,,29/09/2026 05:13
-943b0142-68cc-49bc-a357-13defe325a4c,architecture.vip,resell,,,high,low,12,MMX,11/06/2025 01:14,11/06/2027 01:14,05/10/2026 17:09
-fc01678f-8206-432a-aa4c-757e928662d6,architecture.investments,premium,109.53,218.86,high,low,12,porkbun,,,05/10/2026 17:09
-39ceb9b3-21a9-4b43-bf3f-e6f44bb16517,architecture.university,premium,102.67,102.67,high,low,12,spaceship,,,05/10/2026 17:09
-f5c1bdac-9ec3-4b3b-af8d-06a6bc6c442d,architecture.storage,available,500.2,500.2,high,low,12,cloudflare,,,05/10/2026 17:09
-700d5431-c239-418b-bc41-75d25aaad5d9,building.blog,premium,550,2200,high,low,8,dynadot,,,29/09/2026 05:13
-988c99e3-4aee-4d49-bd65-73ed0c2f6bd6,building.taxi,available,7.96,49.88,high,low,8,spaceship,,,29/09/2026 05:13
-dcce1636-8d2b-494c-98a5-38f83dbaf693,building.loans,premium,1040,1040,high,low,8,namecheap,,,29/09/2026 05:13
-a2becacb-9240-43e2-9ede-8abdfdd8636c,architecture.education,premium,54.36,108.6,high,low,12,porkbun,,,05/10/2026 17:09
-3e42fa20-85ad-42c1-a190-eb5335b52682,building.film,available,65.99,65.99,high,low,8,namesilo,,,29/09/2026 05:13
-7b88277f-b66a-4f0b-bed8-39c44525a77f,architecture.restaurant,available,12.87,52.01,high,low,12,porkbun,,,05/10/2026 17:09
-9a857eaf-df7f-4a0a-b14d-8f42d4eeeed6,building.men,premium,1107,116,high,low,8,namesilo,,,29/09/2026 05:13
-518471f2-a331-4a5a-8c4f-f5271e20420d,building.accountants,available,117.99,117.99,high,low,8,namesilo,,,29/09/2026 05:13
-9d27f0f8-c4fb-4cc4-9e35-96257594c51e,building.shop,premium,640,640,high,low,8,namesilo,,,29/09/2026 05:13
-aca75a1c-d3fc-46ef-a153-70318a0899d2,building.plumbing,available,56.2,56.2,high,low,8,cloudflare,,,29/09/2026 05:13
-99d250c4-e890-4217-86c1-4fead14a7a05,building.promo,available,13.5,,high,low,8,unstoppable,,,29/09/2026 05:13
-8544acc3-5fae-4531-b25b-26803c887cf0,building.support,resell,,,high,low,8,"Spaceship, Inc.",13/07/2023 15:15,13/07/2027 15:15,29/09/2026 05:13
-7bc5189a-faaf-4de3-8c4e-c1d2834f6058,building.sydney,available,58,58,high,low,8,namesilo,,,29/09/2026 05:13
-1e720f05-6432-471a-b564-531cccfbc5f3,building.condos,premium,102.67,102.67,high,low,8,spaceship,,,29/09/2026 05:13
-4ad8a3ee-2295-4413-91ac-7fcddb708439,building.link,premium,1995,1995,high,low,8,namesilo,,,29/09/2026 05:13
-88145a49-4c6b-4358-82ba-5ad4b666dfc0,building.democrat,available,7.25,32.99,high,low,8,namesilo,,,29/09/2026 05:13
-f3efe3f4-737c-475c-986e-1e33008e447e,building.car,available,1863.2,2064.2,high,low,8,spaceship,,,29/09/2026 05:13
-381e7f8b-fcb2-4d63-af20-a8004e5caee6,structure.industries,available,45.99,45.99,high,low,9,namesilo,,,05/10/2026 18:22
-4a629112-33d5-4918-b0b8-2d67010fc991,builder.archi,available,19.99,103.99,high,low,7,namesilo,,,29/09/2026 05:12
-8c10bf90-e6aa-4921-9f36-58d458c3d8bf,engineering.realty,available,88.18,289.16,high,low,11,spaceship,,,05/10/2026 19:09
-a9b97d89-004d-4970-9660-3b7cd1fb1563,development.contractors,available,35.49,35.49,high,low,11,namesilo,,,05/10/2026 05:37
-4abcf7f3-3a0d-4a6c-be34-6ac064a3ed6b,architecture.dental,available,78.99,78.99,high,low,12,namesilo,,,05/10/2026 17:09
-51c3c2cb-c265-4e27-97eb-8f8ad18b10a2,design.wedding,premium,520,32.5,high,medium,6,namecheap,,,02/10/2026 13:14
-8baabc69-60ee-4b87-b939-d602df1f7671,engineer.builders,resell,,,high,low,8,"GoDaddy.com, LLC",07/04/2019 02:30,07/04/2027 02:30,03/10/2026 22:54
-0ee65acf-212e-4d9c-86a1-837dc2d77f74,building.rsvp,premium,516.67,516.67,high,low,8,spaceship,,,29/09/2026 05:13
-0d16fbed-ddfa-4578-bc6e-1462378fcc4e,building.poker,available,8.24,55.86,high,low,8,dynadot,,,29/09/2026 05:13
-0f1a3075-ef04-456c-88ad-642e91fdb195,architecture.bet,available,20.2,20.2,high,low,12,cloudflare,,,05/10/2026 17:09
-c772f75d-e5f6-4d5a-8353-389e943c43dc,architecture.cleaning,available,60.23,60.23,high,low,12,spaceship,,,05/10/2026 17:09
-1ad8317a-a492-4ee3-a9ac-dfea93628891,architecture.pub,available,32.29,32.29,high,low,12,spaceship,,,05/10/2026 17:09
-d0be0662-4d92-4641-aa61-a45ee10a74df,building.schule,available,28.99,28.99,high,low,8,namesilo,,,29/09/2026 05:13
-061867f6-b4f0-4086-a58c-42e3dc2151f6,engineering.engineer,premium,1035.2,1035.2,high,low,11,spaceship,,,05/10/2026 19:09
-c07f0f85-d8f9-4cf0-8823-55226ebd2555,architecture.blog,premium,640,2660,high,low,12,namesilo,,,05/10/2026 17:09
-8cda0546-0b05-4f74-82ca-085486671fc2,building.mba,available,17,,high,low,8,unstoppable,,,29/09/2026 05:13
-801593ed-64ff-42dd-b9ff-a74d94319ba9,engineering.reise,available,27.89,97.99,high,low,11,namesilo,,,05/10/2026 19:09
-3c248518-8f94-471e-a3d4-39c2d4a8e07b,engineering.expert,resell,,,high,low,11,"GoDaddy.com, LLC",11/03/2025 17:00,11/03/2028 17:00,05/10/2026 19:09
-fc2eb18f-814a-4060-a8fb-c810f1be8ba6,structure.hiphop,available,20.9,20.9,high,low,9,spaceship,,,05/10/2026 18:22
-a61c1904-8be0-4fcb-ae3e-2c8df0fcac26,engineering.flights,premium,108.9,108.9,high,low,11,dynadot,,,05/10/2026 19:09
-febdda56-cf89-4077-8dd9-aefa94a46ab9,engineering.lifestyle,premium,910,1300,high,low,11,namecheap,,,05/10/2026 19:09
-cb01f644-fa37-450d-9b5d-d9742b185abf,architecture.vegas,premium,242,119.94,high,low,12,namesilo,,,05/10/2026 17:09
-095ceab0-b74b-411f-b5dc-2e3a52694d01,engineering.repair,available,12.99,36.99,high,low,11,namesilo,,,05/10/2026 19:09
-0ad127c6-922f-4381-84b3-16d573ef8d49,building.vision,resell,,,high,low,8,Dynadot Inc,09/05/2026 17:00,09/05/2027 17:00,29/09/2026 05:13
-b3f10cfa-9e71-4e89-a16a-a596c06006a9,building.nyc,premium,5175.2,26.08,high,low,8,spaceship,,,29/09/2026 05:13
-1ea4ed57-b492-4e16-84f0-15de51fc40c2,structure.cars,available,1863.2,2064.2,high,low,9,spaceship,,,05/10/2026 18:22
-28c0da8b-7c96-4868-b033-fc29b8dc0165,builder.buzz,premium,621.2,207.2,high,low,7,spaceship,,,29/09/2026 05:12
-8909256f-d140-4027-8706-f665818f3cc8,engineering.florist,available,32.99,32.99,high,low,11,namesilo,,,05/10/2026 19:09
-b8b67153-2f7c-4a79-baba-549fbbe69e7e,engineering.reisen,available,3.99,20.99,high,low,11,namesilo,,,05/10/2026 19:09
-8d1593a3-7589-4f15-8673-7786de6f0755,building.casino,available,7.71,133.97,high,low,8,dynadot,,,29/09/2026 05:13
-e96e8a56-b9b6-4283-9178-30bc9d03f3f2,engineering.zone,resell,,,high,low,11,"Chengdu West Dimension Digital Technology Co., Ltd.",07/01/2025 15:15,07/01/2027 15:15,05/10/2026 19:09
-9eb696b0-b3e0-482e-a346-0873a66df9b1,structure.tickets,available,359.99,488.88,high,low,9,namesilo,,,05/10/2026 18:22
-48ba8014-34d6-4402-9d7a-e3bc14101f94,architecture.associates,premium,68.51,68.51,high,low,12,spaceship,,,05/10/2026 17:09
-82a727b2-5a30-4ef9-a535-192271ac1bbd,building.forsale,premium,118.8,118.8,high,low,8,namesilo,,,29/09/2026 05:13
-545bb7f6-35a6-4513-b4bd-78b8cfde10cf,engineering.photos,available,7.96,24.01,high,low,11,spaceship,,,05/10/2026 19:09
-2e09d646-efd1-4c77-b355-75cc02693963,builder.voting,available,978.6,978.6,high,low,7,dynadot,,,29/09/2026 05:12
-3044fb7c-6967-4cd1-93f9-8f984a8f5ad9,architecture.dating,available,11.59,51.95,high,low,12,spaceship,,,05/10/2026 17:09
-6a32348c-b54c-4311-ae72-a4667ddf5c1a,building.limo,available,54.99,54.99,high,low,8,namesilo,,,29/09/2026 05:13
-b53dae65-fdf4-417d-9b66-2ec5e56d66e8,building.art,premium,227.7,91,high,low,8,unstoppable,,,29/09/2026 05:13
-d3dbc3ce-1dea-4099-8185-2b5f2036bbae,engineering.desi,available,19.98,22.98,high,low,11,namecheap,,,02/10/2026 00:14
-52a82b75-8ecf-41b5-8872-18b753523b40,architecture.market,resell,,,high,low,12,"Chengdu West Dimension Digital Technology Co., Ltd.",02/03/2024 15:15,02/03/2027 15:15,05/10/2026 17:09
-dfdc5e50-03fe-4fbb-a9a6-aaf12efdf4ae,engineering.care,premium,400.5,414.2,high,low,11,unstoppable,,,05/10/2026 19:09
-c7725e90-dd0e-443c-974d-38f66f348b35,building.cheap,available,8.5,,high,low,8,unstoppable,,,29/09/2026 05:13
-254ca954-5c3b-4444-aae9-e290392ccddf,architecture.gmbh,available,36.56,36.56,high,low,12,porkbun,,,05/10/2026 17:09
-c326ee11-6804-4e77-a8f6-8ebd39863443,builder.coffee,available,16,,high,low,7,unstoppable,,,29/09/2026 05:12
-6d08458c-7daa-4d75-b587-bf4eaff71334,architecture.hockey,available,46.2,46.2,high,low,12,cloudflare,,,05/10/2026 17:09
-7ecaf105-4cac-40eb-b48a-513ff07aef33,builder.style,available,16.99,38.99,high,low,7,namesilo,,,29/09/2026 05:12
-be367043-6e8c-4860-a3e9-15824a8e0609,builder.expert,resell,,,high,low,7,"Sav.com, LLC - 16",11/04/2026 15:15,11/04/2027 15:15,29/09/2026 05:12
-c6aa8fd7-9597-43f9-8532-1744b4a9f782,builder.motorcycles,resell,1.99,15.75,high,low,7,namesilo,,,29/09/2026 05:12
-93394535-d928-47b6-b0be-70b17fd6b7da,architecture.sucks,premium,2182.75,2182.75,high,low,12,porkbun,,,05/10/2026 17:09
-7b38dc2f-eac2-4542-a692-481828acd62f,builder.foo,premium,249.2,,high,low,7,unstoppable,,,29/09/2026 05:12
-0903f66b-4644-45f2-bc48-55fafe7c6905,builder.football,available,20.9,20.9,high,low,7,spaceship,,,29/09/2026 05:12
-de2ddd96-860d-48c7-9a5f-0342d1938985,architecture.reisen,available,16.76,16.76,high,low,12,spaceship,,,05/10/2026 17:09
-b37f8413-cb29-485a-b252-a261c757e79b,builder.band,available,20.99,31.49,high,low,7,namesilo,,,29/09/2026 05:12
-b6cfb7bb-e33e-4534-bc71-5d04c0dd364c,engineering.rehab,available,36.99,36.99,high,low,11,namesilo,,,05/10/2026 19:09
-c4077c1a-7db5-4513-92c2-3179a9529cbb,structure.cleaning,available,58.2,58.2,high,low,9,cloudflare,,,05/10/2026 18:22
-5955352f-deca-431e-9af4-4604d04cd81f,engineering.vision,premium,118.8,118.8,high,low,11,namesilo,,,05/10/2026 19:09
-840b29c3-d954-475c-abd1-76b063e12cbb,structure.kim,available,12,18.83,high,low,9,unstoppable,,,05/10/2026 18:22
-92f13b06-b318-4770-aa50-58f4706d7562,builder.jewelry,available,64.99,64.99,high,low,7,namesilo,,,29/09/2026 05:12
-92e4eb29-9dfd-484f-b9ce-4395fbc2ec4c,building.shoes,available,64.99,64.99,high,low,8,namesilo,,,29/09/2026 05:13
-2fecdfde-8fab-456d-9ec8-f947123afcc3,structure.biz,resell,,,high,low,9,"Spaceship, Inc.",23/05/2023 00:00,23/05/2027 00:00,05/10/2026 18:22
-e437832b-1f9a-417a-9319-bd5b06bd1224,builder.rent,resell,17.99,59.99,high,low,7,namesilo,,,29/09/2026 05:12
-e5736844-51cc-4121-b238-dffac8f7c86a,architecture.place,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
-47a6bcc0-f8d0-4caf-85b7-8f9a2d9e5969,structure.degree,available,54.98,66.98,high,low,9,namecheap,,,05/10/2026 18:22
-211374e2-51ad-41de-89f0-1b4af5e477b3,engineering.ninja,premium,828.2,828.2,high,low,11,spaceship,,,05/10/2026 19:09
-48daa58d-c511-4a84-81bc-e04404fab6ba,engineering.claims,available,17.99,64.99,high,low,11,namesilo,,,05/10/2026 19:09
-e308ad72-db16-42f7-802a-3cf96cce2b6b,engineering.jetzt,available,23.99,23.99,high,low,11,namesilo,,,05/10/2026 19:09
-d2750789-a11b-45c8-883a-1df498cd338c,structure.international,available,8.48,25.04,high,low,9,spaceship,,,05/10/2026 18:22
-362712dd-8de4-402f-9648-2b55aa15fe6a,building.xxx,available,95.2,95.2,high,low,8,cloudflare,,,29/09/2026 05:13
-21608a9c-8680-450c-8eb5-af564970c555,structure.restaurant,available,20.99,64.99,high,low,9,namesilo,,,05/10/2026 18:22
-4ba9ac5b-b9bd-462f-9ea4-253e74e76190,structure.report,available,9.52,19.87,high,low,9,spaceship,,,05/10/2026 18:22
-85b69dc9-8f9d-4efc-af0d-6f8ae59fc51c,architecture.kids,premium,384,21.24,high,low,12,namesilo,,,05/10/2026 17:09
-a30b4c3b-66c2-489b-912a-38974757dfd2,architecture.creditcard,available,5.57,133.52,high,low,12,dynadot,,,05/10/2026 17:09
-f5e8e62d-e190-4125-b594-98ded8edb61d,architecture.you,premium,53.92,53.92,high,low,12,namesilo,,,05/10/2026 17:09
-4c59e116-897e-43a2-bed1-dac4a4802620,building.holiday,available,50.2,50.2,high,low,8,cloudflare,,,29/09/2026 05:13
-7e3c50b7-476b-4600-884d-13b1199dc646,architecture.life,resell,,,high,low,12,"Spaceship, Inc.",15/05/2024 15:16,15/05/2027 15:16,05/10/2026 17:09
-5de4273b-536b-47ac-8359-9a81556ca518,architecture.supplies,available,19.87,19.87,high,low,12,spaceship,,,05/10/2026 17:09
-e434748e-aa87-49dd-9dfd-847e314826eb,engineering.dental,available,78.99,78.99,high,low,11,namesilo,,,05/10/2026 19:09
-04f3f05a-970c-46a7-b804-f456d07b74f1,structure.tours,available,5.98,81.98,high,low,9,namecheap,,,05/10/2026 18:22
-d80b4569-ce82-4c04-8def-bf7e9bcc2542,engineering.uno,premium,3450,3450,high,low,11,namesilo,,,05/10/2026 19:09
-883a2860-13b1-4e21-91ce-06c655e11f3f,architecture.bike,available,12.99,38.99,high,low,12,namesilo,,,05/10/2026 17:09
-5f5890b7-9f7a-4bc8-8424-e6eabc64b674,structure.study,premium,55,55,high,low,9,dynadot,,,05/10/2026 18:22
-edc775f4-de7b-4bc6-9771-a467dd715d7e,contractor.glass,available,72.99,72.99,high,low,10,namesilo,,,24/09/2026 17:45
-fb7411cb-9744-4054-aa2a-b08d6a074ab8,engineering.cleaning,available,58.2,58.2,high,low,11,cloudflare,,,05/10/2026 19:09
-dcce873a-b282-45d1-b855-71b943ab5d27,architecture.living,premium,910,1300,high,low,12,namecheap,,,05/10/2026 17:09
-8fd143be-681f-4b4c-9f85-91296663f518,builder.limo,available,43.67,43.67,high,low,7,spaceship,,,29/09/2026 05:12
-3668a8b6-9bbc-47ca-bd26-cfa247ddfe43,structure.ventures,available,46.2,46.2,high,low,9,cloudflare,,,05/10/2026 18:22
-a7874018-34b2-4f81-9ad4-0e298c76182e,architecture.republican,available,5.57,26.97,high,low,12,dynadot,,,05/10/2026 17:09
-4bf70c44-5b77-4222-bfdf-e099e7a134b2,engineering.moi,available,27,25.99,high,low,11,unstoppable,,,05/10/2026 19:09
-71c99255-39d3-499e-beb1-ebd79bb38f63,building.navy,available,33.32,33.32,high,low,8,spaceship,,,29/09/2026 05:13
-72262b2a-9ea4-4108-a102-82b8f67bc240,architecture.wine,available,9.99,59.99,high,low,12,namesilo,,,05/10/2026 17:09
-40b5e145-4a62-4f9b-bbf3-5eade4b6f515,building.boo,premium,648.7,648.7,high,low,8,namecheap,,,29/09/2026 05:13
-88136b37-888f-4467-a7d1-5101735fd897,building.bargains,available,17.99,26.49,high,low,8,namesilo,,,29/09/2026 05:13
-50975860-8e8a-483f-8e74-d72a01b37422,architecture.prof,premium,329.2,,high,low,12,unstoppable,,,05/10/2026 17:09
-2deee689-6e90-41f2-ace0-7f1804e237cf,architecture.flights,available,20.9,46.78,high,low,12,spaceship,,,05/10/2026 17:09
-3ffb3bd1-fc2d-40ec-bf25-bd92442be91d,structure.accountant,premium,448,53.92,high,low,9,namesilo,,,05/10/2026 18:22
-34b4a1eb-9cef-47b6-a615-768f725da926,architecture.horse,available,26.08,26.08,high,low,12,spaceship,,,05/10/2026 17:09
-18648ede-c9cf-4899-9787-5ba606da8963,building.cruises,available,56.99,56.99,high,low,8,namesilo,,,29/09/2026 05:13
-5061dba8-6842-4e8b-9fdc-175d41d91aca,structure.global,premium,1242.2,51.95,high,low,9,spaceship,,,05/10/2026 18:22
-ad09c88a-04d9-41f6-b9ad-497cbb0dff24,structure.tennis,available,65.99,65.99,high,low,9,namesilo,,,05/10/2026 18:22
-5e441d44-4bba-4d49-acdc-f21766a70c3c,build.toys,premium,242,242,high,medium,5,namesilo,,,24/09/2026 06:26
-1038da63-8f3c-483c-b0ea-3325320c2315,structure.army,available,17.5,31.25,high,low,9,unstoppable,,,05/10/2026 18:22
-6f442810-c3be-4c20-938d-e635012d24cd,builder.plus,resell,,,high,low,7,"DNSPod, Inc.",20/11/2024 15:15,20/11/2026 15:15,29/09/2026 05:12
-bf25168b-ee99-402f-8c8f-a38d2ac0f5cc,building.restaurant,available,50.2,50.2,high,low,8,cloudflare,,,29/09/2026 05:13
-f1f0cffb-ef92-4eb4-acca-99b2380244bb,engineering.locker,premium,517.7,31.25,high,low,11,spaceship,,,05/10/2026 19:09
-15ec35a0-1f56-45da-a387-ff45ebc518f6,structure.top,premium,58.18,58.18,high,low,9,namecheap,,,05/10/2026 18:22
-46326f54-8e9d-4808-ac84-f6a223de4b6f,structure.voyage,available,46.78,46.78,high,low,9,spaceship,,,05/10/2026 18:22
-5f5526c6-dbcc-4da5-be64-23dd25fe8bdb,architecture.chat,premium,78.54,78.54,high,low,12,namesilo,,,05/10/2026 17:09
-892e91f9-67d2-4b28-9ece-59381ea816ac,architecture.rehab,premium,260,260,high,low,12,namecheap,,,05/10/2026 17:09
-f6633904-9490-4a2e-8661-f956d469d229,engineering.kids,premium,53.92,21.24,high,low,11,namesilo,,,05/10/2026 19:09
-54147706-e463-4055-98a6-60b07891d747,building.viajes,available,37.99,37.99,high,low,8,namesilo,,,29/09/2026 05:13
-4677f445-1eee-4378-a0f9-87031fe7e179,building.rodeo,available,10.92,10.92,high,low,8,dynadot,,,29/09/2026 05:13
-1676e836-0f48-4731-b757-b7dedf642329,structure.film,premium,116,116,high,low,9,namesilo,,,05/10/2026 18:22
-a333b366-1fa9-4699-95e2-b4ff92d10f04,structure.singles,available,3.31,27.11,high,low,9,spaceship,,,05/10/2026 18:22
-a65695a0-e578-4ee2-9474-b10e9879bb50,builder.cfd,premium,155.45,310.7,high,low,7,spaceship,,,29/09/2026 05:12
-6231e50c-e70c-4bfe-9d10-c67df8d6981f,building.attorney,premium,2587.7,2587.7,high,low,8,spaceship,,,29/09/2026 05:13
-230e6b5e-db28-4605-b80a-4c08fddbe873,building.kim,available,5.98,32.98,high,low,8,namecheap,,,29/09/2026 05:13
-be4d2784-44d7-4a43-94bb-20536a93aa78,structure.qpon,available,2.19,11.49,high,low,9,namesilo,,,05/10/2026 18:22
-2676e983-abd1-484b-b588-32b66638137f,structure.voting,available,1398,1448,high,low,9,namecheap,,,05/10/2026 18:22
-e66f2087-4cfe-48d0-8821-731c9587630d,builder.tech,premium,,,high,low,7,,,,29/09/2026 05:12
-a5ecd6e5-30a4-404e-b407-438014b94c6a,structure.rehab,available,29.18,29.18,high,low,9,spaceship,,,05/10/2026 18:22
-4009dcd0-074b-4dcd-b48a-c385d56262c6,building.futbol,available,7.49,17.99,high,low,8,namesilo,,,29/09/2026 05:13
-78dfd972-a7ec-45d4-8c3f-5dcc1d5786ed,builder.global,premium,4000.5,,high,low,7,unstoppable,,,29/09/2026 05:12
-b367ef82-792d-45bd-93f4-858bcd378bde,building.news,premium,512,512,high,low,8,namesilo,,,29/09/2026 05:13
-fe70ece0-5d43-4b94-bc8f-c71118786507,engineering.tienda,available,59.99,59.99,high,low,11,namesilo,,,05/10/2026 19:09
-619b7d15-e655-4a4d-98b8-8fde311bae9c,architecture.tours,resell,,,high,low,12,Dynadot Inc,27/08/2026 17:00,27/08/2027 17:00,05/10/2026 17:09
-e86d11a1-d6fc-42e6-b707-5bc59617df88,engineering.llc,premium,2660,2660,high,low,11,namesilo,,,05/10/2026 19:09
-b81542f9-e391-49b2-be87-485ff1247d64,architecture.study,premium,5175.2,5175.2,high,low,12,spaceship,,,05/10/2026 17:09
-35f5d5c2-2fe9-4eec-a999-3ca62a60eaa9,builder.shop,premium,650,650,high,low,7,namecheap,,,29/09/2026 05:12
-788f3791-abd1-495a-9571-c58e700f48d5,architecture.deal,premium,116,116,high,low,12,namesilo,,,05/10/2026 17:09
-87a00cba-27bf-4e1f-9920-6328662e0cf2,building.agency,resell,,,high,low,8,"Spaceship, Inc.",21/03/2022 13:15,21/03/2027 13:15,29/09/2026 05:13
-2e8101e1-2e13-40f1-9f37-535477535dc8,structure.foundation,available,14.99,23.99,high,low,9,namesilo,,,05/10/2026 18:22
-725022a8-ffc4-4f14-9794-a40bbcfee808,builder.nexus,premium,249.2,,high,low,7,unstoppable,,,29/09/2026 05:12
-a3e23623-e5ce-45c8-b33a-cc4b1f847852,structure.foo,premium,59.2,61.27,high,low,9,unstoppable,,,05/10/2026 18:22
-8ed4db00-4ab2-47a4-9702-e22d8d8150f1,engineering.fishing,premium,96,29.5,high,low,11,namesilo,,,05/10/2026 19:09
-2cfb78b5-d848-4585-bd20-0bc20839d2ce,design.fail,premium,102.67,102.67,high,medium,6,spaceship,,,02/10/2026 13:14
-a9b252f0-30fc-4bad-b8b6-43765c251736,architecture.audio,available,107.22,107.22,high,low,12,dynadot,,,05/10/2026 17:09
-0df6a874-e511-4320-8e23-ed6e3564ac8b,architecture.hot,premium,116,116,high,low,12,namesilo,,,05/10/2026 17:09
-6d1786e1-535f-4781-9b2e-9db901ac3cd1,design.luxe,premium,2660,17.7,high,medium,6,namesilo,,,02/10/2026 13:14
-42f3f4c9-f961-416b-9011-d9bf9ab47cee,structure.website,premium,1107,1107,high,low,9,namesilo,,,05/10/2026 18:22
-a122341c-7733-420e-9a12-e66315301c86,structure.repair,resell,,,high,low,9,"Sav.com, LLC - 43",05/09/2026 15:15,05/09/2027 15:15,05/10/2026 18:22
-d6a2c3f7-5e15-48e2-bcf3-a0fd623c0bbc,builder.sydney,available,58,58,high,low,7,namesilo,,,29/09/2026 05:12
-8377356b-53f0-4518-9edf-ddb6edc8183b,builder.at,resell,,,high,low,7,InterNetX GmbH ( https://nic.at/registrar/80 ),,,29/09/2026 05:12
-d58e6200-8f50-4d2c-a51e-3fed63e21909,structure.cheap,available,28.2,28.2,high,low,9,cloudflare,,,05/10/2026 18:22
-af75194b-d75b-4732-a4d2-4acb06af9f0e,building.singles,available,9,,high,low,8,unstoppable,,,29/09/2026 05:13
-a9943ab9-9392-43fe-92d3-49788e293f47,building.biz,resell,,,high,low,8,GoDaddy Online Services Cayman Islands Ltd.,27/03/2002 09:58,26/03/2027 23:59,29/09/2026 05:13
-9b5a3b0f-a985-4ee2-9963-6c0d52988a40,architecture.cricket,premium,382.61,55.11,high,low,12,porkbun,,,05/10/2026 17:09
-5397da69-ff93-49f2-a7dd-3e3508e1c176,design.racing,premium,517.7,258.95,high,medium,6,spaceship,,,02/10/2026 13:14
-fec67c39-ebbf-442f-81ac-34fee229f937,building.esq,premium,671.92,671.92,high,low,8,spaceship,,,29/09/2026 05:13
-4c13df00-a7de-4140-8361-305fdab313cf,engineering.boston,premium,83,18.83,high,low,11,spaceship,,,05/10/2026 19:09
-e309a54f-dcb9-4c12-8dc7-ad1dd39fe36d,building.baby,available,17.99,54.99,high,low,8,namesilo,,,29/09/2026 05:13
-c1d2479c-80c0-4b97-af33-9ad56663e935,building.camera,available,58.99,58.99,high,low,8,namesilo,,,29/09/2026 05:13
-22f0ae75-1560-4565-9771-d72841e413dd,design.sbs,premium,310.7,621.2,high,medium,6,spaceship,,,02/10/2026 13:14
-be71f4e0-261e-4f59-be75-201629b18344,design.vacations,premium,242,242,high,medium,6,namesilo,,,02/10/2026 13:14
-9e349d6c-0864-4f45-a0ab-d8193ff66d4b,builder.kaufen,available,29.98,33.58,high,low,7,namecheap,,,29/09/2026 05:12
-28068453-79fe-4208-b1e6-0c6a60973353,builder.city,resell,,,high,low,7,"DNSPod, Inc.",19/04/2019 23:20,19/04/2027 23:20,29/09/2026 05:12
-d4343f9f-3e08-4ced-8b3f-68606086019f,design.claims,available,10.55,51.95,high,medium,6,spaceship,,,02/10/2026 13:14
-f54f7928-bd99-41be-b0bc-9649b326d062,building.club,premium,1035.2,15.73,high,low,8,spaceship,,,29/09/2026 05:13
-32d83ff9-69cf-4556-b660-ee81b059a53e,builder.consulting,premium,103.7,207.2,high,low,7,spaceship,,,29/09/2026 05:12
-405ad86d-b4fa-4c62-9e6f-f3482bfc2322,structure.productions,available,5.89,32.29,high,low,9,spaceship,,,05/10/2026 18:22
-5ec5ec48-afa7-4dce-b6ba-2e3218f5346c,architecture.cam,available,14.2,14.2,high,low,12,cloudflare,,,05/10/2026 17:09
-2b30f9de-d1e5-4d75-bf57-2803edb4a92f,engineering.foo,premium,76.7,76.7,high,low,11,namecheap,,,05/10/2026 19:09
-3eec0155-579f-4632-bf5d-be8e24bed326,structure.me,resell,,,high,low,9,Dynadot Inc,02/10/2015 02:35,02/10/2027 02:35,05/10/2026 18:22
-b6e7d110-db77-4530-ab37-6efb90326313,structure.cab,available,13.06,26.97,high,low,9,dynadot,,,05/10/2026 18:22
-86c5f72a-7290-401e-8228-46cba59b52d8,engineering.inc,premium,1604.45,2070.2,high,low,11,spaceship,,,05/10/2026 19:09
-a74ad3d3-366f-424d-88d1-33a92329782a,architecture.protection,available,1999.99,2049.99,high,low,12,namesilo,,,05/10/2026 17:09
-27383faf-a7c7-4277-92fa-77498810d4f6,structure.beer,available,1.24,26.08,high,low,9,spaceship,,,05/10/2026 18:22
-7fa22e69-e6a2-4f2f-b00b-5c53a10e23ff,structure.broker,available,10.55,29.18,high,low,9,spaceship,,,05/10/2026 18:22
-729c57b6-2b92-47e7-b8ad-7ce48b6b65ff,builder.horse,available,25.2,25.2,high,low,7,cloudflare,,,29/09/2026 05:12
-6cafa23d-05cc-47b9-9ee1-249064c15e59,architecture.claims,available,17.99,64.99,high,low,12,namesilo,,,05/10/2026 17:09
-23ce30ff-0ce3-4c05-9b20-f2b637f983d3,structure.green,premium,1107,1107,high,low,9,namesilo,,,05/10/2026 18:22
-c785999d-31bf-4416-8da5-f9e6490d5e08,building.florist,available,32.99,32.99,high,low,8,namesilo,,,29/09/2026 05:13
-1a72f276-6f56-46cb-a9e0-ed1cdf053e9c,builder.discount,premium,102.67,102.67,high,low,7,spaceship,,,29/09/2026 05:12
-1dad994d-4c95-45f2-ace2-5bce21c5653c,engineering.gives,available,6.41,22.39,high,low,11,spaceship,,,05/10/2026 19:09
-67c8db7d-5060-4ec0-a957-ab47b500e896,architecture.dog,available,7.49,64.99,high,low,12,namesilo,,,05/10/2026 17:09
-bd068d84-fd84-4d26-8ea2-493bfbf9ca65,infrastructure.me,premium,,,high,high,14,,,,01/10/2026 02:21
-35dbbe60-fabb-4a56-9986-c7345656d937,building.vet,available,43.98,52.98,high,low,8,namecheap,,,29/09/2026 05:13
-27e6918a-204c-4264-92f3-ef5576d7507b,architecture.online,premium,5000.2,6500,high,low,12,unstoppable,,,05/10/2026 17:09
-74dc7988-d2b7-43d7-88d0-834c8c2cbded,structure.shiksha,available,10.55,41.6,high,low,9,spaceship,,,05/10/2026 18:22
-fc9c7d55-3a80-45ba-bcaf-685c1128ac70,structure.coupons,available,5.99,54.99,high,low,9,namesilo,,,05/10/2026 18:22
-001548eb-ea02-42b7-b019-2c239674732a,building.show,resell,,,high,low,8,"DNSPod, Inc.",19/04/2024 15:15,19/04/2027 15:15,29/09/2026 05:13
-65490b70-81e7-474d-af5a-253821ba926d,architecture.haus,available,10.81,27.29,high,low,12,porkbun,,,05/10/2026 17:09
-81ee70d6-79a6-4730-b9f2-cf8ecaaba062,structure.loans,available,20,144.98,high,low,9,unstoppable,,,05/10/2026 18:22
-b6a070d1-c624-45d9-ae37-c848081f8322,engineering.immobilien,available,29.2,29.2,high,low,11,cloudflare,,,05/10/2026 19:09
-3ff9d02b-534c-45db-9702-c5f3541013b2,architecture.hiphop,available,27,20.9,high,low,12,unstoppable,,,05/10/2026 17:09
-24d76e52-d2be-4645-b66b-1847777a6330,engineering.shoes,available,50.2,50.2,high,low,11,cloudflare,,,05/10/2026 19:09
-f22e229c-adf7-4258-8d03-e8929d8363d9,design.diet,premium,672.95,672.95,high,medium,6,spaceship,,,02/10/2026 13:14
-0a1c69b9-ceae-431c-8f2b-aba9d431d29d,builder.tennis,available,65.99,65.99,high,low,7,namesilo,,,29/09/2026 05:12
-cb9d4630-5f88-45f9-88d1-0285edcaac48,architecture.healthcare,available,88.99,88.99,high,low,12,namesilo,,,05/10/2026 17:09
-5f2a8380-9755-4107-b0df-42b73879966f,structure.porn,available,69.98,154.98,high,low,9,namecheap,,,05/10/2026 18:22
-0daec1d0-fc53-4a5d-b11e-f68a1c34528d,structure.sex,available,51.95,98.53,high,low,9,spaceship,,,05/10/2026 18:22
-d967c82c-ccd8-49f6-975d-b644028c9171,building.dealer,premium,4278,2660,high,low,8,namesilo,,,29/09/2026 05:13
-c09cac4c-d1e4-4040-952f-dd2b77848247,engineering.codes,premium,102.67,102.67,high,low,11,spaceship,,,05/10/2026 19:09
-953483cb-b2ef-4e1c-88dc-a025c0af0ead,architecture.poker,available,5.38,54.02,high,low,12,spaceship,,,05/10/2026 17:09
-79d28d7d-d5ab-453e-ac9e-e4ff81d5845f,builder.properties,available,18.99,39.99,high,low,7,namesilo,,,29/09/2026 05:12
-64bedb5e-b27b-4f23-bfdf-9444fc412968,architecture.pics,resell,,,high,low,12,Dynadot Inc,17/08/2026 17:12,17/08/2027 23:59,05/10/2026 17:09
-9366fc99-df43-4dfd-a25d-809445040618,architecture.baby,resell,,,high,low,12,Dynadot Inc,03/05/2026 21:38,03/05/2027 23:59,05/10/2026 17:09
-f0b1a194-417c-4088-9c85-b3b5c5dcfea5,design.talk,premium,1035.2,1035.2,high,medium,6,spaceship,,,02/10/2026 13:14
-0225bba1-1ae9-418f-82e3-e69bda07a185,engineering.villas,premium,118.8,118.8,high,low,11,namesilo,,,05/10/2026 19:09
-f697af71-3c80-4c1e-8cf6-0a3b08168bb3,building.pet,available,14.49,27.59,high,low,8,namesilo,,,29/09/2026 05:13
-88c8dc85-aa82-4317-ac4b-f672650abfa3,building.skin,available,1.99,17.29,high,low,8,namesilo,,,29/09/2026 05:13
-6b9f7926-8316-4150-82b7-6b3cfe64a84d,building.fan,available,57.98,68.98,high,low,8,namecheap,,,29/09/2026 05:13
-dfa91cc6-0367-4626-bb63-f4ae4a42329b,architecture.report,premium,20.5,20.9,high,low,12,unstoppable,,,05/10/2026 17:09
-0708aea7-5386-402f-ada7-290415f06f6e,build.contractors,resell,,,high,medium,5,"GoDaddy.com, LLC",10/02/2014 21:47,10/02/2027 21:47,26/09/2026 04:39
-855a1cda-5dbe-4853-9130-560085ae20b9,structure.lease,available,56.99,56.99,high,low,9,namesilo,,,05/10/2026 18:22
-87a71489-287a-4c16-8a0b-594bb60396b8,architecture.diy,premium,1107,1107,high,low,12,namesilo,,,05/10/2026 17:09
-14b3fde2-e491-4d88-8101-ba5de6f5fc01,design.boo,premium,1298.7,1298.7,high,medium,6,namecheap,,,02/10/2026 13:14
-1be128d9-f6f6-4a21-8e24-f79fcb36010f,building.vote,available,70.2,70.2,high,low,8,cloudflare,,,29/09/2026 05:13
-c6b63448-86cc-4760-9dca-6261085719d3,builder.security,available,1999.99,2049.99,high,low,7,namesilo,,,29/09/2026 05:12
-3527313a-0d4c-4831-a508-74d557965ed7,architecture.luxury,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 23:59,05/10/2026 17:09
-b295b223-ff1a-4df8-8aef-b1335444f956,architecture.courses,premium,5175.2,5175.2,high,low,12,spaceship,,,05/10/2026 17:09
-7820cb86-87f9-4ea5-923e-4b706001d4ca,structure.energy,available,90.2,90.2,high,low,9,cloudflare,,,05/10/2026 18:22
-ec029f90-f27c-4a83-825d-c72e8ae8d3e1,builder.camera,available,58.99,58.99,high,low,7,namesilo,,,29/09/2026 05:12
-6389b0a4-23a5-4ee4-9348-a8d9ee4715ec,contractor.maison,available,57.99,57.99,high,low,10,namesilo,,,24/09/2026 17:45
-edf4182e-0f06-4bb0-abae-a9227eadf506,building.prof,premium,671.92,671.92,high,low,8,spaceship,,,29/09/2026 05:13
-3c91f3bb-f7f6-446b-9849-e2da2f81141d,architecture.game,available,309.99,429.99,high,low,12,namesilo,,,05/10/2026 17:09
-a75dd3a2-3d63-455f-8eac-8c35c1c12b05,engineering.management,available,20.9,20.9,high,low,11,spaceship,,,05/10/2026 19:09
-47b94907-e8c2-4ecb-bfc0-f4ac2d7af834,architecture.skin,available,1.99,17.29,high,low,12,namesilo,,,05/10/2026 17:09
-3f19928e-f0e9-4fad-a82b-86bbfceb668e,building.sexy,available,2998,3298,high,low,8,namecheap,,,29/09/2026 05:13
-8829189b-6820-4d83-92e6-0da6c68c987f,architecture.ink,available,1.75,26.08,high,low,12,spaceship,,,05/10/2026 17:09
-9ab469ab-6ffd-47fc-a342-5e5d2294201c,design.photography,premium,400.5,512,high,medium,6,unstoppable,,,02/10/2026 13:14
-5729c0eb-232e-4fb8-9000-4f885ca94c56,builder.flowers,available,64.99,114.99,high,low,7,namesilo,,,29/09/2026 05:12
-6f77b33c-7f7f-41e0-99f6-1c2e0c03032f,structure.talk,premium,71.4,71.4,high,low,9,namesilo,,,05/10/2026 18:22
-91df36db-edc3-4df0-b86d-45fb62388a88,architecture.forex,available,13.5,80.2,high,low,12,unstoppable,,,05/10/2026 17:09
-ad87906d-e4c0-4813-a907-2d17c1c64d13,design.pics,premium,672.95,672.95,high,medium,6,spaceship,,,02/10/2026 13:14
-f7cdcfed-627c-43b2-8cd9-da7926a9e756,engineering.lighting,available,23.99,23.99,high,low,11,namesilo,,,05/10/2026 19:09
-a95468bc-f16e-48de-98a6-87058e788244,builders.archi,available,13.39,82.9,high,low,8,porkbun,,,01/10/2026 18:19
-1c413733-cbab-4c0e-a026-d0538efe1c45,architecture.kaufen,available,23.2,23.2,high,low,12,cloudflare,,,05/10/2026 17:09
-02b63855-7ab0-43d0-90a9-77d479c8fb39,engineering.link,premium,1552.7,1552.7,high,low,11,spaceship,,,05/10/2026 19:09
-a253b1e7-c388-42dd-ad8b-61c7787a7f99,builder.day,premium,499.2,,high,low,7,unstoppable,,,29/09/2026 05:12
-f74b43cd-b6d6-425f-a63e-fc784e006e0a,building.lgbt,available,13.5,,high,low,8,unstoppable,,,29/09/2026 05:13
-9fea99db-6d7b-4a58-b8a7-9c095612dec2,engineering.plumbing,available,58.16,58.16,high,low,11,spaceship,,,05/10/2026 19:09
-6d4bb62a-68f2-48c5-9693-508dc9fe7a38,building.movie,available,47.99,349.99,high,low,8,namesilo,,,29/09/2026 05:13
-f808c4c8-a168-4127-9d02-2643c9c29d2b,engineering.car,available,1863.2,2064.2,high,low,11,spaceship,,,05/10/2026 19:09
-489bc29f-986c-4eda-b1ee-c21f751d7eef,engineering.voting,available,978.6,978.6,high,low,11,dynadot,,,05/10/2026 19:09
-091e9b03-daaf-4fa0-9c3e-6ba10fbe066b,builder.claims,available,17.99,64.99,high,low,7,namesilo,,,29/09/2026 05:12
-08d94229-9d85-4985-a18f-9388d5f11c7c,building.city,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",24/12/2019 08:44,24/12/2026 08:44,29/09/2026 05:13
-0bee7149-5a04-43c0-b19e-9854aa69f3ee,builder.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 05:12
-fb936495-d913-4e7b-ae9f-6a37050df812,builder.maison,available,57.99,57.99,high,low,7,namesilo,,,29/09/2026 05:12
-a470c800-82fd-44a8-a6a2-6a282e335946,design.green,premium,768,768,high,medium,6,namesilo,,,02/10/2026 13:14
-600cd9e6-ea0e-4249-b081-24422a79aa41,building.phd,premium,671.92,671.92,high,low,8,spaceship,,,29/09/2026 05:13
-bf0ba664-dc2d-4394-98a5-441ba752b495,builder.navy,available,32.2,32.2,high,low,7,cloudflare,,,29/09/2026 05:12
-26f242bc-c7e5-493f-93ee-3957c0e4b43b,building.apartments,available,57.99,57.99,high,low,8,namesilo,,,29/09/2026 05:13
-adff3ea3-2d52-4350-8f2c-562af9382d40,structure.photos,available,8.24,24.83,high,low,9,dynadot,,,05/10/2026 18:22
-79da75dd-1574-43e7-bc4f-92fa06079afd,architecture.kiwi,available,21.34,21.34,high,low,12,dynadot,,,05/10/2026 17:09
-bd9256f5-2905-4a49-bc8a-c3ae1f058d9e,building.center,resell,,,high,low,8,,,,29/09/2026 05:13
-1ba6f785-eedb-48e8-ba6f-c0571e316e43,building.jetzt,available,23.99,23.99,high,low,8,namesilo,,,29/09/2026 05:13
-ca47ad4e-7ead-485c-8046-3a4ee4601fe2,engineering.deals,premium,242,242,high,low,11,namesilo,,,05/10/2026 19:09
-96f85678-8830-463a-b380-a6a7a7d7906f,builder.graphics,available,23.99,23.99,high,low,7,namesilo,,,29/09/2026 05:12
-df8fd8c4-c9cc-46b5-9a41-61528eb5250e,building.hamburg,available,69.98,73.98,high,low,8,namecheap,,,29/09/2026 05:13
-26b0d53c-080a-4ae6-a86e-5d418366846a,build.lighting,resell,,,high,medium,5,"GoDaddy.com, LLC",03/02/2014 21:40,03/02/2027 21:40,26/09/2026 04:39
-fb88db03-3644-46ba-afd1-3b2c1c2b10b6,architecture.hiv,available,195.99,195.99,high,low,12,namesilo,,,05/10/2026 17:09
-d61b4899-b51e-420e-bb9f-8d7c6d5943eb,building.recipes,available,5.48,95.98,high,low,8,namecheap,,,29/09/2026 05:13
-c3ebea48-abb4-4775-9237-dc2b4c6d075f,architecture.top,resell,,,high,low,12,成都西维数码科技有限公司,27/01/2016 18:02,27/01/2027 18:02,05/10/2026 17:09
-5b5e7046-3bc2-441d-8089-8c8a040dad1a,engineering.ngo,premium,65,32.5,high,low,11,namecheap,,,05/10/2026 19:09
-ab5edd02-003a-41a4-bf4d-1ee097372eed,building.sex,available,51.95,98.53,high,low,8,spaceship,,,29/09/2026 05:13
-87cb0b60-989e-45aa-9c83-77e0ac1799db,design.golf,resell,,,high,medium,6,Dynadot Inc,21/09/2026 17:00,21/09/2027 17:00,02/10/2026 13:14
-1ba6d8cb-d146-4ecf-a334-02b0d41819d2,engineering.xxx,available,51.95,98.53,high,low,11,spaceship,,,05/10/2026 19:09
-49938bc2-3a1e-46a6-b8da-bb155284d1f9,architecture.beer,available,25.2,25.2,high,low,12,cloudflare,,,05/10/2026 17:09
-b3dca30e-b704-4bcd-b816-c0fe997ace5f,structure.online,premium,5000.2,5458.82,high,low,9,unstoppable,,,05/10/2026 18:22
-ae4e15eb-dca0-4e94-8faf-43d9ff76449c,structure.fast,premium,53.92,53.92,high,low,9,namesilo,,,05/10/2026 18:22
-fb335651-b72b-4aec-a8d4-28581719c5b8,architecture.kim,available,12.99,23.49,high,low,12,namesilo,,,05/10/2026 17:09
-a2f198dd-a45e-4d31-9b7e-f1603e512642,builder.us,resell,,,high,low,7,"GoDaddy.com, LLC",24/04/2002 14:05,23/04/2027 23:59,29/09/2026 05:12
-57ab9df7-e41d-4cab-a822-072cbaa59f7a,structure.immo,available,28.15,28.15,high,low,9,spaceship,,,05/10/2026 18:22
-76b12d1a-f076-4671-8df2-f4f4fb61db64,design.cheap,resell,,,high,medium,6,Dynadot Inc,15/08/2026 17:00,15/08/2027 17:00,02/10/2026 13:14
-63e3c370-d8f2-4a60-8dfa-036ac5414794,building.travel,available,115.2,115.2,high,low,8,cloudflare,,,29/09/2026 05:13
-793c1882-09cc-4b90-aa4c-6c9f16779063,contractor.engineering,available,10.48,85.98,high,low,10,namecheap,,,24/09/2026 17:45
-5833ef90-846e-4b41-ab69-702cdd378908,carpentry.build,premium,3105.2,3105.2,high,low,9,spaceship,,,02/10/2026 14:35
-26d2c71c-2854-4d7f-bf32-e18ab68a8786,design.mortgage,premium,207.2,207.2,high,medium,6,spaceship,,,02/10/2026 13:14
-9c703289-d063-4c52-81d5-82d74185f73d,architecture.fitness,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",16/04/2026 22:10,16/04/2027 22:10,05/10/2026 17:09
-a93d897b-6099-4ad4-be62-791d3c50b534,structure.fail,available,38.99,38.99,high,low,9,namesilo,,,05/10/2026 18:22
-4bcaf10f-f179-4296-b987-ff9cd697b4e0,engineering.delivery,available,6.5,49.88,high,low,11,unstoppable,,,05/10/2026 19:09
-e7b1577d-cc5b-42b2-8485-6244c1122056,architecture.stream,premium,385,55,high,low,12,dynadot,,,05/10/2026 17:09
-f68733f3-4660-4d7c-8ee2-e9616b21e619,builder.travel,available,27.99,149.99,high,low,7,namesilo,,,29/09/2026 05:12
-5f22952b-f61c-46db-b233-1299fc5a0aee,structure.bid,premium,1300,130,high,low,9,namecheap,,,05/10/2026 18:22
-2699a6df-e4f0-4e82-a45d-f7d5d954ce3a,architecture.art,premium,3450,83.3,high,low,12,namesilo,,,05/10/2026 17:09
-69cb6023-121e-41fd-a9e2-706629a3782e,builder.condos,available,58.99,58.99,high,low,7,namesilo,,,29/09/2026 05:12
-547851f1-8874-411c-a87a-512d2081defd,building.kids,premium,330,19.48,high,low,8,dynadot,,,29/09/2026 05:13
-c13db32c-4deb-44d0-b14e-24bbd61e08cf,construct.co,resell,,,high,low,9,Dynadot Inc,18/09/2011 17:50,17/09/2028 23:59,26/09/2026 05:12
-31390dec-7b95-467e-bf52-6938cb387fcb,builder.makeup,available,1.8,21.98,high,low,7,namecheap,,,29/09/2026 05:12
-9fb27f17-a6ac-467a-a35a-d83b0ab4e82f,architecture.accountants,available,122.98,145.98,high,low,12,namecheap,,,05/10/2026 17:09
-0faee2b8-04f3-4c31-b641-0d2344b0f52f,builder.golf,available,6.98,83.98,high,low,7,namecheap,,,29/09/2026 05:12
-8e4c2acf-ebe1-483d-b79b-5276dcbe6f06,building.gratis,available,19.05,19.05,high,low,8,porkbun,,,29/09/2026 05:13
-5123b37a-c599-4ada-aa61-9506b51caeae,engineering.website,premium,1107,1107,high,low,11,namesilo,,,05/10/2026 19:09
-4bf0f876-b87c-4d42-bde5-98f91f58dcde,design.email,resell,,,high,medium,6,"Sav.com, LLC - 4",06/12/2023 15:15,06/12/2026 15:15,02/10/2026 13:14
-afd0de1e-2afe-4aa6-8f93-7e10399c773e,engineering.xyz,premium,2587.7,2587.7,high,low,11,spaceship,,,05/10/2026 19:09
-479e1fea-9c52-44d6-aaaa-9dbe243801b4,building.republican,available,5.38,26,high,low,8,spaceship,,,29/09/2026 05:13
-73000ff7-887a-4b08-8941-c5f680c6bdfc,engineering.reviews,premium,118.8,118.8,high,low,11,namesilo,,,05/10/2026 19:09
-63a02d02-7041-47af-b811-d7772b0c2ebc,building.capital,resell,,,high,low,8,Epik LLC,29/12/2019 09:16,29/12/2026 09:16,29/09/2026 05:13
-1133ccc4-42af-45d6-b266-1e56c97ade53,building.contact,available,14.99,14.99,high,low,8,namesilo,,,29/09/2026 05:13
-f07c0a9c-f6bf-4dcc-b82c-ebb9d791eddd,structure.life,resell,,,high,low,9,Xin Net Technology Corporation,09/09/2021 17:00,09/09/2027 17:00,05/10/2026 18:22
-a5741e8a-8709-436c-9b28-4495ab293bb9,building.london,premium,109.81,27.61,high,low,8,spaceship,,,29/09/2026 05:13
-d6ff4102-3412-4c30-9955-b8c667f831df,architecture.webcam,premium,550,71.5,high,low,12,dynadot,,,05/10/2026 17:09
-603d9bcc-6f51-47d8-852d-e969305ea7b7,builder.kids,premium,384,21.24,high,low,7,namesilo,,,29/09/2026 05:12
-397d40e8-0d8a-4742-a4fe-2596394ea75b,building.graphics,available,22.98,31.98,high,low,8,namecheap,,,29/09/2026 05:13
-ebb0ac04-c79e-456b-a513-e24253bb3525,structure.coffee,available,16.99,42.99,high,low,9,namesilo,,,05/10/2026 18:22
-c46c3cb2-4f32-4c90-a83e-8ccb6a523d4c,structure.travel,available,115.2,115.2,high,low,9,cloudflare,,,05/10/2026 18:22
-23dca383-1b08-4a0d-9f9e-ad499110236c,design.reisen,premium,23.6,23.6,high,medium,6,namesilo,,,02/10/2026 13:14
-b3def053-9fb0-448a-83ee-7f494a7a02f2,builder.airforce,available,83,83,high,low,7,spaceship,,,29/09/2026 05:12
-cdc7f1f9-c8f8-4a8f-9ea1-3cd29a049ada,builders.engineer,available,40.98,52.98,high,low,8,namecheap,,,01/10/2026 18:19
-ec49718a-1892-4998-bb19-af130501ccff,structure.boo,premium,133.72,133.72,high,low,9,spaceship,,,05/10/2026 18:22
-15e47cdb-5b16-4659-88f6-d2282a0fc6f0,architecture.charity,available,14.99,23.99,high,low,12,namesilo,,,05/10/2026 17:09
-f1548418-daf8-4217-95a6-3f2a42e13873,structure.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,05/10/2026 18:22
-dcf95ad1-b779-465c-9d4e-986470e22f38,engineering.style,premium,102.67,102.67,high,low,11,spaceship,,,05/10/2026 19:09
-9839ff86-ad69-4b39-8768-50002dbba151,builder.ltd,resell,,,high,low,7,"Sav.com, LLC - 46",07/09/2024 17:00,07/09/2027 17:00,29/09/2026 05:12
-b8163033-0384-4a74-9994-d2a3023821cb,structure.channel,premium,133.72,133.72,high,low,9,spaceship,,,05/10/2026 18:22
-811acb91-215a-4490-a4d4-1e695a1cf9c9,build.immo,premium,118.8,118.8,high,medium,5,namesilo,,,24/09/2026 06:26
-852eaf07-2845-49bc-b425-38edee2635c7,architecture.navy,available,32.2,32.2,high,low,12,cloudflare,,,05/10/2026 17:09
-d0b555fd-d891-4fe6-9b92-c3950d7b6e0a,contract.construction,available,38.99,38.99,high,low,8,namesilo,,,03/09/2026 13:23
-fa9bc08c-ed6d-4082-9a28-224e5b5f2fd1,building.christmas,available,34.99,34.99,high,low,8,namesilo,,,29/09/2026 05:13
-c30bc6fa-a00d-4673-b5c0-b2bc872c8bc2,engineering.network,resell,,,high,low,11,Dynadot Inc,16/02/2021 08:40,16/02/2027 08:40,05/10/2026 19:09
-44161410-060c-4686-9ac0-09ccd3cbf652,architecture.cheap,available,5.98,49.98,high,low,12,namecheap,,,05/10/2026 17:09
-bd9177ee-2e67-437d-9115-9b2ae84e17b9,design.adult,premium,,,high,medium,6,,,,02/10/2026 13:14
-8bb9160e-c248-4a77-90c9-674df48eb93a,structure.science,premium,1100,110,high,low,9,dynadot,,,05/10/2026 18:22
-51b5e0ac-6fed-4755-b0c5-4a28f14fd622,design.forsale,premium,242,242,high,medium,6,namesilo,,,02/10/2026 13:14
-9641962c-8da8-467b-9bee-df4938cd1452,building.bayern,available,34.99,34.99,high,low,8,namesilo,,,29/09/2026 05:13
-02013efc-254a-4fc2-af24-04c908169f12,build.review,premium,1300,130,high,medium,5,namecheap,,,24/09/2026 06:26
-02194c20-d3ed-4060-9d29-4d3e73c605cc,building.loan,premium,10917.11,109.69,high,low,8,porkbun,,,29/09/2026 05:13
-df170834-95b8-4616-b936-2164691625f5,building.net,resell,86250,23.99,high,low,8,"GoDaddy.com, LLC",16/07/1995 04:00,15/07/2027 04:00,29/09/2026 05:13
-20b021fc-3f02-442d-8ce7-1f79d4c32c33,design.expert,resell,,,high,medium,6,"Go China Domains, LLC",12/07/2015 16:00,12/07/2027 16:00,02/10/2026 13:14
-7c0e1fd0-05d0-4354-a76f-b866e3919a1b,builder.storage,available,509.99,529.99,high,low,7,namesilo,,,29/09/2026 05:12
-4027e4b6-9993-4114-a9e8-3827d2387154,structure.cricket,premium,455,65,high,low,9,namecheap,,,05/10/2026 18:22
-2a56598c-6590-443f-9da4-79260b6900c1,architecture.talk,resell,,,high,low,12,"Global Domains International, Inc. DBA DomainCostClub.com",12/04/2026 16:24,12/04/2027 16:24,05/10/2026 17:09
-ef388409-d13a-49a6-ae70-7d36a88cc2e8,structure.now,resell,,,high,low,9,Dynadot Inc,15/07/2025 23:28,15/07/2027 23:28,05/10/2026 18:22
-3de27b17-e77d-4814-b85b-12b6f0bd993c,structure.page,premium,165.12,165.12,high,low,9,namesilo,,,05/10/2026 18:22
-093ed368-e7cd-4893-9471-b140caffbd73,engineering.holiday,available,64.99,64.99,high,low,11,namesilo,,,05/10/2026 19:09
-a6703df5-2aa1-41b4-9815-c3f781e28e89,design.day,premium,1034.17,1034.17,high,medium,6,spaceship,,,02/10/2026 13:14
-20dce466-8e82-40ef-83ec-ff2066923639,building.racing,available,11.99,11.99,high,low,8,namesilo,,,29/09/2026 05:13
-5d2f971f-16ff-46aa-8c8b-4c72fc0982a7,design.charity,premium,242,242,high,medium,6,namesilo,,,02/10/2026 13:14
-a233d0b1-fdbb-4a04-baa9-81a30b1709bc,builder.phd,premium,843.7,843.7,high,low,7,namecheap,,,29/09/2026 05:12
-0dc0fed4-2bc0-4bb6-b6ce-83a7131868ff,builder.tienda,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 05:12
-814ea23e-b6aa-48d2-bfcd-6b8c57f46258,engineering.science,premium,550,71.5,high,low,11,dynadot,,,05/10/2026 19:09
-53dd64c8-646e-4d51-abb1-80bdbceaf175,infrastructure.online,premium,1107,1107,high,high,14,namesilo,,,05/10/2026 02:17
-2b98f453-ceb7-4838-90af-79e479122879,structure.creditcard,available,5.57,133.52,high,low,9,dynadot,,,05/10/2026 18:22
-7e3feed8-43d5-4015-8f71-eb59d32d6064,contractor.parts,available,12.99,41.99,high,low,10,namesilo,,,24/09/2026 17:45
-d73069fd-d34f-47a6-9eed-e754ae08e4fe,builder.pizza,available,17.99,64.99,high,low,7,namesilo,,,29/09/2026 05:12
-4a816c22-7f95-4ff3-94c5-8ceb2699b28f,design.deals,premium,242,242,high,medium,6,namesilo,,,02/10/2026 13:14
-815e921a-f1fa-4f6d-b099-7afeb31b8992,design.academy,resell,,,high,medium,6,"eNom, LLC",19/03/2014 06:03,19/03/2027 06:03,02/10/2026 13:14
-0d8d8b69-92c3-4ab2-8bca-175962e11719,builder.auto,available,2060.25,2064.19,high,low,7,porkbun,,,29/09/2026 05:12
-084b44fd-f9e9-4807-be91-382d50463a4b,architecture.deals,available,31.25,31.25,high,low,12,spaceship,,,05/10/2026 17:09
-51afbb29-9ff6-474a-b46e-57c740744af5,structure.camp,available,49.88,49.88,high,low,9,spaceship,,,05/10/2026 18:22
-02ee7aaf-aca8-4bc9-a7ee-82d6d34f3aea,building.organic,available,17.99,85.99,high,low,8,namesilo,,,29/09/2026 05:13
-7d907126-55be-4d90-b27a-d11d7ced9913,design.creditcard,premium,520,520,high,medium,6,namecheap,,,02/10/2026 13:14
-2754b512-ae53-46ec-85e6-ea7315ff0c50,contractor.industries,available,45.99,45.99,high,low,10,namesilo,,,24/09/2026 17:45
-9ff5e55b-7b89-4bf7-b383-7c05b36cd129,building.dental,available,81.98,100.98,high,low,8,namecheap,,,29/09/2026 05:13
-701d0afe-8abd-493b-a3ff-8ee09d677d59,builder.vip,resell,,,high,low,7,Porkbun,22/05/2016 02:14,22/05/2027 02:14,29/09/2026 05:12
-0f05a8f0-d1bd-4f5e-ac7d-1ae809df0851,building.partners,premium,99.5,128.7,high,low,8,unstoppable,,,29/09/2026 05:13
-cfaa3c4a-7631-4e97-8ca8-1f7b18855c78,architecture.promo,available,19.2,19.2,high,low,12,cloudflare,,,05/10/2026 17:09
-9e3354e1-0430-45b6-b67e-29dc7536f24d,construct.xyz,resell,,,high,low,9,Dynadot Inc,18/08/2017 14:18,18/08/2030 23:59,26/09/2026 05:13
-d2d40a84-c4dc-4e7f-94a3-5972cab7f7c8,architecture.democrat,available,5.38,26.08,high,low,12,spaceship,,,05/10/2026 17:09
-86550490-4ff0-4dd7-ac6b-1dd5af683587,structure.club,premium,29.5,17.7,high,low,9,namesilo,,,05/10/2026 18:22
-c8b9ccce-2d0a-4486-8ae3-99c6d72e013c,engineering.solar,premium,207.2,414.2,high,low,11,spaceship,,,05/10/2026 19:09
-fa890f58-b1e5-4eaf-895a-717224c009c0,design.video,premium,1107,1107,high,medium,6,namesilo,,,02/10/2026 13:14
-5a4f92d1-0ad9-4787-ac90-64a49edb69cc,engineering.vin,available,6.41,47.81,high,low,11,spaceship,,,05/10/2026 19:09
-8b4fe6b9-32cc-4b00-b215-afce6d5a3532,engineer.kitchen,premium,400.5,512,high,low,8,unstoppable,,,03/10/2026 22:54
-54f529dc-d3f5-45b2-a58d-478a46656393,structure.lifestyle,premium,362.45,517.7,high,low,9,spaceship,,,05/10/2026 18:22
-4b7047f5-71cd-4ad4-aff3-902d1d951c77,builder.hiv,available,195.99,195.99,high,low,7,namesilo,,,29/09/2026 05:12
-150855e5-a3f9-45a8-8f8f-6cf5402a2841,builder.sucks,premium,2658.67,2658.67,high,low,7,namesilo,,,29/09/2026 05:12
-952548a6-9894-492c-9e01-de581576c478,structure.video,available,4.34,29.18,high,low,9,spaceship,,,05/10/2026 18:22
-73361ff1-4447-491c-a8b1-243cb56ffb1e,engineering.accountant,available,20.18,20.18,high,low,11,cloudflare,,,05/10/2026 19:09
-33253dd0-78b8-4f4e-84cc-82f41647bbc4,build.villas,premium,242,242,high,medium,5,namesilo,,,24/09/2026 06:26
-a529a91a-769d-4381-8bce-41f3a42cf26b,structure.law,available,85.82,85.82,high,low,9,dynadot,,,05/10/2026 18:22
-de72a23c-0027-44b3-a968-f16d37a6b20b,building.report,premium,1040,1040,high,low,8,namecheap,,,29/09/2026 05:13
-b6f06eaa-b7c3-40a5-a9dd-cac89ede102b,builder.im,resell,,,high,low,7,,,,29/09/2026 05:12
-2c99bd6a-56f8-455e-978a-6efb19c53005,structure.football,available,20.2,20.2,high,low,9,cloudflare,,,05/10/2026 18:22
-783b46da-53d8-4e02-a466-0a1597ad20ad,design.attorney,premium,4140,4140,high,medium,6,namesilo,,,02/10/2026 13:14
-0dff8203-fda1-4ddc-ad85-967a9c4b8e61,engineering.rich,available,94.99,1999,high,low,11,namesilo,,,05/10/2026 19:09
-818be5b4-b791-48f8-8a29-f10181d92bc6,build.cab,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",03/06/2026 14:12,03/06/2027 14:12,26/09/2026 04:39
-334fe128-26e3-481d-8665-849521024960,engineering.how,premium,40.57,40.57,high,low,11,spaceship,,,05/10/2026 19:09
-3a59a873-9676-4cb6-85bc-1bf0946b65ea,build.degree,available,52.99,52.99,high,medium,5,namesilo,,,24/09/2026 06:26
-5e317534-67e1-4cf8-9713-abf29b27dfe2,engineering.market,premium,242,242,high,low,11,namesilo,,,05/10/2026 19:09
-6879d42c-f092-424b-a15f-84c0e15d64fb,build.hiv,available,195.99,195.99,high,medium,5,namesilo,,,24/09/2026 06:26
-9ddef3d3-5762-4a1a-b6c3-c806bab465d6,building.mortgage,premium,520,520,high,low,8,namecheap,,,29/09/2026 05:13
-71233488-b9da-40c6-bbf6-de0fb5b73ab6,architecture.fund,available,11.98,92.98,high,low,12,namecheap,,,05/10/2026 17:09
-af6bff54-e2e6-44fa-bcb0-f111c53e38ca,architecture.mobile,premium,330,330,high,low,12,dynadot,,,05/10/2026 17:09
-1c61da25-be55-47a1-9b39-90b82e4d085a,building.hiv,available,195.99,195.99,high,low,8,namesilo,,,29/09/2026 05:13
-cdf4c879-cb3f-4ab9-b4d1-ea21831a17ac,structure.motorcycles,available,1.99,17.29,high,low,9,namesilo,,,05/10/2026 18:22
-1a1c3975-c128-48a7-b925-2199ca7310e7,contractor.cab,available,32.99,32.99,high,low,10,namesilo,,,24/09/2026 17:45
-8dfea01f-e5d9-4235-8e3e-1691fa6250eb,architecture.markets,available,5.57,16.27,high,low,12,dynadot,,,05/10/2026 17:09
-8eae1236-6e76-4d0c-875a-1f9c0e156a94,architecture.consulting,premium,200.5,242,high,low,12,unstoppable,,,05/10/2026 17:09
-2c1c225c-47fc-4565-93ee-da8e63ff2d57,development.global,premium,4140.2,51.95,high,low,11,spaceship,,,05/10/2026 05:37
-4811e234-d367-45a9-8038-b2ad52fe16c3,engineer.network,resell,23.1,46.2,high,low,8,Dynadot Inc,20/06/2026 19:17,20/06/2027 19:17,03/10/2026 22:54
-c8681e6a-020f-4349-9431-850890f26acd,engineering.icu,premium,59.71,119.23,high,low,11,spaceship,,,05/10/2026 19:09
-21faee9e-5ddd-43cd-894a-dea74ce1a2ba,building.boutique,available,25.2,25.2,high,low,8,cloudflare,,,29/09/2026 05:13
-259fabc9-8b2d-44ff-8a08-b631b204d3f4,contractor.hair,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 17:45
-e1d027a4-7836-499d-ad91-2d6199f6a612,building.wine,available,46.2,46.2,high,low,8,cloudflare,,,29/09/2026 05:13
-c50197e8-7812-417f-82cb-0af26a7b6ec8,builder.online,premium,3125,,high,low,7,name.com,,,29/09/2026 05:12
-fd5105c3-903f-4908-bf4d-6363384e2ead,builder.games,resell,,,high,low,7,"DNSPod, Inc.",26/05/2022 13:52,26/05/2027 13:52,29/09/2026 05:12
-3282e787-12b5-4292-a882-fc720705fbe7,structure.ai,resell,,,high,low,9,Deep Vision Architects,16/12/2017 01:23,18/01/2027 01:23,05/10/2026 18:22
-462c7535-9963-47ac-99ea-1956bb09ec26,engineering.boutique,available,5.99,32.99,high,low,11,namesilo,,,05/10/2026 19:09
-514f7f70-6410-4de2-beca-ceb787d02fb8,build.irish,available,5.98,31.98,high,medium,5,namecheap,,,24/09/2026 06:26
-94ab3e7f-0760-4293-8f91-fd73ce1f1d8b,builder.fun,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),19/01/2024 02:41,19/01/2027 23:59,29/09/2026 05:12
-edf9f07d-38b0-4bd8-9055-7d1b227cd8e6,contractor.luxury,available,,,high,low,10,,,,24/09/2026 17:45
-569626a3-3e02-49e5-871f-cde96fea0e89,structure.men,premium,448,53.92,high,low,9,namesilo,,,05/10/2026 18:22
-84880437-57e3-479c-8d34-32e97a23480a,building.hiphop,available,27,23.99,high,low,8,unstoppable,,,29/09/2026 05:13
-38c0116e-439e-4133-ae05-f3e5c24f2c6e,contractor.kiwi,premium,202.8,202.8,high,low,10,namecheap,,,24/09/2026 17:45
-76d4cfb6-5728-480d-a1f7-fa7349fe47f4,engineering.gift,available,14.99,14.99,high,low,11,namesilo,,,05/10/2026 19:09
-da1ef16b-70d2-4dc5-8d0d-68f663547e55,structure.memorial,available,52.99,52.99,high,low,9,namesilo,,,05/10/2026 18:22
-1af9f304-d7af-4717-b62d-6be18706c0d7,engineering.cricket,available,23.59,23.59,high,low,11,namesilo,,,05/10/2026 19:09
-84d6a0c8-c99e-4866-861b-378f76129dd7,builder.gg,resell,,,high,low,7,GoDaddy.com LLC (https://www.godaddy.com),,,29/09/2026 05:12
-cb619094-d8c4-4c04-8998-62fefd73f40f,design.hiv,available,191.75,191.75,high,medium,6,dynadot,,,02/10/2026 13:14
+b65e73e6-3078-4181-966c-c195ffbc470d,build.lifestyle,premium,1820,2600,high,medium,5,namecheap,,,24/09/2026 06:26
+9163d73b-1b42-4d3b-bc4f-cec073368126,structure.cfd,premium,59.71,119.23,high,low,9,spaceship,,,05/10/2026 18:22
