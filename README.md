@@ -1,10 +1,10 @@
-# One-Word Construction Domain Names (124,031)
+# One-Word Construction Domain Names (123,966)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-124%2C031%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-123%2C966%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 155,845 one-word construction-related domain names across 506 TLDs, with a median asking price near $698. Updated daily, it offers a concrete snapshot of pricing and TLD coverage for evaluating options in this niche.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **124,031 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **123,966 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 124,031 domains · **Median ask:** $272.28 · **High-demand under $2,500:** 4,050
+**Public extract:** 1,000 rows · **Live catalog:** 123,966 domains · **Median ask:** $272.48 · **High-demand under $2,500:** 4,062
 
 **Last updated:** 2026-10-30
 **Canonical page:** `https://unique.domains/domains/sector/construction`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                          |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| building.faith     | premium   | $6,900     | $116          | high           | medium | 8      | namesilo                                           |
-| build.sarl         | available | $5.38      | $5.38         | high           | high   | 5      | spaceship                                          |
-| builder.love       | resell    | $9.99      | $28.99        | high           | medium | 7      | Chengdu West Dimension Digital Technology Co., LTD |
-| build.lawyer       | premium   | $118.80    | $118.80       | high           | high   | 5      | namesilo                                           |
-| design.auto        | available | $1,863.20  | $2,064.20     | high           | high   | 6      | spaceship                                          |
-| building.me        | resell    | $28,621.20 | $27.99        | high           | medium | 8      | Spaceship, Inc.                                    |
-| build.racing       | premium   | $130       | $130          | high           | high   | 5      | namecheap                                          |
-| design.cars        | available | $2,060.25  | $2,064.19     | high           | high   | 6      | porkbun                                            |
-| building.net       | resell    | $86,250    | $23.99        | high           | medium | 8      | GoDaddy.com, LLC                                   |
-| build.uno          | premium   | $1,035.20  | $1,035.20     | high           | high   | 5      | spaceship                                          |
-| design.immobilien  | available | $37.99     | $37.99        | high           | high   | 6      | namesilo                                           |
-| building.pw        | resell    | $3.99      | $24.49        | high           | medium | 8      | GoDaddy.com, LLC                                   |
-| design.army        | premium   | $218.80    | $437.19       | high           | high   | 6      | porkbun                                            |
-| design.investments | available | $12        | $103.70       | high           | high   | 6      | unstoppable                                        |
-| construction.farm  | resell    | $49.98     | —             | high           | low    | 12     | Spaceship, Inc.                                    |
-| design.auction     | premium   | $1,100     | $1,100        | high           | high   | 6      | dynadot                                            |
-| design.organic     | available | $17.99     | $85.99        | high           | high   | 6      | namesilo                                           |
-| construction.now   | resell    | $650       | $650          | high           | low    | 12     | namecheap                                          |
-| design.channel     | premium   | $1,034.17  | $1,034.17     | high           | high   | 6      | spaceship                                          |
-| builder.black      | available | $26.50     | $51.95        | high           | medium | 7      | unstoppable                                        |
+| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| design.claims       | available | $17.99     | $64.99        | high           | high   | 6      | namesilo         |
+| builder.motorcycles | resell    | $1.99      | $15.75        | high           | medium | 7      | Spaceship, Inc.  |
+| build.mom           | premium   | $672.95    | $672.95       | high           | high   | 5      | spaceship        |
+| design.viajes       | available | $35.20     | $35.20        | high           | high   | 6      | cloudflare       |
+| builder.rent        | resell    | $17.99     | $59.99        | high           | medium | 7      | GoDaddy.com, LLC |
+| build.toys          | premium   | $260       | $260          | high           | high   | 5      | namecheap        |
+| builder.accountants | available | $135.48    | $160.98       | high           | medium | 7      | namecheap        |
+| building.me         | resell    | $28,621.20 | $27.99        | high           | medium | 8      | Spaceship, Inc.  |
+| design.boo          | premium   | $999.20    | $1,298.70     | high           | high   | 6      | unstoppable      |
+| builder.airforce    | available | $103.99    | $103.99       | high           | medium | 7      | namesilo         |
+| building.net        | resell    | $86,250    | $23.99        | high           | medium | 8      | GoDaddy.com, LLC |
+| design.charity      | premium   | $207.20    | $207.20       | high           | high   | 6      | spaceship        |
+| builder.archi       | available | $18.50     | $103.99       | high           | medium | 7      | unstoppable      |
+| building.pw         | resell    | $3.99      | $24.49        | high           | medium | 8      | GoDaddy.com, LLC |
+| design.creditcard   | premium   | $414.20    | $414.20       | high           | high   | 6      | spaceship        |
+| builder.band        | available | $15.73     | $25.04        | high           | medium | 7      | spaceship        |
+| construction.farm   | resell    | $49.98     | —             | high           | low    | 12     | Spaceship, Inc.  |
+| design.day          | premium   | $1,034.17  | $1,034.17     | high           | high   | 6      | spaceship        |
+| builder.camera      | available | $45.20     | $45.20        | high           | medium | 7      | cloudflare       |
+| construction.now    | resell    | $650       | $650          | high           | low    | 12     | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 124,031 live domains                                 |
+| 1,000-row public sample | 123,966 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 4,050 high-demand names under $2,500                 |
+| Basic exported fields   | 4,062 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
